@@ -1,0 +1,100 @@
+orden	order; sequence (m), religious (f)	nmf
+don	courtesy title (m), Mr., gift	nm
+semana	week	nf
+suponer	to suppose, assume	v
+comprender	to understand [also entender]	v
+al final	finally, in the end	adj
+interés	interest	nm
+siguiente	following, next	adj
+vista	view, sight	nf
+lograr	to get, to manage to (do something)	v
+demás	the rest, others	adj
+de acuerdo	accord: in agreement	nm
+difícil	difficult, hard	adj
+número	number	nm
+explicar	to explain	v
+negro	black	adj
+fondo	background, back, bottom	nm
+camino	road, route, path	nm
+voz	voice	nf
+estudio	study, learning	nm
+necesario	necessary	adj
+preguntar	to ask a question	v
+allá	there, over there	adv
+tocar	to touch, play an instrument	v
+valor	value, worth (n)	nm
+reconocer	to recognize, admit	v
+estudiar	to study	v
+alcanzar	to reach, catch up with	v
+nacer	to be born	v
+dirigir	to direct, manage	v
+correr	to run	v
+medida	measure: to the extent	nf
+menor	younger, youngest	adj
+demasiado	too much, too many	adj
+solamente	only [also únicamente]	adv
+bueno	well (adv)	adv
+utilizar	to use, utilize	v
+centro	center, middle, downtown	nm
+necesidad	necessity, need	nf
+condición	condition	nf
+pagar	to pay	v
+ello	it (subj-n)	pron
+falta	lack, shortage [also carencia]	nf
+ayudar	to help	v
+diez	ten	num
+a través	across, over, through	adv
+antiguo	old, ancient, former	adj
+tu	your (singular familiar)	adj
+edad	age	nf
+estado	state, condition, status	nm
+ser	being (nm)	v
+gustar	to be pleasing to	v
+puerta	door	nf
+jugar	to play (sport/game)	v
+cara	face, expression	nf
+mí	me (pron)	pron
+época	time, age, period	nf
+color	color	nm
+escuchar	to listen to	v
+experiencia	experience	nf
+movimiento	movement	nm
+cumplir	to fulfill	v
+especial	special	adj
+diferente	different, separate	adj
+pesar	sorrow (nm)	nm
+posibilidad	possibility	nf
+ofrecer	to offer, present	v
+descubrir	to discover	v
+anterior	previous, preceding	adj
+juego	game, play, sport	nm
+levantar	to raise, lift	v
+pobre	poor	adj
+aire	air, wind, appearance	nm
+seis	six	num
+intentar	to try, attempt	v
+guerra	war, warfare	nf
+junto	together with, next to (adv)	adj
+resultado	result, outcome	nm
+usar	to use	v
+decidir	to decide	v
+repetir	to repeat	v
+olvidar	to forget	v
+ley	law, bill, rule	nf
+aspecto	aspect, appearance	nm
+pie	foot, base	nm
+valer	to be worth, cost	v
+especie	kind, sort, species	nf
+comer	to eat	v
+servicio	service, helpfulness	nm
+cerca	close, near	adv
+mostrar	to show	v
+actividad	activity, action	nf
+tercero	third	adj
+cuál	which?	pron
+pronto	soon, quick	adv
+ocupar	to occupy, use	v
+cuestión	question, matter	nf
+duda	doubt	nf
+diferencia	difference	nf
+mañana	morning, tomorrow (nf)	adv

@@ -1,0 +1,100 @@
+género	sort, gender, genre	nm
+continuo	continuous	adj
+distribuir	to distribute, deliver	v
+economía	economy, economics, thriftiness	nf
+apartar	to move away, separate	v
+bosque	forest	nm
+reclamar	to demand, require	v
+paisaje	landscape	nm
+quemar	to burn	v
+llamado	call, calling	nm
+paciente	patient	nc
+elevado	elevated, high, lofty	adj
+obedecer	to obey	v
+tensión	tension, stress, strain	nf
+establecido	established	adj
+local	local (adj)	adj
+satisfacer	to satisfy	v
+concebir	to conceive, understand	v
+ministro	government secretary, minister	nm/f
+impulso	impulse, momentum	nm
+reaccionar	to react	v
+comercio	commerce, trade	nm
+naturalmente	naturally	adv
+acusar	to accuse	v
+espera	wait	nf
+gastar	to spend money	v
+reserva	reservation, reserve	nf
+regalar	to give as a gift	v
+competencia	competition, contest	nf
+quejar	to complain	v
+penetrar	to penetrate	v
+vacío	empty, vacant (adj)	adj
+aislado	isolated	adj
+rendir	to yield, to produce	v
+observación	observation	nf
+registrar	to register, record [also inscribir]	v
+limpiar	to clean	v
+vacío	emptiness, void (nm)	nm
+atribuir	to attribute	v
+cifra	figure, number, amount	nf
+ocultar	to hide	v
+escala	scale, ladder, rank	nf
+enterar	to find out [se]	v
+procedimiento	procedure, proceedings	nm
+ajustar	to adjust, tighten	v
+fórmula	formula	nf
+ámbito	sphere, space	nm
+informe	report	nm
+dimensión	dimension, size	nf
+cliente	client, customer	nc
+manifestación	protest, manifestation	nf
+aspirar	to aspire, want	v
+y pico	and a bit	nm
+sensibilidad	sensitivity	nf
+recurrir	to resort to	v
+múltiple	multiple, many	adj
+regreso	return [also retorno]	nm
+temperatura	temperature	nf
+julio	July	nm
+poderoso	powerful	adj
+digno	worthy	adj
+bomba	bomb, explosion, pump	nf
+órgano	organ	nm
+inútil	useless	adj
+avance	advance, progress [also adelanto]	nm
+humanidad	humanity, mankind	nf
+firma	company, signature, signing	nf
+soldado	soldier	nm/f
+sólido	solid, strong	adj
+firme	firm, steady	adj
+extremo	extreme (adj)	nm
+conforme	in agreement	adj
+esencial	essential	adj
+huir	to flee, run away	v
+percibir	to notice [also notar]	v
+clima	climate	nm
+emoción	emotion, excitement	nf
+automóvil	automobile	nm
+transcurrir	to occur, pass	v
+mal	evil (nm)	nm
+recomendar	to recommend	v
+habilidad	ability, skill, talent	nf
+identidad	identity	nf
+desgracia	misfortune, bad luck	nf
+corregir	to correct, rectify	v
+amarillo	yellow	adj
+consultar	to consult	v
+deber	duty, obligation (nm)	v
+cola	line, queue, tail	nf
+padecer	to suffer	v
+progreso	progress	nm
+elaborar	to make, develop	v
+soñar	to dream	v
+muestra	proof, sample, sign	nf
+acostumbrado	accustomed	adj
+hábito	habit	nm
+gritar	to shout	v
+artístico	artistic	adj
+mecanismo	mechanism	nm
+vivienda	housing, dwelling	nf

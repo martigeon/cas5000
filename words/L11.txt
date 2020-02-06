@@ -1,0 +1,100 @@
+parar	to stop moving	v
+doble	double (adj)	adj
+devolver	to give back, to return something [also retornar]	v
+ejercer	to practice, exercise	v
+poseer	to possess, own	v
+proteger	to protect	v
+causar	to cause, bring about	v
+rápidamente	rapidly, quickly	adv
+determinar	to determine, decide	v
+fuerte	strong	adj
+escritor	writer	nm/f
+intento	attempt, try	nm
+cobrar	to charge money	v
+regla	rule, ruler, regulation	nf
+dividir	to divide	v
+riesgo	risk	nm
+policía	police, police force, police officer	nc
+inventar	to invent, make up	v
+estudiante	student	nc
+plaza	square, marketplace	nf
+limitar	to limit	v
+llamada	call, knock	nf
+sensación	sensation, feeling	nf
+enemigo	enemy	nm
+unidad	unit, unity	nf
+luchar	to fight, wrestle	v
+idioma	language	nm
+raíz	root	nf
+compromiso	compromise, engagement	nm
+comentario	remark, comment	nm
+carga	load, charge, cargo	nf
+marido	husband	nm
+quince	fifteen	num
+constante	constant	adj
+derecha	right, right hand	nf
+extremo	edge, border, end (nm)	adj
+individuo	individual, person	nm
+contenido	contents, content	nm
+semejante	similar, such, alike	adj
+obligación	obligation	nf
+corte	court (f), cut (m)	nmf
+extranjero	foreign, alien (adj)	adj
+total	sum, total (nm)	nm
+acudir	to attend, go to, frequent	v
+daño	harm, injury, damage	nm
+tarde	late (adv)	nf
+mensaje	message	nm
+analizar	to analyze	v
+lista	list, roster, roll	nf
+región	region	nf
+evidente	evident, obvious	adj
+niña	child, young girl	nf
+culpa	blame, fault	nf
+encargar	to entrust, [se] take charge of	v
+discusión	discussion, argument	nf
+pelo	hair&nbsp;[also cabello]	nm
+destinar	to assign, appoint	v
+comparar	to compare	v
+celebrar	to celebrate	v
+fe	faith	nf
+fijo	fixed, steady	adj
+central	central (adj)	adj
+referencia	reference, allusion	nf
+sur	south	nm
+gesto	gesture	nm
+perspectiva	perspective	nf
+preparado	prepared	adj
+sonar	to sound, ring	v
+manifestar	to express, show	v
+controlar	to control	v
+saltar	to jump, leap, hop	v
+acaso	by chance, maybe	adv
+colegio	high school, college	nm
+inmenso	immense, vast, huge	adj
+venta	sale	nf
+documento	document	nm
+citar	to cite, quote	v
+televisión	TV, television	nf
+chico	boy&nbsp;[also muchacho]	nm
+novela	novel	nf
+requerir	to require	v
+moral	moral (adj)	adj
+alcance	reach, scope	nm
+curioso	curious, strange	adj
+crisis	crisis	nf
+fundamental	fundamental	adj
+incorporar	to incorporate, include	v
+presente	present, current (adj)	nm
+máximo	maximum (adj)	adj
+literatura	literature	nf
+batalla	battle	nf
+europeo	European	adj
+dueño	owner, landlord (m)	nm
+perseguir	to pursue	v
+vecino	neighbor (nm)	adj
+sector	sector, area, section	nm
+pintura	painting, paint	nf
+accidente	accident, irregularity	nm
+oficial	official, authorized (adj)	adj
+procurar	to try, seek	v

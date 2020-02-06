@@ -1,0 +1,100 @@
+detrás	in the back	adv
+paz	peace	nf
+noticia	news	nf
+circunstancia	circumstance	nf
+dolor	pain, ache, sorrow	nm
+privado	private	adj
+estilo	style	nm
+precio	price, cost, value	nm
+popular	popular	adj
+sentar	to sit down, seat	v
+planta	plant, floor	nf
+personaje	character (e.g. movie)	nm
+famoso	famous, well-known	adj
+éxito	success	nm
+hija	daughter	nf
+merecer	to deserve, be worthy of	v
+edificio	building	nm
+autoridad	authority	nf
+piedra	stone, rock	nf
+incluir	to include	v
+conjunto	group, set	nm
+treinta	thirty	num
+cuánto	how much?	adj
+inmediato	immediate	adj
+suerte	luck, fortune	nf
+cruzar	to cross [also atravesar]	v
+tender	to tend to, lay out	v
+finalmente	finally, at last	adv
+junto	together (adj)	adv
+anunciar	to announce, advertise	v
+espíritu	spirit, ghost	nm
+miembro	member, limb	nm
+directo	direct, straight	adj
+despertar	to wake up, arouse	v
+recurso	resource, recourse, means	nm
+pared	interior wall	nf
+equipo	team, equipment, outfit	nm
+error	error, mistake	nm
+preciso	precise, necessary	adj
+diverso	different, several, diverse	adj
+dificultad	difficulty, obstacle	nf
+comentar	to comment on	v
+publicar	to publish	v
+familiar	familiar, of the family (adj)	adj
+voluntad	will, willpower, intention	nf
+reunión	meeting, reunion	nf
+modelo	model, pattern	nc
+cargar	to load up, carry	v
+fecha	date, day	nf
+participar	to participate	v
+impedir	to prevent, hinder	v
+propósito	intention, purpose	nm
+salvar	to save, rescue	v
+cuidado	care, carefulness	nm
+puesto	job, place, position	nm
+grado	degree, grade	nm
+escapar	to escape	v
+lucha	fight, struggle, wrestle	nf
+tirar	to throw, pull	v
+entero	entire, whole, complete	adj
+jefe	leader, boss, manager	nm/f
+interesante	interesting	adj
+amplio	wide, ample, broad	adj
+contestar	to answer, reply	v
+periódico	newspaper, periodical	nm
+preocupar	to worry	v
+prestar	to lend	v
+par	pair, couple (m)	nmf
+público	public, audience (nm)	nm
+pesar	to weigh (v)	v
+final	final (adj)	nmf
+calidad	quality	nf
+exponer	to expound, expose	v
+civil	civil (adj)	adj
+ciencia	science, knowledge	nf
+tamaño	size, dimension	nm
+mas	but, however	adj
+doctor	doctor	nm/f
+cuadro	painting, picture	nm
+caballo	horse	nm
+responsabilidad	responsibility	nf
+cincuenta	fifty	num
+interno	internal	adj
+detalle	detail	nm
+marcha	march, progress	nf
+nueve	nine	num
+carne	meat, flesh	nf
+jamás	never	adv
+pensamiento	thought, thinking	nm
+viajar	to travel	v
+cargo	position, charge, fee	nm
+separar	to separate	v
+santa	saint (f)	nf
+construcción	construction	nf
+juicio	judgment	nm
+terreno	ground, earth, terrain	nm
+piso	floor, story	nm
+compañía	company	nf
+regresar	to return to a place	v
+texto	text	nm

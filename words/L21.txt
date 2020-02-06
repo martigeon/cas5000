@@ -1,0 +1,100 @@
+salvaje	wild, savage, uncultivated	adj
+marzo	March	nm
+atmósfera	atmosphere, environment	nf
+planeta	planet	nm
+industrial	industrial	adj
+orgullo	pride	nm
+jornada	working day, shift	nf
+desnudo	nude, naked	adj
+querido	dear, beloved	adj
+absurdo	absurd	adj
+dramático	dramatic	adj
+palo	stick, pole	nm
+diseño	design	nm
+liberal	liberal	adj
+lógica	logic	nf
+herencia	inheritance, legacy	nf
+legal	legal	adj
+artificial	artificial	adj
+deporte	sport	nm
+reina	queen	nf
+bandera	flag	nf
+influir	to have influence	v
+maravilla	wonder, marvel	nf
+modesto	modest, humble	adj
+banda	musical band, sash	nf
+cristal	glass, crystal, window	nm
+objetivo	objective, impartial (adj)	nm
+anécdota	anecdote	nf
+universitario	university (adj)	adj
+sensible	sensitive, sentient	adj
+leyenda	legend	nf
+muerto	dead person (nm)	nm
+azúcar	sugar	nm
+multiplicar	to multiply	v
+inclinación	slope, incline, tendency	nf
+formal	formal, polite	adj
+doler	to hurt	v
+primitivo	primitive	adj
+oculto	hidden, occult	adj
+rostro	face, countenance	nm
+separación	separation	nf
+eco	echo, response	nm
+definido	definite	adj
+favorecer	to favor, help	v
+cita	appointment, date, quotation	nf
+actualidad	present time	nf
+externo	external, outward	adj
+escoger	to choose	v
+colgar	to hang up	v
+fantasía	fantasy, fancy	nf
+promesa	promise	nf
+pata	leg, paw	nf
+llover	to rain	v
+foto	photo, picture	nf
+administración	administration	nf
+absorber	to absorb, soak up	v
+civilización	civilization	nf
+organizado	organized	adj
+ocupación	occupation, use	nf
+mero	mere	adj
+asiento	seat, chair	nm
+compuesto	composite, mixed	adj
+imitar	to imitate, copy, mimic	v
+solitario	solitary, lonely	adj
+pista	clue, track, trace	nf
+testimonio	testimony, evidence	nm
+regalo	gift, present	nm
+educar	to educate	v
+comprometer	to compromise	v
+aproximar	to come near, closer	v
+bailar	to dance	v
+inspirar	to inspire, inhale	v
+contradicción	contradiction	nf
+agarrar	to grasp, catch	v
+metal	metal	nm
+aceite	oil	nm
+prolongar	to extend, prolong	v
+código	code	nm
+estricto	strict, rigorous	adj
+doloroso	painful	adj
+unión	union	nf
+extensión	extension, area, expanse	nf
+duro	money (nm)	nm
+adentro	inside	adv
+idéntico	identical	adj
+previsto	foreseen, planned	adj
+adaptar	to adapt	v
+varón	male, man	nm
+situar	to situate, place, locate	v
+característico	characteristic	adj
+evidencia	evidence, certainty	nf
+dignidad	dignity	nf
+escándalo	scandal	nm
+colega	colleague	nc
+horario	schedule, timetable	nm
+orilla	shore, edge	nf
+curar	to cure	v
+copia	copy	nf
+huella	trace, track, footstep	nf
+desempeñar	to carry out, fulfill	v

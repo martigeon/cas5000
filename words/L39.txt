@@ -1,0 +1,100 @@
+vigente	in force, valid	adj
+espectro	ghost, specter	nm
+saludable	healthy, wholesome [also sano]	adj
+recorte	clipping, cutting, trimming	nm
+reglamento	regulations, rules	nm
+apretado	tight, jammed	adj
+vitalidad	vitality, health	nf
+cuidadosamente	carefully	adv
+adaptación	adaptation	nf
+etiqueta	label, etiquette	nf
+obviamente	obviously	adv
+muralla	city wall	nf
+desaparecido	missing	adj
+represión	repression	nf
+reducción	reduction	nf
+difusión	spread, diffusion	nf
+pésimo	dreadful, awful	adj
+encargo	job, order, errand	nm
+madurar	to mature, ripen	v
+almorzar	to have lunch	v
+oeste	West	nm
+albergar	to lodge, harbor	v
+complacer	to please, satisfy	v
+pescador	fisherman	nm/f
+diagnóstico	diagnosis	nm
+cuadra	city block, stable	nf
+remover	to remove, stir	v
+pecar	to sin	v
+rienda	rein, restraint	nf
+crueldad	cruelty, harshness	nf
+acontecer	to happen, come about	v
+ansia	anxiety, anguish	nf_el
+cúpula	cupola, dome	nf
+desbordar	to overflow, spill over	v
+llama	flame, llama	nf
+alegar	to plead, argue	v
+vegetación	vegetation	nf
+lema	motto, slogan	nm
+encarar	to front, confront	v
+bote	small boat	nm
+solar	solar	adj
+inevitablemente	inevitably	adv
+perfume	perfume	nm
+central	headquarters (nf)	nf
+egoísta	selfish	adj
+pertenencia	membership, property	nf
+exótico	exotic	adj
+tranquilizar	to calm down	v
+casita	cottage	nf
+emigrar	to emigrate	v
+alianza	alliance	nf
+físicamente	physically	adv
+fascinante	fascinating	adj
+áspero	rough, coarse, harsh	adj
+desechar	to throw out	v
+ratón	mouse, rat	nm
+hazaña	deed, heroic feat	nf
+dureza	hardness, toughness	nf
+sábana	bed sheet	nf
+revisión	checking revision	nf
+retirada	retreat, withdrawal	nf
+básicamente	basically	adv
+aroma	aroma	nm
+optimismo	optimism	nm
+mate	mate (beverage)	nm
+lujoso	luxurious	adj
+evento	event	nm
+físico	physicist (nm/f)	nm/f
+estrenar	to use for the first time, debut	v
+pasto	grass, pasture	nm
+hostil	hostile, unfriendly	adj
+gallo	rooster	nm
+tropical	tropical	adj
+rendimiento	yield, output, efficiency	nm
+lentitud	slowness	nf
+aula	classroom	nf_el
+incitar	to incite	v
+franco	open, frank, outspoken	adj
+inédito	unpublished	adj
+uniforme	uniform (adj)	nm
+himno	hymn, anthem	nm
+sindicato	trade union	nm
+mariposa	butterfly, wing nut	nf
+propiciar	to favor, foster, aid	v
+fidelidad	faithfulness, accuracy	nf
+retraso	delay	nm
+desplazamiento	movement, removal	nm
+cuestionar	to question	v
+integrante	integral, part of a group	adj
+lingüístico	linguistic	adj
+compatriota	fellow countryman	nc
+mexicano	Mexican	adj
+fundir	to melt, cast, smelt	v
+localidad	town, locality	nf
+reprimir	to repress	v
+autorizado	authorized	adj
+leal	loyal, faithful	adj
+lobo	wolf	nm
+asamblea	assembly	nf
+pañuelo	handkerchief, shawl	nm

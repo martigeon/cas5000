@@ -1,0 +1,100 @@
+frustrado	frustrated	adj
+pausa	pause	nf
+comprometido	committed, engaged	adj
+libremente	freely	adv
+vicio	vice, bad habit, defect	nm
+impuesto	tax	nm
+consiguiente	consequent	adj
+arquitecto	architect	nm/f
+cruce	crossing, intersection	nm
+centrar	to center, focus, base on	v
+convivencia	coexistence, living together	nf
+cable	cable, wiring	nm
+aburrido	boring, bored	adj
+bondad	goodness, kindness	nf
+experimento	experiment	nm
+recto	right, straight, honest	adj
+crónica	account, chronicle	nf
+enseguida	right away, at once	adv
+originar	to give rise to, cause	v
+socialista	socialist	adj
+ahogar	to drown, choke, flood	v
+espléndido	splendid, generous	adj
+esforzar	to make an effort, exert oneself	v
+dictadura	dictatorship	nf
+eficacia	efficiency, effectiveness	nf
+detectar	to detect	v
+vapor	vapor, steam	nm
+bebida	drink, beverage	nf
+autorizar	to authorize, legalize	v
+charla	talk, chat	nf
+gestión	management, step, negotiation	nf
+afrontar	to face, confront	v
+existente	existing	adj
+cartera	wallet, satchel	nf
+inclinado	inclined, slanting	adj
+restar	to subtract, minimize	v
+circulación	circulation, traffic	nf
+denuncia	accusation, complaint, denunciation	nf
+concretar	to specify, materialize, fulfill	v
+picar	to bite, sting, itch, chop	v
+tormenta	storm	nf
+metálico	metallic	adj
+foco	focus	nm
+residencia	residence	nf
+espectacular	spectacular	adj
+jurar	to swear, take an oath	v
+rezar	to pray, recite	v
+cuero	leather, skin	nm
+misterioso	mysterious	adj
+hierba	herb, grass, weed	nf
+obrero	working class (adj)	nm/f
+administrativo	administrative	adj
+manzana	apple, city block	nf
+singular	single, singular	adj
+pedazo	piece, bit	nm
+sabiduría	wisdom, knowledge	nf
+inducir	to lead to, induce	v
+cigarrillo	cigarette	nm
+encantar	to be very pleasing to	v
+crudo	raw, crude, natural	adj
+agotado	tired, used up, sold out	adj
+deportivo	sports, sporty	adj
+magnitud	magnitude, extent	nf
+químico	chemical	adj
+botón	button	nm
+teórico	theoretical	adj
+igualdad	equality	nf
+privar	to deprive of	v
+deducir	to deduce, infer	v
+redactar	to edit, write, compose	v
+noción	notion, idea	nf
+planear	to plan	v
+abrazar	to hug, embrace	v
+tolerar	to tolerate, put up with	v
+semilla	seed	nf
+avenida	avenue	nf
+descartar	to discard, reject, rule out	v
+diablo	devil	nm
+sujetar	to fasten, attach, hold	v
+hueco	hole, cavity (nm)	adj
+colaborador	collaborator	nm
+capricho	caprice, whim	nm
+ciudadano	community, citizen (adj)	nm
+prudente	sensible, prudent	adj
+guitarra	guitar	nf
+agencia	agency, branch	nf
+rabia	rage	nf
+telefónico	telephone	adj
+monumento	monument	nm
+racional	rational	adj
+previamente	previously [also anteriormente]	adv
+trazar	to draw, trace	v
+correspondencia	correspondence, connection	nf
+barro	clay, mud	nm
+fuga	flight, escape	nf
+presionar	to press, pressure	v
+identificación	identification	nf
+contexto	context	nm
+sombrero	hat, sombrero	nm
+reiterar	to reiterate, repeat	v

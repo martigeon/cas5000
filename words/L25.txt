@@ -1,0 +1,100 @@
+estallar	to break out, explode, start	v
+copiar	to copy	v
+inaugurar	to inaugurate, start	v
+apretar	to squeeze, tighten, compress	v
+razonable	reasonable	adj
+ola	wave, billow	nf
+oreja	ear	nf
+abuela	grandmother	nf
+amable	kind, nice, friendly	adj
+doña	courtesy title (f), Mrs.	nf
+rígido	rigid, stiff, firm	adj
+arco	arch, arc, bow	nm
+oriente	East	nm
+rumbo	direction, course, bearing	nm
+ejecución	performance, execution	nf
+mentir	to (tell a) lie	v
+ordenado	organized, clean	adj
+contratar	to hire, contract	v
+caos	chaos	nm
+colonia	colony, cologne	nf
+alcohol	alcohol	nm
+apropiado	appropriate	adj
+nieve	snow	nf
+multitud	multitude	nf
+ganado	livestock, cattle	nm
+pez	fish (alive)	nm
+líder	leader	nc
+resuelto	resolved, determined	adj
+club	club, society	nm
+posteriormente	afterwards	adv
+desierto	desert (nm)	adj
+escritura	writing, scripture	nf
+árabe	Arab	adj
+danza	dance	nf
+concierto	concert, concerto	nm
+partidario	supporter, partisan	nm
+templo	temple, church	nm
+líquido	liquid	nm
+debilidad	weakness	nf
+ambición	ambition	nf
+locura	madness, insanity	nf
+comerciante	merchant, businessman	nc
+camisa	shirt	nf
+pluma	pen, feather	nf
+pelota	ball	nf
+pasaje	fare, passage, lane	nm
+limpieza	cleanliness, purity	nf
+admiración	admiration	nf
+fantasma	ghost, phantom	nm
+transformación	transformation	nf
+caza	hunting (game)	nf
+retener	to keep, retain	v
+cruel	cruel, harsh	adj
+prender	to turn on, apprehend	v
+almacén	warehouse, store	nm
+expectativa	expectation, hope, prospect	nf
+ruptura	break-up, rupture	nf
+inversión	investment, outlay	nf
+visible	visible	adj
+herida	wound, injury	nf
+hipótesis	hypothesis	nf
+formular	to formulate	v
+poquito	little bit	adj
+variado	varied, mixed	adj
+giro	turn, draft, expression	nm
+esquema	outline, diagram, plan	nm
+mito	myth	nm
+oscuridad	darkness	nf
+pensión	pension, boarding house	nf
+desaparición	disappearance	nf
+repetido	repeated	adj
+fumar	to smoke	v
+envuelto	wrapped	adj
+especializar	to specialize, major in	v
+últimamente	lately, recently	adv
+caracterizar	to characterize, portray	v
+paralelo	parallel	adj
+ordinario	vulgar, ordinary	adj
+designar	to designate	v
+bloque	block	nm
+cierre	zipper, closing	nm
+broma	joke	nf
+viernes	Friday	nm
+creciente	growing, increasing	adj
+tumba	tomb, grave	nf
+competir	to compete	v
+despacho	office, study	nm
+viuda	widow	nf
+pantalón	pants, trousers	nm
+intercambio	exchange, interchange	nm
+mancha	stain, spot	nf
+retrato	portrait, photograph	nm
+lata	tin can	nf
+combate	combat, battle, fight	nm
+instancia	application, request	nf
+secar	to dry	v
+roca	rock	nf
+herramienta	tool	nf
+anónimo	anonymous	adj
+panorama	panorama, landscape	nm

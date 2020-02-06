@@ -1,0 +1,100 @@
+orquesta	orchestra, dance band	nf
+conexión	connection, relationship	nf
+alternar	to alternate	v
+vegetal	plant, vegetable (adj)	adj
+usado	worn out, old, used	adj
+vigor	force, strength, vigor	nm
+salario	salary, wages	nm
+acertar	to get right	v
+filo	cutting edge	nm
+ambicioso	ambitious, greedy	adj
+policial	police (adj)	adj
+poético	poetic	adj
+batir	to beat an object	v
+maíz	corn, maize	nm
+desgraciadamente	unfortunately	adv
+satisfactorio	satisfactory	adj
+autonomía	autonomy, range	nf
+vago	vague	adj
+estúpido	stupid, idiotic	adj
+demorar	to delay, take time	v
+ama	housekeeper, housewife	nc
+beso	kiss	nm
+cintura	waist	nf
+automáticamente	automatically	adv
+pauta	guideline, rule, standard	nf
+honesto	honest	adj
+recepción	reception, waiting-room	nf
+bala	bullet, shot	nf
+suicidio	suicide	nm
+placa	plaque, plate, badge	nf
+calmar	to calm, soothe, relieve	v
+brusco	brusque, abrupt, sudden	adj
+asesinato	murder, assassination	nm
+mentalidad	mindset, mind	nf
+jerarquía	hierarchy, rank	nf
+duración	duration, length	nf
+hallazgo	finding, discovery	nm
+proximidad	proximity	nf
+estadística	statistic	nf
+presumir	to boast, show off, suppose	v
+trescientos	three hundred	num
+iluminado	illuminated	adj
+castillo	castle	nm
+traducción	translation	nf
+diversión	fun, entertainment	nf
+introducción	introduction	nf
+lámpara	lamp	nf
+dicho	saying, proverb (nm)	adj
+simbólico	symbolic	adj
+fluir	to flow	v
+heroico	heroic	adj
+asesinar	to murder, assassinate	v
+audiencia	audience, hearing	nf
+pasajero	passenger (nm)	adj
+décimo	tenth	adj
+costado	side, flank	nm
+otoño	autumn	nm
+feria	fair, festival	nf
+exilio	exile	nm
+indudablemente	doubtless, undoubtedly	adv
+preservar	to preserve	v
+portador	bearer, carrier	nm
+obispo	bishop	nm
+disimular	to disguise, hide, pretend	v
+quemado	burned, burnt	adj
+perfeccionar	to perfect	v
+vano	vain, useless	adj
+apertura	opening, beginning	nf
+ideología	ideology	nf
+casero	homemade	adj
+molesto	annoyed, bothered, upset	adj
+cocinar	to cook	v
+auxiliar	auxiliary, ancillary	adj
+silencioso	quiet, silent	adj
+navegar	to navigate, sail	v
+cazador	hunter	nm/f
+seguro	insurance (nm)	nm
+ingenio	ingenuity, talent, wit	nm
+hembra	female, woman	nf
+bando	faction, side	nm
+nativo	native	adj
+dormitorio	bedroom, dormitory	nm
+plenitud	fullness, abundance	nf
+aceptable	acceptable, suitable	adj
+coraje	courage, toughness	nm
+plomo	lead, bullet	nm
+descendiente	descendant	nc
+rotundo	categorical	adj
+república	republic	nf
+sierra	mountain range, saw	nf
+aplastar	to flatten, crush, smash	v
+guante	glove	nm
+cartón	cardboard, carton, sketch	nm
+repentino	sudden [also súbito]	adj
+ansioso	anxious eager	adj
+subrayar	to underline, highlight, emphasize	v
+adolescencia	adolescence	nf
+despacio	slow, slowly	adj
+innumerable	innumerable, countless	adj
+complicación	complication	nf

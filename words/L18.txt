@@ -1,0 +1,100 @@
+fruta	fruit	nf
+ideal	ideal, goal (nm)	adj
+izquierdo	left (opposite of right)	adj
+ti	you (obj prep singular familiar)	pron
+actor	actor	nm
+confusión	confusion	nf
+bonito	pretty, nice	adj
+agregar	to add, gather	v
+corriente	current, common (adj)	nf
+traje	suit, dress, costume	nm
+exigencia	requirement, demand	nf
+víctima	victim, casualty	nf
+playa	beach, seaside	nf
+trabajador	worker, laborer (nm/f) [also obrero]	adj
+primario	primary	adj
+hierro	iron	nm
+ideal	ideal (adj)	nm
+completar	to complete	v
+tela	cloth, fabric	nf
+ancho	wide (adj)	adj
+producción	production [also elaboración]	nf
+febrero	February	nm
+símbolo	symbol	nm
+agradable	nice, pleasant	adj
+medicina	medicine	nf
+combatir	to fight against	v
+búsqueda	search	nf
+colectivo	collective, joint (adj)	adj
+tranquilidad	tranquility, peace	nf
+espejo	mirror, reflection	nm
+secreto	secret (adj)	adj
+comprensión	understanding (nf)	nf
+incapaz	incapable	adj
+cerebro	brain	nm
+satisfecho	satisfied	adj
+reducido	reduced, limited	adj
+tiro	throw, shot	nm
+aportar	to provide, contribute	v
+derivar	to derive, come from	v
+abuelo	grandfather	nm
+prohibir	to prohibit, forbid	v
+proporcionar	to provide, supply	v
+maravilloso	wonderful, marvelous	adj
+saludar	to greet, say hello	v
+relacionar	to relate	v
+declaración	declaration, statement	nf
+relativo	relative (adj)	adj
+sujeto	subject, individual (nm)	adj
+investigar	to investigate [also indagar]	v
+ubicar	to find, locate	v
+enseñanza	teaching, instruction	nf
+musical	musical	adj
+permiso	permission, permit	nm
+evolución	evolution, development	nf
+tío	uncle, guy	nm
+moral	morals, ethics (nf)	nf
+redondo	round (adj)	adj
+modificar	to modify	v
+sujeto	fastened, subject to (adj)	nm
+parque	park	nm
+ingeniero	engineer	nm/f
+lavar	to wash	v
+borde	edge	nm
+invadir	to invade, overcome	v
+entusiasmo	enthusiasm	nm
+evidentemente	evidently, obviously	adv
+independencia	independence	nf
+mentira	lie	nf
+exclusivamente	exclusively	adv
+sueldo	salary, pay	nm
+desplazar	to replace, move, shift	v
+comparación	comparison	nf
+setenta	seventy	num
+romano	Roman	adj
+sagrado	sacred	adj
+seno	breast, bosom, cavity	nm
+adelantar	to move forward	v
+canto	singing, chant	nm
+potencia	power, potential	nf
+examinar	to examine, inspect	v
+oficial	official, officer (nc)	nc
+fortuna	fortune, fate	nf
+crimen	crime, murder	nm
+suave	soft, gentle, mild	adj
+opuesto	opposite, contrary	adj
+sustituir	to substitute, replace	v
+ciudadano	citizen (nm)	adj
+implicar	to implicate, imply	v
+baño	bathroom, bath, swim	nm
+sabio	wise, learned	adj
+ingresar	to join, deposit, admit	v
+respirar	to breathe	v
+caliente	hot, warm, spirited	adj
+reconocimiento	recognition, acknowledgment	nm
+exterior	exterior, outside (nm)	nm
+sexual	sexual	adj
+respectivo	respective	adj
+situado	situated, located	adj
+crédito	credit, reputation	nm
+alternativa	alternative	nf

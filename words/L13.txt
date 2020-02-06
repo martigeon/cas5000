@@ -1,0 +1,100 @@
+pierna	leg	nf
+transmitir	to transmit, broadcast	v
+marchar	to walk, to work (like a machine)	v
+hambre	hunger, starvation	nf_el
+placer	pleasure	nm
+profesión	profession, occupation	nf
+destruir	to destroy, ruin	v
+separado	separate	adj
+opinar	to think, be of the opinion	v
+objetivo	objective (nm)	adj
+honor	honor, honesty	nm
+montaña	mountain (nf)	nf
+cometer	to commit	v
+lógico	logical	adj
+instante	instant, moment	nm
+viento	wind, scent	nm
+lluvia	rain	nf
+ejército	army	nm
+trasladar	to move, transfer	v
+tren	train, convoy	nm
+concluir	to conclude, finish	v
+círculo	circle, club	nm
+auténtico	authentic	adj
+hermoso	beautiful, lovely	adj
+oponer	to oppose	v
+ventaja	advantage, benefit	nf
+figurar	to appear, represent, figure in	v
+terrible	terrible	adj
+isla	island	nf
+en torno	about, regarding	nm
+sentado	seated	adj
+amistad	friendship	nf
+concentrar	to concentrate	v
+correcto	correct, suitable	adj
+mañana	tomorrow (adv)	nf
+cadena	chain	nf
+político	politician (nm/f)	nm/f
+rey	king	nm
+permanente	permanent	adj
+ánimo	zest, spirit, heart	nm
+trato	treatment, manner, agreement	nm
+ejercicio	exercise, practice	nm
+organización	organization	nf
+agosto	August	nm
+secretario	secretary	nm/f
+norteamericano	North American	adj
+ignorar	to be unaware	v
+dedo	finger, toe, digit	nm
+gasto	expense, expenditure	nm
+café	coffee, café	nm
+diálogo	dialogue, conversation	nm
+dudar	to have doubt	v
+comercial	commercial, shopping	adj
+discurso	lecture, discourse, talk	nm
+obligado	obliged, required	adj
+hermana	sister	nf
+descansar	to rest	v
+caja	bank, box, safe	nf
+juez	judge	nc
+particular	particular, detail, individual (nm)	nm
+americano	American	adj
+poeta	poet	nc
+interior	interior, inside (adj)	nm
+sorpresa	surprise	nf
+ventana	window	nf
+característica	characteristic, aspect	nf
+adoptar	to adopt	v
+arrancar	to start a machine, uproot	v
+disfrutar	to enjoy [also gozar]	v
+práctico	practical, skillful	adj
+suma	sum, amount, summary	nf
+molestar	to bother, disturb, upset	v
+excelente	excellent	adj
+volumen	volume	nm
+estación	station, season	nf
+atrever	to dare	v
+cultural	cultural	adj
+complejo	complex, complicated (adj)	adj
+argumento	argument, plot	nm
+categoría	category	nf
+plata	silver, money	nf
+conflicto	conflict	nm
+avión	plane, airplane, aircraft	nm
+débil	weak	adj
+ropa	clothes, clothing	nf
+examen	examination, exam	nm
+habitante	inhabitant	nm
+acerca	about, concerning	adv
+ceder	to give way, yield	v
+justicia	justice, fairness	nf
+independiente	independent, self-sufficient	adj
+criterio	criterion	nm
+atraer	to attract	v
+convencido	convinced, persuaded	adj
+plazo	deadline, installment	nm
+pendiente	aware of, pending	adj
+kilómetro	kilometer	nm
+hospital	hospital	nm
+satisfacción	satisfaction	nf
+futuro	future (adj)	nm

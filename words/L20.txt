@@ -1,0 +1,100 @@
+elemental	elemental, basic	adj
+crecimiento	growth, increase	nm
+clave	key (nf)	adj
+golpear	to hit, strike	v
+tragedia	tragedy	nf
+colección	collection	nf
+chica	girl, female	nf
+prestigio	prestige	nm
+ascender	to ascend, be promoted	v
+sección	section, cut	nf
+complicar	to complicate, make difficult	v
+anciano	elderly, aged	adj
+fiel	faithful, loyal	adj
+roto	broken, torn	adj
+bolsa	bag, purse, stock exchange	nf
+cinta	tape, ribbon, film, strip	nf
+engañar	to trick, deceive	v
+elegante	elegant, smart, stylish	adj
+agotar	to exhaust, wear out, run out	v
+cuello	neck, collar	nm
+continuación	continuation, follow-up	nf
+abril	abril	nm
+precisar	to do exactly, specify	v
+actuación	performance, acting	nf
+factor	factor, cause, influence	nm
+esquina	corner	nf
+hombro	shoulder	nm
+infancia	infancy, childhood	nf
+suspender	to suspend, hang, fail	v
+descanso	rest, interval, break	nm
+ampliar	to enlarge, increase, expand	v
+zapato	shoe	nm
+parecer	opinion, looks (nm)	v
+familiar	relative (nm)	nm
+mérito	worth, merit	nm
+cultivar	to cultivate, produce	v
+oportuno	opportune, timely	adj
+explotar	to explode, exploit	v
+significativo	significant, meaningful	adj
+despedir	to dismiss, to say goodbye to	v
+suelto	loose	adj
+muro	outer wall, rampart	nm
+colaborar	to collaborate, work together	v
+a menudo	often	adv
+invertir	to invest	v
+montón	lot of, heap, pile	nm
+revolucionario	revolutionary	adj
+disco	disc, disk, record	nm
+indispensable	indispensable, essential	adj
+demanda	petition, request, demand	nf
+mundial	worldwide	adj
+mueble	piece of furniture	nm
+desastre	disaster	nm
+secreto	secret (nm)	nm
+oriental	eastern, oriental	adj
+regular	regular (adj)	adj
+angustia	anguish, distress	nf
+provenir	to come from, be from	v
+forzar	to force	v
+doméstico	domestic	adj
+nube	cloud	nf
+criar	to bring up, rear	v
+miseria	misery, wretchedness	nf
+personalmente	personally	adv
+peor	worse, worst (adj)	adv
+significado	meaning	nm
+fama	reputation, fame	nf
+palacio	palace	nm
+oído	hearing, ear	nm
+conveniente	convenient	adj
+polvo	dust, powder	nm
+confesar	to confess, admit	v
+mecánico	mechanical	adj
+sacerdote	priest	nm
+lentamente	slowly	adv
+eficaz	effective [also efectivo]	adj
+lección	lesson	nf
+rosa	rose	nf
+nocturno	nocturnal, evening	adj
+posiblemente	possibly	adv
+doblar	to bend, turn	v
+disminuir	to decrease, diminish	v
+averiguar	to investigate, find out	v
+sospechar	to suspect, suppose	v
+pasear	to go for a walk, ride	v
+olor	smell, odor, fragrance	nm
+radical	radical	adj
+decidido	determined, resolute	adj
+contrato	contract, agreement	nm
+presentación	presentation, introduction	nf
+cárcel	jail, prison	nf
+división	division	nf
+al revés	backwards, upside down, inside out	nm
+sucio	dirty, filthy, underhanded	adj
+depositar	to deposit, place, store	v
+captar	to capture, attract	v
+cualidad	quality, attribute	nf
+empeñar	to pawn, pledge, engage	v
+sobrevivir	to survive, outlive	v
+índice	index, forefinger	nm

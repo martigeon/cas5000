@@ -1,0 +1,100 @@
+pareja	couple, pair	nf
+pasado	past (nm)	nm
+diario	newspaper (nm)	adj
+azul	blue	adj
+mencionar	to mention, cite	v
+generación	generation	nf
+frío	cold (adj)	adj
+visión	vision	nf
+concreto	concrete, real	adj
+plantear	to propose, present	v
+probar	to test, prove, try	v
+derecho	right, straight (adj)	nm
+peligro	danger, menace	nm
+oro	gold	nm
+justo	just (adv)	adj
+manejar	to drive, handle	v
+vino	wine	nm
+unir	to unite	v
+caminar	to walk [also andar]	v
+coincidir	to coincide, agree	v
+etapa	stage, period	nf
+sencillo	simple, plain, easy	adj
+silencio	silence	nm
+salvo	except for, but	adv
+llenar	to fill	v
+dominar	to dominate, master	v
+determinado	determined, fixed	adj
+artista	artist, performer	nc
+medir	to measure	v
+labor	labor, work, task	nf
+perdido	lost	adj
+cielo	sky, heaven, ceiling	nm
+práctica	practice, skill	nf
+límite	limit	nm
+masa	mass, dough, bulk, crowd	nf
+directamente	directly, straight away	adv
+atravesar	to cross [also cruzar]	v
+formación	formation, education	nf
+perro	dog	nm
+izquierda	left	nf
+destacar	to emphasize, stand out	v
+cercano	near	adj
+cuarenta	forty	num
+pronunciar	to pronounce	v
+distinguir	to distinguish	v
+energía	energy, power	nf
+confianza	confidence, trust	nf
+adecuado	adequate, suitable	adj
+introducir	to introduce, bring in	v
+flor	flower	nf
+esposa	wife	nf
+comunicar	to communicate	v
+italiano	Italian	adj
+invitar	to invite	v
+responsable	responsible	adj
+feliz	happy, fortunate	adj
+revolución	revolution	nf
+instalar	to install	v
+tardar	to delay, take long	v
+mejorar	to improve, get better	v
+maestro	teacher (m), master (nm)	adj
+emplear	to employ	v
+alemán	German	adj
+convenir	to be agreeable, be convenient	v
+recuperar	to recuperate, recover	v
+fenómeno	phenomenon	nm
+presión	pressure	nf
+dado	given	adj
+alumno	student, pupil	nm
+teoría	theory	nf
+probablemente	probably	adv
+tono	tone	nm
+salud	health	nf
+definir	to define	v
+superar	to overcome, surpass	v
+señora	Mrs., lady, madam	nf
+exactamente	exactly	adv
+afirmar	to assert, affirm	v
+diario	daily (adj) [also cotidiano]	nm
+histórico	historical	adj
+debido: debido a	due to	adj
+vía	road, way	nf
+interpretar	to interpret	v
+alma	soul	nf_el
+admitir	to admit	v
+identificar	to identify	v
+madera	wood	nf
+fiesta	party, feast	nf
+calor	heat, warmth	nm
+mínimo	minimum (adj)	adj
+afectar	to affect	v
+hogar	home, hearth	nm
+mente	mind	nf
+seguramente	surely, securely	adv
+preocupación	worry, concern	nf
+reducir	to reduce	v
+concepto	concept	nm
+montar	to ride, mount, assemble	v
+teléfono	phone, telephone	nm
+hoja	sheet, leaf	nf

@@ -1,0 +1,100 @@
+corral	corral, yard	nm
+fatiga	fatigue	nf
+virgen	virgin (adj)	nf
+bruja	witch, hag	nf
+exploración	exploration	nf
+matrimonial	matrimonial	adj
+equivalente	equivalent (adj)	adj
+ilustración	illustration	nf
+cómplice	accomplice	nc
+melodía	melody	nf
+productor	producer	nm
+deseable	desirable	adj
+constatar	to prove, verify	v
+portero	porter, doorkeeper, goalkeeper	nm/f
+conejo	rabbit	nm
+pasivo	passive	adj
+densidad	density, thickness	nf
+dispersar	to disperse, scatter, spread	v
+apuesta	wager, bet	nf
+nacionalidad	nationality	nf
+llamativo	striking	adj
+vacilar	to vacillate, hesitate	v
+mozo	waiter, youth, bellboy	nm
+capturar	to capture	v
+cuerno	horn, antler	nm
+remediar	to heal, cure	v
+fiar	to vouch for, confide, trust	v
+desfilar	to march, parade	v
+talla	size (of clothing), stature	nf
+justificado	justifiable, justified	adj
+comisario	commissioner, delegate	nm
+fotográfico	photographic	adj
+acercamiento	approach, approximation	nm
+desordenado	messy, confused	adj
+gráfico	graphic, explicit	adj
+reaparecer	to reappear	v
+revuelto	confused, messed up	adj
+contorno	outline, perimeter, edge	nm
+egoísmo	selfishness	nm
+a bordo	on board	nm
+compensación	compensation	nf
+prohibición	prohibition	nf
+obrar	to work, act	v
+expreso	express, explicit	adj
+coronar	to crown, top	v
+liquidar	to liquidate, sell off	v
+laberinto	maze, labyrinth	nm
+erótico	erotic	adj
+amenazado	threatened	adj
+inminente	imminent	adj
+eternidad	eternity	nf
+repasar	to review, revise	v
+pastilla	pill, capsule	nf
+mierda	shit, crap, excrement	nf
+contienda	contest, dispute	nf
+imperial	imperial, imperialist	adj
+inexplicable	unexplainable	adj
+peruano	Peruvian	adj
+experimental	experimental	adj
+chorro	stream, jet, spurt	nm
+opaco	dull, opaque, heavy	adj
+clavo	nail, tack, peg	nm
+sequía	drought	nf
+dinámica	dynamics	nf
+ocio	leisure time	nm
+normalidad	normality	nf
+intuir	to sense	v
+resonancia	resonance, repercussion	nf
+devorar	to devour, consume	v
+efímero	ephemeral, short-lived	adj
+chaqueta	jacket	nf
+aferrar	to grasp, clutch	v
+invertido	reversed, inverted	adj
+asco	disgust	nm
+consolidar	to consolidate	v
+apresurar	to hurry up [also apurar]	v
+pleito	litigation, suit, dispute	nm
+latir	to beat (heart)	v
+sencillez	simplicity	nf
+transitorio	transitory	adj
+estupidez	stupidity, stupid thing [also tontería]	nf
+mojado	wet	adj
+descalzo	barefoot	adj
+orientado	positioned, guided	adj
+senador	senator	nm/f
+rencor	grudge, spite	nm
+presidencial	presidential	adj
+apurarse	to hurry [also apresurarse]	v
+insultar	to insult, berate	v
+brasileño	Brazilian	adj
+sustentar	to maintain, support	v
+probabilidad	probability	nf
+minucioso	meticulous, thorough	adj
+rústico	rustic, rural	adj
+gobernante	ruler, leader	nc
+merced	favor, mercy	nf
+acariciar	to stroke, fondle, caress	v
+tonelada	ton	nf
+rebelde	rebel, insurgent (nc)	nc
+anhelo	longing, yearning	nm

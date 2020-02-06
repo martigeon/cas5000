@@ -1,0 +1,100 @@
+rodeado	surrounded	adj
+esconder	to hide, conceal	v
+cuando	when (adv)	conj
+canal	channel, canal	nm
+suficientemente	enough (adv)	adv
+agente	agent	nc
+pago	payment	nm
+filosofía	philosophy	nf
+alterar	to alter, modify	v
+lector	reader, lecturer	nm
+emitir	to emit, give off	v
+magnífico	magnificent, splendid	adj
+triunfo	triumph, victory	nm
+inclinar	to bow, tilt, incline	v
+campesino	rural	adj
+sábado	Saturday	nm
+amiga	friend (f)	nf
+carretera	highway, road	nf
+desprender	to detach, release, remove	v
+efectivo	effective [also eficaz]	adj
+victoria	victory, triumph	nf
+circular	to circulate, go around, flow (v)	adj
+pelear	to fight, struggle	v
+pájaro	bird [also ave]	nm
+biblioteca	library	nf
+reflexión	reflection, thought	nf
+aplicado	applied	adj
+aconsejar	to advise, counsel	v
+vocación	vocation, calling	nf
+casado	married	adj
+continente	continent	nm
+severo	severe	adj
+tabla	chart, board, table, plank	nf
+justo	fair, just (adj)	adv
+ensayo	essay, rehearsal	nm
+plato	plate, dish	nm
+jardín	garden	nm
+imaginación	imagination, fantasy	nf
+precioso	beautiful, precious	adj
+probable	probable	adj
+poesía	poetry, poem	nf
+guardia	guard, watch, lookout	nc
+privilegio	privilege	nm
+monte	mountain (nm)	nm
+conmigo	with me	pron
+arrojar	to throw (violently), to hurl [also lanzar]	v
+precisión	precision	nf
+sacrificio	sacrifice	nm
+criticar	to criticize	v
+hundir	to sink, submerge	v
+hilo	thread, yarn, wire	nm
+entendido	understood	adj
+aparentemente	apparently	adv
+aparición	appearance, apparition	nf
+poema	poem	nm
+avanzado	advanced	adj
+curiosidad	curiosity, quaintness	nf
+afuera	outside	adv
+diente	tooth, cog	nm
+primo	cousin	nm
+encerrar	to shut in	v
+latino	Latin (adj)	adj
+apariencia	appearance, aspect	nf
+novedad	latest news, newness	nf
+espiritual	spiritual	adj
+limitado	limited	adj
+castigo	punishment, penalty	nm
+constantemente	constantly	adv
+denominar	to call, name [also llamar]	v
+vestido	dressed (adj)	adj
+carro	car, cart	nm
+eterno	eternal	adj
+aumento	increase, rise	nm
+pobreza	poverty, lack, scarcity	nf
+impulsar	to push, promote, drive	v
+caro	expensive, difficult, dear	adj
+empujar	to push, shove	v
+dólar	dollar	nm
+inicial	initial (adj)	adj
+local	place, quarters (nm)	nm
+dictar	to dictate, announce	v
+dulce	sweet (adj)	adj
+chocar	to crash into, collide with	v
+industria	industry, factory	nf
+caballero	gentleman, knight	nm
+especialista	specialist	nc
+temporada	season, period, time	nf
+divino	divine	adj
+humor	mood, humor	nm
+borrar	to erase	v
+nación	nation	nf
+felicidad	happiness	nf
+amante	lover	nc
+alejado	remote, distant, aloof	adj
+aguantar	to endure, put up with	v
+coger	to hold, take, catch	v
+cálculo	calculation, calculus	nm
+composición	composition, make-up, essay	nf
+rapidez	speed, velocity [also velocidad]	nf
+huevo	egg	nm

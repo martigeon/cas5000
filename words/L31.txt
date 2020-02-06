@@ -1,0 +1,100 @@
+destacado	outstanding, leading	adj
+encendido	turned on, burning	adj
+incidente	incident	nm
+fragmento	fragment, passage	nm
+plano	flat, plain, even, level (adj)	nm
+compensar	to compensate, make up for	v
+obligatorio	obligatory, compulsory	adj
+asignar	to assign, allocate	v
+contemporáneo	contemporary	adj
+suscitar	to arouse, provoke	v
+finalizar	to end, finalize	v
+reforzar	to reinforce, strengthen	v
+mina	mine (nf)	nf
+restaurante	restaurant	nm
+porcentaje	percentage	nm
+conductor	driver, conductor	nm/f
+contigo	with you	pron
+evolucionar	to evolve, develop	v
+magia	magic	nf
+presidir	to preside over	v
+comedor	dining room	nm
+seriedad	seriousness	nf
+gallina	hen, coward	nf
+espada	sword	nf
+discreto	discreet, tactful	adj
+excelencia	excellence	nf
+agitar	to shake, move	v
+amoroso	loving, affectionate	adj
+músculo	muscle	nm
+optimista	optimistic	adj
+persecución	pursuit, persecution	nf
+imperio	empire, fortune	nm
+casco	helmet	nm
+pelea	fight, quarrel	nf
+retorno	return [also regreso]	nm
+oler	to smell	v
+aludir	to allude to	v
+de veras	really, for real	nf
+delgado	thin, skinny	adj
+latín	Latin (nm)	nm
+resumir	to summarize	v
+rutina	routine	nf
+tenso	tight, tense	adj
+mejora	improvement	nf
+domicilio	residence, address	nm
+porquería	filth, junk	nf
+burlar	to mock	v
+susto	fright, scare	nm
+encajar	to insert, fit well	v
+nadar	to swim	v
+amanecer	daybreak, dawn (nm)	nm
+célula	cell (biology)	nf
+acelerar	to accelerate, speed up	v
+crítico	critic (nm)	nm
+inspiración	inspiration, inhalation	nf
+ladrillo	brick	nm
+proyección	projection, screening	nf
+desplegar	to unfold, deploy	v
+desembocar	to flow, lead into	v
+lana	wool	nf
+indirecto	indirect	adj
+infierno	hell, inferno	nm
+aliviar	to lighten, relieve, comfort	v
+acero	steel	nm
+ejecutivo	executive	adj
+cazar	to hunt	v
+ojalá	I hope that	adv
+aplaudir	to clap, applaud	v
+preso	prisoner (nm)	adj
+billete	ticket, bill, note	nm
+motivar	to motivate, cause	v
+descuidar	to neglect	v
+referente	concerning	adj
+tontería	stupidity, stupid thing [also estupidez]	nf
+cauce	riverbed, ditch	nm
+ignorancia	ignorance	nf
+acostar	to put/go to bed	v
+encanto	charm, spell	nm
+propiamente	exactly, properly	adv
+sed	thirst	nf
+escudo	shield, coat of arms	nm
+muñeca	doll, wrist	nf
+dotado	endowed, gifted	adj
+conectar	to connect, plug in	v
+rango	rank, range	nm
+invento	invention	nm
+arder	to burn, glow	v
+recinto	grounds, precincts	nm
+tinta	ink	nf
+garganta	throat, gorge	nf
+viajero	traveler, passenger	nm
+asesino	killer, assassin	nm
+rito	rite, ritual	nm
+atractivo	attraction, charm (nm)	nm
+callado	quiet, reserved	adj
+frustración	frustration	nf
+flexible	flexible	adj
+cemento	cement, concrete	nm
+catástrofe	catastrophe	nf
+dulce	candy, sweets (nm)	nm

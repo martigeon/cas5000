@@ -1,0 +1,100 @@
+numeroso	numerous	adj
+influencia	influence	nf
+intelectual	intellectual	adj
+empleado	employee	nm
+casar	to marry	v
+prácticamente	practically	adv
+moneda	coins, currency	nf
+facilidad	ease, facility	nf
+matrimonio	marriage, married couple	nm
+escaso	scarce, very little	adj
+iglesia	church	nf
+ayer	yesterday	adv
+oficina	office	nf
+cristiano	Christian	adj
+institución	institution	nf
+someter	to subject, submit, subjugate	v
+fundar	to found, base	v
+seguro	safe, sure, secure (adj)	adj
+intenso	intense, acute	adj
+frío	cold (nm)	nm
+domingo	Sunday	nm
+reacción	reaction	nf
+elevar	to elevate, raise	v
+cantar	to sing	v
+acontecimiento	event, happening	nm
+costa	coast	nf
+peligroso	dangerous	adj
+lento	slow	adj
+método	method	nm
+comunidad	community	nf
+coche	car, carriage	nm
+asumir	to assume, take on	v
+aclarar	to clarify, clear up	v
+arrastrar	to drag, pull	v
+página	page	nf
+declarar	to declare, testify	v
+frecuencia	frequency	nf
+conclusión	conclusion, end	nf
+escena	scene, stage, setting	nf
+falso	false	adj
+estructura	structure	nf
+beneficio	benefit, profit	nm
+alimento	food, nourishment	nm
+tranquilo	calm, tranquil, relaxed	adj
+velocidad	speed, velocity [also rapidez]	nf
+barrio	neighborhood, district	nm
+nombrar	to name, appoint	v
+análisis	analysis	nm
+confundir	to confuse	v
+frontera	border, frontier	nf
+describir	to describe	v
+lejano	distant	adj
+breve	brief, short	adj
+temor	fear [also miedo]	nm
+calcular	to calculate, figure out	v
+conformar	to conform	v
+ataque	attack, raid	nm
+pintar	to paint	v
+cine	cinema, US movie theater	nm
+rama	branch, bough, limb	nf
+repartir	to divide, deliver, distribute	v
+comienzo	start, beginning	nm
+exterior	exterior, outside (adj)	adj
+barco	boat	nm
+partida	game, match, departure	nf
+hallar	to find out	v
+ordenar	to put in order, organize	v
+aparato	apparatus, device	nm
+convencer	to convince, persuade	v
+médico	medical (adj)	nm/f
+extranjero	foreigner (nm)	nm
+cámara	camera, chamber	nf
+creación	creation	nf
+rodear	to surround	v
+ajeno	not belonging to, detached	adj
+reflejar	to reflect	v
+gana	desire	nf
+seco	dry, arid	adj
+quinto	fifth	adj
+moda	fashion, form	nf
+absolutamente	absolutely, completely	adv
+rechazar	to reject	v
+contribuir	to contribute	v
+ruido	noise	nm
+cama	bed (furniture)	nf
+infantil	of children, childlike, infantile	adj
+técnica	technique, skill	nf
+consejo	advice, council, counsel	nm
+internacional	international	adj
+violencia	violence	nf
+original	original (adj)	adj
+sonido	sound	nm
+vencer	to overcome, conquer	v
+estrella	star (nf)	nf
+útil	useful	adj
+alejar	to move away	v
+mirada	gaze, look	nf
+tremendo	tremendous, dreadful, huge	adj
+cuándo	when?	adv
+temprano	early	adj

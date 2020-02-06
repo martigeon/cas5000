@@ -1,0 +1,100 @@
+meditar	to meditate, ponder	v
+temblor	tremor, shudder, shiver	nm
+gira	tour	nf
+manto	cloak	nm
+cubano	Cuban	adj
+asombro	amazement, astonishment	nm
+gobernador	governor	nm
+amplitud	breadth, extent, range	nf
+carbón	coal, charcoal	nm
+campamento	camp, camping	nm
+sangriento	bloody	adj
+matemático	mathematical	adj
+portugués	Portuguese	adj
+intensamente	intensely	adv
+suavemente	softly	adv
+excursión	excursion	nf
+predicar	to preach	v
+encarnar	to embody	v
+lamentablemente	regrettably	adv
+tomate	tomato	nm
+negociar	to negotiate, deal with	v
+cinturón	belt	nm
+estático	static, motionless	adj
+antaño	in days gone by, last year	adv
+bulto	bulk, shape	nm
+adónde	to where?	adv
+vocabulario	vocabulary	nm
+especulación	speculation, conjecture	nf
+manual	manual, handbook (nm)	adj
+representativo	representative (adj)	adj
+honrar	to honor	v
+disparo	shot, discharge	nm
+desencadenar	to unleash, unchain	v
+residuo	residue, waste	nm
+vanidad	vanity, conceit	nf
+ofender	to offend	v
+renovación	renewal, renovation	nf
+enfriar	to cool	v
+furioso	furious	adj
+estudioso	studious	adj
+ilustrar	to illustrate	v
+ratificar	to ratify	v
+peste	plague, pestilence, pest	nf
+expedición	expedition	nf
+destrozar	to rip/break into pieces	v
+vasco	Basque	adj
+simular	to pretend, simulate	v
+complementario	additional, complementary	adj
+mecánica	mechanics, mechanism	nf
+electricidad	electricity	nf
+insólito	unusual, uncommon	adj
+temeroso	fearful	adj
+extraordinariamente	extraordinarily	adv
+ascensor	elevator	nm
+bicicleta	bicycle	nf
+consagrado	dedicated, consecrated	adj
+aporte	contribution (nm)	nm
+despierto	awake	adj
+beca	scholarship, grant	nf
+consentir	to consent to, pamper	v
+trigo	wheat	nm
+paralizar	to paralyze	v
+disipar	to dispel, dissipate	v
+incrementar	to increase [also aumentar]	v
+plataforma	platform, springboard	nf
+maestra	teacher (f)	nf
+clínica	clinic	nf
+heredero	heir, heiress	nm
+embarazada	pregnant	adj
+estadio	stadium	nm
+latinoamericano	Latin American	adj
+tecnológico	technological	adj
+desfile	parade, line, formation	nm
+buque	large ship	nm
+parentesco	kinship	nm
+fallo	mistake, blunder, fault	nm
+rebeldía	rebelliousness, defiance	nf
+desigual	uneven, unequal	adj
+corrección	correction, amendment	nf
+chispa	spark	nf
+virgen	virgin (nf)	adj
+reprochar	to reproach	v
+supervivencia	survival	nf
+caridad	charity	nf
+alumbrar	to light, illuminate	v
+comunión	communion	nf
+embajador	ambassador	nm/f
+tercio	third (one-third)	nm
+iluminación	illumination, lighting	nf
+censura	censorship, criticism	nf
+disputa	dispute, argument, quarrel	nf
+esplendor	splendor	nm
+inscribir	to register, record [also registrar]	v
+perjuicio	damage, loss	nm
+medalla	medal, medallion	nf
+lealtad	loyalty, faithfulness	nf
+divorcio	divorce	nm
+dotar	to endow, bestow	v
+enfoque	focus, approach	nm
+civilizado	civilized	adj

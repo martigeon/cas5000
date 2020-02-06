@@ -1,0 +1,100 @@
+articular	to articulate	v
+tira	strip, strap	nf
+emisor	transmitter, emitter	nm
+relevante	relevant, significant	adj
+integridad	integrity	nf
+autorización	authorization	nf
+audaz	audacious, bold	adj
+seminario	seminar, seminary	nm
+marea	wave, tide, ebb	nf
+resentimiento	resentment	nm
+delincuente	delinquent	nc
+debilitar	to weaken, debilitate	v
+fingir	to feign, pretend	v
+igualar	to equate, equalize	v
+disfrazado	disguised	adj
+trepar	to climb	v
+mutuamente	mutually, each other	adv
+correctamente	correctly	adv
+ágil	agile	adj
+atrasado	behind, slow	adj
+esqueleto	skeleton, framework	nm
+indignación	indignation	nf
+agradecido	grateful, thankful	adj
+adicional	additional	adj
+escultura	sculpture, carving	nf
+condicionado	conditioned	adj
+infinidad	infinity, countless	nf
+pilar	pillar, column	nm
+óptimo	optimum	adj
+súbito	sudden [also repentino]	adj
+regular	to regulate, adjust (v)	v
+vosotros	you (subj plural familiar)	pron
+rematar	to finish off, finish up	v
+incomprensible	incomprehensible	adj
+independientemente	independently	adv
+percepción	perception	nf
+minoría	minority	nf
+deterioro	deterioration, damage	nm
+argumentar	to argue, deduce	v
+guapo	handsome, beautiful	adj
+sanción	sanction, approval, penalty	nf
+poblar	to populate, inhabit	v
+contradecir	to contradict, be inconsistent	v
+inmerso	engrossed, immersed	adj
+manipular	to manipulate, handle	v
+maleta	suitcase, case	nf
+faena	task, job, performance	nf
+regar	to water, irrigate	v
+evocar	to evoke, recall	v
+serpiente	snake	nf
+proveniente	coming from [also procedente]	adj
+primordial	fundamental, primary	adj
+agitación	agitation, excitement	nf
+prosperar	to prosper, thrive	v
+ganancia	gain, profit	nf
+genético	genetic	adj
+pino	pine tree	nm
+arrasar	to raze, ravage	v
+rebajar	to lower, reduce, discount	v
+entrevistar	to interview	v
+infeliz	unhappy, unfortunate	adj
+compacto	compact, dense	adj
+llanto	crying, weeping	nm
+ida	departure, first half of a trip	nf
+criminal	criminal (adj)	nc
+coherente	coherent, connected	adj
+falla	flaw, failure	nf
+contribución	contribution (nf)	nf
+burla	mockery, joke, trick	nf
+seguidor	follower, supporter, fan	nm
+estratégico	strategic	adj
+perla	pearl	nf
+ético	ethical	adj
+integración	integration	nf
+enterado	aware of	adj
+siesta	siesta, afternoon nap	nf
+replicar	to reply	v
+incipiente	incipient, beginning	adj
+adornar	to adorn, to decorate	v
+alternativo	alternating, alternative	adj
+expresivo	expressive	adj
+bigote	mustache	nm
+concurrir	to coincide, concur, meet	v
+niñez	childhood, infancy	nf
+leña	firewood	nf
+atardecer	evening, dusk	nm
+restaurar	to restore, reinstate	v
+retrasar	to delay, fall behind	v
+estatal	state, government-owned	adj
+interrogante	question, interrogator	nc
+palpar	to feel, touch, fondle	v
+perpetuo	continual, perpetual	adj
+lente	lens, [pl] glasses	nmf
+compás	rhythm, time, compass	nm
+estéril	sterile, barren	adj
+llanura	plain, prairie, plainness	nf
+collar	collar, necklace	nm
+veneno	poison, venom	nm
+mármol	marble	nm
+biografía	biography	nf

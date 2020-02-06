@@ -1,0 +1,100 @@
+ocupado	busy, occupied	adj
+área	area, zone (nf el)	nf_el
+traducir	to translate	v
+efectivamente	in fact, actually, indeed	adv
+interesado	interested	adj
+mezcla	mixture, blend	nf
+excesivo	excessive	adj
+sumar	to add up, amount to	v
+alimentar	to feed, support	v
+habitación	room, bedroom, habitat	nf
+instrucción	instruction	nf
+eliminar	to eliminate, exclude	v
+versión	version, account	nf
+lujo	luxury	nm
+intervención	intervention	nf
+llegada	arrival	nf
+alrededor	surrounding area, vicinity (nm)	nm
+testigo	witness	nm
+dominio	power, control	nm
+raza	race, lineage	nf
+renunciar	to give up, renounce	v
+descubrimiento	discovery	nm
+vacaciones	vacation	nf
+provincia	province, region	nf
+saber	knowledge (nm)	v
+argentino	Argentine	adj
+cómodo	comfortable, convenient	adj
+acostumbrar	to be accustomed to&nbsp;[also soler]	v
+fácilmente	easily	adv
+claridad	clearness, clarity	nf
+negativo	negative, pessimistic	adj
+revisar	to check, revise, inspect	v
+carecer	to lack	v
+científico	scientific (adj)	adj
+arena	sand	nf
+postura	posture, position, attitude	nf
+salón	hall, room	nm
+escenario	stage, setting, scene	nm
+armado	armed	adj
+largo	length (nm)	nm
+prometer	to promise	v
+contento	happy, content	adj
+hotel	hotel	nm
+oficio	job, occupation, function	nm
+descender	to descend	v
+cubierto	covered	adj
+fila	line, row, file	nf
+patrón	employer, landlord, patron saint, pattern	nm
+pecho	chest, breast	nm
+tienda	shop, store, tent	nf
+típico	typical	adj
+protección	protection	nf
+funcionario	civil servant	nm
+reproducir	to reproduce, repeat	v
+constar	to consist of, comprise	v
+crítico	critical (adj)	adj
+transporte	transportation, transport	nm
+red	network, net, system	nf
+caída	fall, drop, falling	nf
+castellano	Castilian, Spanish	adj
+asociar	to associate with	v
+desconocer	to not know, not recognize	v
+valle	valley	nm
+fallar	to fail, miss	v
+vuelo	flight	nm
+vecino	nearby, neighboring (adj)	nm
+sexo	sex	nm
+iniciativa	initiative	nf
+increíble	incredible, unbelievable	adj
+concentración	concentration, gathering	nf
+grito	cry, shout, scream	nm
+esencia	essence	nf
+cocina	kitchen	nf
+mental	mental	adj
+reflejo	reflection (reflected image)	nm
+definición	definition	nf
+preocupado	worried, concerned	adj
+perdonar	to forgive, excuse	v
+no obstante	nevertheless	adj
+abogado	lawyer	nm/f
+agradecer	to thank for	v
+admirar	to admire	v
+sesión	session, meeting	nf
+íntimo	close, intimate	adj
+reloj	clock, watch	nm
+estrecho	narrow	adj
+muchacho	boy [also chico]	nm
+octubre	October	nm
+exposición	exhibition, display	nf
+ingreso	entrance, admission, income	nm
+revelar	to reveal, disclose	v
+dibujo	drawing, sketch	nm
+frecuente	frequent	adj
+inevitable	inevitable, unavoidable	adj
+hueso	bone	nm
+ligero	light (in weight), slight	adj
+militar	soldier, military person (nm)	nm
+motor	engine, motor	nm
+oposición	opposition	nf
+patio	courtyard, playground, yard	nm

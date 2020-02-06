@@ -1,0 +1,100 @@
+romper	to break	v
+siquiera	even if	adv
+adquirir	to acquire, get	v
+proyecto	project, plan	nm
+memoria	memory	nf
+origen	origin, cause	nm
+elemento	element	nm
+inglés	English	adj
+mercado	market	nm
+curso	course, direction	nm
+lanzar	to throw (violently), to hurl [also arrojar]	v
+aprovechar	to take advantage of	v
+sangre	blood	nf
+interior	interior, inside (nm)	adj
+duro	hard (adj)	adj
+apoyar	to support, lean on	v
+negar	to deny, refuse	v
+avanzar	to advance, progress	v
+uso	use	nm
+brazo	arm	nm
+profesor	professor, teacher	nm/f
+resolver	to resolve, settle, work out	v
+futuro	future (nm)	adj
+oportunidad	opportunity, chance	nf
+mitad	half, middle	nf
+costar	to cost, to be hard to do	v
+rico	rich, tasty	adj
+recuerdo	memory, keepsake	nm
+total	total, entire (adj)	adj
+exigir	to demand	v
+abajo	down, below, downward	adv
+opinión	opinion, view	nf
+aumentar	to increase [also incrementar]	v
+recoger	to pick up	v
+boca	mouth, entrance, opening	nf
+dirección	direction, address	nf
+puro	pure, clean	adj
+abandonar	to abandon, leave (a place)	v
+pieza	piece, part	nf
+profesional	professional	adj
+imponer	to impose, enforce	v
+obligar	to obligate, force	v
+físico	physical (adj)	adj
+actitud	attitude	nf
+mar	sea	nmf
+francés	French	adj
+entrada	entrance, admission ticket	nf
+contacto	contact	nm
+corazón	heart, core	nm
+aplicar	to apply	v
+capital	capital city (f), money (m)	nmf
+rápido	quick, fast	adj
+título	title, heading	nm
+pertenecer	to belong	v
+cuarto	room, chamber (nm)	adj
+material	material, element (nm)	adj
+golpe	hit, strike, punch	nm
+disponer	to have means, dispose	v
+comunicación	communication	nf
+expresar	to express	v
+simple	simple, mere, simple-minded	adj
+totalmente	totally, completely	adv
+provocar	to cause, provoke	v
+normal	normal, usual, regular	adj
+defender	to defend, protect	v
+enfermedad	illness, sickness	nf
+bien	goods, property, benefit (nm)	nm
+materia	matter, subject	nf
+quitar	to remove, take away	v
+conservar	to conserve, preserve	v
+moderno	modern	adj
+sitio	place, space	nm
+depender	to depend on	v
+naturaleza	nature	nf
+capacidad	capacity	nf
+actual	current (adj)	adj
+marcar	to mark, note, dial	v
+distancia	distance	nf
+pleno	complete, fulfilled (as emotionally)	adj
+cerrado	closed	adj
+compartir	to share	v
+información	information	nf
+ambiente	environment, atmosphere	nm
+especialmente	especially	adv
+desarrollo	development	nm
+sol	sun	nm
+muerto	dead (adj)	adj
+consistir	to consist of	v
+constituir	to constitute, consist of	v
+dispuesto	willing, ready	adj
+cubrir	to cover	v
+funcionar	to work, function	v
+compañero	companion, classmate	nm
+salida	exit, escape, outcome	nf
+caber	to fit into	v
+conciencia	conscience, consciousness	nf
+atender	to serve, attend to	v
+enfermo	ill, sick	adj
+insistir	to insist on	v
+costumbre	habit, custom, usage	nf

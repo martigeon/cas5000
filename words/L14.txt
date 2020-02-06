@@ -1,0 +1,100 @@
+acumular	to accumulate, amass	v
+desconocido	unknown	adj
+practicar	to practice	v
+gozar	to enjoy [also disfrutar]	v
+muchísimo	great many, great amount	adj
+sesenta	sixty	num
+silla	chair, seat	nf
+justificar	to justify, excuse	v
+tradicional	traditional	adj
+soportar	to endure, stand (something)	v
+juventud	youth	nf
+resistir	to resist, endure	v
+aparte	apart, aside, separately	adv
+triste	sad, unhappy	adj
+acceso	access, entry	nm
+marco	frame, mark, setting	nm
+vestir	to wear, dress	v
+prensa	press	nf
+excepción	exception	nf
+sorprender	to surprise	v
+ausencia	absence	nf
+proceder	to proceed, start	v
+condenar	to convict, condemn	v
+sombra	shade, shadow	nf
+similar	similar&nbsp;[also parecideo]	adj
+consumir	to consume, take in	v
+sugerir	to suggest, hint at	v
+activo	active	adj
+clásico	classic	adj
+profundidad	depth, profundity	nf
+conceder	to grant, concede	v
+reciente	recent	adj
+eléctrico	electric	adj
+leche	milk	nf
+consideración	consideration, regard	nf
+componer	to compose, be part of	v
+premio	prize, reward	nm
+bello	beautiful, fine	adj
+nacimiento	birth, origin	nm
+invierno	winter	nm
+diciembre	December	nm
+brillante	brilliant, shiny, sparkling	adj
+comportamiento	behavior, conduct	nm
+crítica	criticism, critique	nf
+femenino	feminine, female	adj
+fuego	fire, gunfire	nm
+tendencia	tendency, style	nf
+fino	fine, delicate	adj
+norma	standard, pattern, norm	nf
+inferior	lower, inferior	adj
+arreglar	to fix, arrange	v
+rueda	wheel	nf
+puente	bridge	nm
+animar	to cheer up	v
+rasgo	feature, trait	nm
+positivo	positive	adj
+cuento	story, tale	nm
+definitivamente	definitely, finally	adv
+signo	sign, mark, symbol	nm
+señal	sign, mark, token	nf
+apuntar	to point, note, aim	v
+campaña	campaign	nf
+liberar	to free, liberate	v
+puerto	port, harbor	nm
+profundamente	profoundly, deeply	adv
+aventura	adventure	nf
+pesado	heavy, boring, tiresome	adj
+complicado	complicated, complex	adj
+añadir	to add	v
+marca	mark, brand, trademark	nf
+girar	to rotate, revolve	v
+ilusión	illusion, hope, dream	nf
+os	you (obj pl fam)	pron
+compra	shopping, buy, purchase	nf
+inteligencia	intelligence	nf
+volar	to fly	v
+loco	crazy, insane	adj
+virtud	virtue, quality	nf
+remedio	alternative, cure, solution	nm
+delicado	delicate	adj
+facilitar	to facilitate	v
+territorio	territory	nm
+facultad	faculty, ability	nf
+solicitar	to solicit, request	v
+fotografía	photograph	nf
+techo	ceiling, roof	nm
+temer	to fear	v
+conducta	conduct, behavior	nf
+violento	violent	adj
+aquél	that one over there (m)	pron
+salto	jump, hop, skip	nm
+pan	bread	nm
+atacar	to attack	v
+sano	healthy, wholesome [also saludable]	adj
+pegar	to hit, stick on	v
+juzgar	to judge	v
+limpio	clean	adj
+disposición	disposal, disposition	nf
+posterior	rear, backside	adj
+general	general (nm)	nm

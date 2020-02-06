@@ -1,0 +1,100 @@
+resaltar	to emphasize	v
+devoción	devotion	nf
+inverso	inverse, opposite	adj
+intercambiar	to exchange	v
+consolar	to console	v
+descomponer	to decompose, break down	v
+enfocar	to focus	v
+espina	thorn, spine	nf
+aprobación	approval, consent	nf
+fachada	front of a building	nf
+funcional	functional	adj
+jugo	juice	nm
+traicionar	to betray	v
+discípulo	disciple	nm
+coronel	colonel	nm
+orgánico	organic	adj
+modificación	modification, alteration	nf
+acumulación	accumulation	nf
+comparable	comparable	adj
+mantenimiento	maintenance, sustenance	nm
+marginal	marginal, minor	adj
+pardo	brown, dark, dim	adj
+cabecera	head, header	nf
+revelación	revelation	nf
+peseta	peseta (money)	nf
+cuna	cradle, birth, lineage	nf
+tendido	spread, hung, laid out	adj
+horizontal	horizontal	adj
+ácido	acid	nm
+incapacidad	inability, incompetence	nf
+villa	village, villa	nf
+lecho	bed	nm
+alquiler	rent, rental	nm
+contrastar	to contrast	v
+redacción	editing, wording, essay	nf
+ficha	index card, chip, token	nf
+penoso	painful, laborious	adj
+inseguridad	insecurity	nf
+coma	comma (f), coma (m)	nmf
+desenvolver	to unwrap	v
+agricultura	agriculture, farming	nf
+naturalidad	ease, spontaneity	nf
+serenidad	serenity, calm	nf
+preferido	preferred, favorite	adj
+pistola	gun, pistol	nf
+interrogar	to question, interrogate	v
+insignificante	insignificant	adj
+subsistir	to subsist, survive	v
+diputado	deputy, member	nm
+literalmente	literally	adv
+duelo	grief, affliction	nm
+revolver	to stir, to make upset, to rummage through	v
+frecuentemente	frequently, often	adv
+retornar	to return, give back [also devolver]	v
+comandante	commander, commanding officer	nm
+preso	imprisoned, confined (adj)	nm
+ópera	opera	nf
+réplica	answer, retort, copy	nf
+fuertemente	strongly	adv
+global	global, overall	adj
+alquilar	to rent, hire [also arrendar]	v
+pulso	pulse, pulsation	nm
+radicar	to lie, be situated	v
+explotación	exploitation, cultivation	nf
+bestia	beast, brute	nf
+mojar	to make wet, dampen	v
+abrazo	hug, embrace	nm
+asalto	assault, robbery	nm
+reposo	rest, peace	nm
+lámina	sheet of metal	nf
+pasta	pasta, dough	nf
+derribar	to knock down, to demolish	v
+oral	oral	adj
+polémica	polemics, argument	nf
+parcial	partial, biased	adj
+chocolate	chocolate	nm
+generosidad	generosity	nf
+masivo	mass, massive	adj
+sobresalir	to stand out, excel	v
+realismo	realism	nm
+filtrar	to seep, filter	v
+desierto	deserted, desolate (adj)	nm
+acorde	agreement, accord	nm
+sugerencia	suggestion	nf
+cumpleaños	birthday	nm
+ronda	round (nf)	nf
+movilizar	to mobilize	v
+capilla	chapel	nf
+enteramente	completely, entirely	adv
+apelar	to call upon, appeal to	v
+expediente	dossier, proceedings	nm
+tolerancia	tolerance	nf
+entusiasmar	to fill with enthusiasm, excite	v
+educativo	educational	adj
+sopa	soup	nf
+rival	rival	nc
+ternura	tenderness	nf
+variante	variant, difference	nf
+coser	to sew	v
+molde	mold, cast, pattern	nm

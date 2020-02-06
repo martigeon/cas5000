@@ -1,0 +1,100 @@
+ayudante	helper, assistant	nc
+indiferente	indifferent	adj
+maniobra	maneuver, operation	nf
+inesperado	unexpected, unforeseen	adj
+distraer	to distract	v
+prejuicio	prejudice	nm
+tropezar	to trip, stumble	v
+recomendación	recommendation	nf
+francamente	frankly, openly	adv
+diseñar	to design, develop	v
+proveer	to provide	v
+seleccionar	to select	v
+convivir	to coexist	v
+instinto	instinct	nm
+sincero	sincere	adj
+progresar	to progress	v
+ideológico	ideological	adj
+precaución	caution, forethought	nf
+robo	theft, robbery	nm
+cabello	hair [also pelo]	nm
+utilidad	usefulness, utility	nf
+queja	complaint	nf
+abundar	to be plentiful	v
+celo	zeal, jealousy	nm
+publicidad	advertising, publicity	nf
+ligado	linked, joined	adj
+índole	nature, temperament	nf
+asimilar	to assimilate	v
+prolongado	prolonged, lengthy	adj
+choque	crash, collision	nm
+tecnología	technology	nf
+tubo	tube, pipe	nm
+sordo	deaf, dull	adj
+admirable	admirable	adj
+mercancía	goods, merchandise	nf
+tronco	trunk, torso	nm
+culto	worship, cult (nm)	nm
+palma	palm tree, palm	nf
+prenda	piece of clothing	nf
+coro	choir, chorus	nm
+tejer	to sew, weave	v
+túnel	tunnel	nm
+cercanía	nearness, proximity	nf
+proclamar	to proclaim	v
+cuchillo	knife	nm
+desprecio	contempt, disdain	nm
+plástico	plastic (nm)	adj
+complejo	complex (nm)	nm
+plantar	to plant	v
+naranja	orange (fruit)	nf
+derrotar	to defeat, beat	v
+frenar	to brake, restrain	v
+voluntario	voluntary, volunteer	adj
+adivinar	to guess, solve	v
+cuota	quota, share, dues	nf
+mosca	fly (insect)	nf
+judicial	judicial	adj
+pescar	to fish	v
+doctrina	doctrine, teachings	nf
+reservado	reserved, booked	adj
+laguna	lagoon	nf
+distinción	distinction	nf
+tribu	tribe	nf
+refugio	shelter, refuge	nm
+tragar	to swallow	v
+legítimo	legitimate	adj
+flotar	to float, flutter	v
+convencional	conventional	adj
+sacudir	to shake, jolt	v
+gigantesco	giant, gigantic	adj
+cena	dinner	nf
+incertidumbre	uncertainty	nf
+tierno	tender, soft	adj
+ligeramente	slightly, lightly	adv
+aéreo	aerial, air	adj
+suprimir	to suppress, delete	v
+ahorro	saving, thrift	nm
+sobrar	to be too much, left over	v
+brotar	to sprout	v
+prisión	prison, imprisonment	nf
+investigador	researcher, investigator	nm/f
+técnico	technician (nm/f)	nm/f
+paraíso	paradise	nm
+automático	automatic	adj
+postre	dessert	nmf
+inquieto	restless, anxious	adj
+helado	iced, freezing, icy	adj
+plástico	plastic (adj)	nm
+alimentación	feeding, food	nf
+miel	honey	nf
+vulgar	vulgar, common, banal	adj
+desafío	challenge, provocation	nm
+aeropuerto	airport	nm
+valorar	to value	v
+diferenciar	to differentiate, distinguish	v
+abrigo	overcoat, shelter	nm
+hábil	skillful, clever	adj
+veinticuatro	twenty-four	num
+sello	stamp, seal	nm
+campana	bell	nf

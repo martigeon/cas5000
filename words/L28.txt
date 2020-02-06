@@ -1,0 +1,100 @@
+escolar	school, scholastic	adj
+publicación	publication	nf
+variación	variation	nf
+cálido	warm	adj
+inconsciente	unconscious, thoughtless	adj
+promoción	promotion	nf
+enseguida	immediately, at once	adv
+mágico	magic, magical	adj
+sentencia	legal sentence, judgment	nf
+amargo	bitter, sour, painful	adj
+resolución	resolution	nf
+afortunadamente	luckily, fortunately	adv
+coincidencia	coincidence	nf
+estímulo	stimulus, encouragement	nm
+acoger	to welcome, accept	v
+filosófico	philosophical	adj
+sembrar	to sow, plant	v
+acentuar	to accent, stress	v
+anteriormente	previously [also previamente]	adv
+marino	marine, naval	adj
+barra	bar, rod, rail	nf
+entretener	to entertain, amuse	v
+desviar	to deviate, divert, change	v
+retroceder	to go back	v
+culto	cultured, educated (adj)	adj
+novia	girlfriend, bride	nf
+piano	piano	nm
+pretensión	pretension, claim	nf
+habla	speech, talking	nf_el
+novio	boyfriend, groom	nm
+sonreír	to smile	v
+espectador	spectator, onlooker	nm
+relatar	to tell, narrate	v
+pensado	thought-out, designed	adj
+bota	boot, wineskin	nf
+oh	oh [also ah]	interj
+pretexto	pretext, excuse	nm
+horrible	horrible	adj
+fiebre	fever, excitement	nf
+difundir	to spread out	v
+lucir	to show off, shine	v
+síntesis	synthesis	nf
+este	East (n)	n
+nervio	nerve	nm
+científico	scientist (nm/f)	nm/f
+peculiar	peculiar	adj
+ejemplar	exemplary, model (adj)	nm
+grano	grain, kernel	nm
+recientemente	recently	adv
+reservar	to reserve, book	v
+asistencia	attendance, assistance	nf
+sacrificar	to sacrifice	v
+puramente	purely, simply	adv
+sonrisa	smile	nf
+exagerar	to exaggerate	v
+león	lion	nm
+bárbaro	savage, horrible	adj
+aceptación	acceptance, approval	nf
+labio	lip	nm
+visitante	visitor	nc
+autónomo	autonomous	adj
+sonoro	loud, resounding	adj
+traslado	transfer	nm
+residir	to reside, live in	v
+tentación	temptation	nf
+porvenir	future, time to come	nm
+promover	to promote	v
+atracción	attraction	nf
+jurídico	legal, juridical	adj
+reparar	to repair, to mend, to fix	v
+ilustre	renowned, illustrious	adj
+corona	crown	nf
+administrar	to administer, manage	v
+docena	dozen	nf
+ahorrar	to save (money, time)	v
+perfección	perfection	nf
+humedad	humidity	nf
+cosecha	harvest, crop	nf
+enterrar	to bury	v
+desesperación	desperation, exasperation	nf
+curva	curve	nf
+contraer	to contract, shrink, abbreviate	v
+blando	soft, limp, gentle	adj
+estable	stable, steady	adj
+ciertamente	certainly, indeed	adv
+dormido	asleep, sleeping	adj
+amo	master, boss (m)	nm
+reflexionar	to reflect, consider on	v
+humo	smoke	nm
+realización	fulfillment, realization	nf
+cuartel	quarters, barracks	nm
+tránsito	traffic, transit	nm
+dieciséis	sixteen	num
+énfasis	emphasis	nm
+tímido	timid, shy, half-hearted	adj
+empresario	manager, entrepreneur	nm
+tuyo	yours (singular familiar)	pron
+saco	sack, bag, plunder	nm
+vasto	vast, immense, huge	adj
+cruz	cross, burden	nf

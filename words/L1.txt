@@ -1,0 +1,100 @@
+de	of, from	prep
+que	that, which	conj
+y	and	conj
+a	to, at	prep
+en	in, on	prep
+un	a, an	art
+ser	to be (norm) (v)	nm
+se	oneself, self	pron
+no	no	adv
+haber	to have (aux v)	v
+por	by, for, through	prep
+con	with	prep
+su	his/her/their/your (formal)	adj
+para	for, to, in order to	prep
+como	like, as	adv
+estar	to be (location, change from norm)	v
+tener	to have	v
+le	3rd person indir obj	pron
+lo	the (neuter art)	art
+lo	3rd person dir obj-m	pron
+todo	all, every	adj
+pero	but, yet, except	conj
+más	more	conj
+hacer	to do, to make	v
+o	or	conj
+poder	to be able to, can (v)	nm
+decir	to tell, say	v
+este	this (adj)	adj
+ir	to go	v
+otro	other, another	adj
+ese	that	adj
+la	3rd person dir obj-f	pron
+si	if, whether	adv
+me	me (pron)	pron
+ya	already, still	adv
+ver	to see	v
+porque	because	conj
+dar	to give	v
+cuando	when (conj)	adv
+él	he	art
+muy	very, really	adv
+sin	without	prep
+vez	time (specific occurrence)	nf
+mucho	much, many, a lot	adj adv
+saber	to know (a fact), find out (v)	nm
+qué	what?, which?, how (adj)!	pron
+sobre	on top of, over, about	prep
+mi	my	adj
+alguno	some, someone	adj pron
+mismo	same	adj
+yo	I (pron)	pron
+también	also	adv
+hasta	until, up to, even (adv)	prep
+año	year	nm
+dos	two	num
+querer	to want, love	v
+entre	between, among	prep
+así	like that	adv
+primero	first	adj
+desde	from, since	prep
+grande	large, great, big	adj
+eso	that (pron)	pron
+ni	not even, neither, nor	conj
+nos	us	pron
+llegar	to arrive	v
+pasar	to pass, spend time	v
+tiempo	time (general), weather	nm
+ella	she	pron
+sí	yes	conj
+día	day	nm
+uno	one	num
+bien	well (adv)	adv
+poco	little, few, a little bit (adv)	adj
+deber	should, ought to; to owe (v)	nm
+entonces	so, then	adv
+poner	to put on	v
+cosa	thing	nf
+tanto	so much, so many	adj
+hombre	man, mankind, husband	nm
+parecer	to seem, look like (v)	nm
+nuestro	our	adj
+tan	such, as, too, so	adv
+donde	where	adv
+ahora	now	adv
+parte	part, portion	nf
+después	after	adv
+vida	life	nf
+quedar	to remain, stay	v
+siempre	always, forever	adv
+creer	to believe, think	v
+hablar	to speak, talk	v
+llevar	to take, carry	v
+dejar	to let, leave	v
+nada	nothing, not at all	pron
+cada	each, every	adj
+seguir	to follow, to go on	v
+menos	less, fewer	adj
+nuevo	new	adj
+encontrar	to find	v
+algo	something, somewhat	pron

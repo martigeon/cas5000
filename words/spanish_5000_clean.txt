@@ -1,0 +1,5000 @@
+el, la|the|pron
+de  &nbsp;de|of, from|prep
+que|that, which|conj
+y|and|conj
+a|to, at|prep
+en|in, on|prep
+un|a, an|art
+ser|to be (norm) (v)|nm
+se|<div><div>oneself, self</div></div>|pron
+no|no|adv
+haber|to have (aux v)|v
+por|by, for, through|prep
+con|with|prep
+su|his/her/their/your (formal)|adj
+para|for, to, in order to|prep
+como|like, as|adv
+estar|to be (location, change from norm)|v
+tener|to have|v
+le|3rd person indir obj|pron
+lo|the (neuter art)|art
+lo|3rd person dir obj-m|pron
+todo|all, every|adj
+pero|but, yet, except|conj
+más|more|conj
+hacer|to do, to make|v
+o|or|conj
+poder|to be able to, can (v)|nm
+decir|to tell, say|v
+este, esta|this (adj)|adj
+ir|to go|v
+otro|other, another|adj
+ese, esa|that|adj
+la|3rd person dir obj-f|pron
+si|if, whether|adv
+me   [also mí]|me (pron)|pron
+ya|already, still|adv
+ver|to see|v
+porque|because|conj
+dar|to give|v
+cuando|when (conj)|adv
+él|he, [ellos] them (m)|art
+muy|very, really|adv
+sin|without|prep
+vez|time (specific occurrence)|nf
+mucho|much, many, a lot|adj adv
+saber|to know (a fact), find out (v)|nm
+qué|what?, which?, how (adj)!|pron
+sobre|on top of, over, about|prep
+mi|my|adj
+alguno|some, someone|adj pron
+mismo|same|adj
+yo|I (pron)|pron
+también|also|adv
+hasta|until, up to, even (adv)|prep
+año|year|nm
+dos|two|num
+querer|to want, love|v
+entre|between, among|prep
+así|like that|adv
+primero|first|adj
+desde|from, since|prep
+grande|large, great, big|adj
+eso|that (pron)|pron
+ni|not even, neither, nor|conj
+nos|us|pron
+llegar|to arrive|v
+pasar|to pass, spend time|v
+tiempo|time (general), weather|nm
+ella, ellas|she,&nbsp;them (f)|pron
+sí|yes|conj
+día|day|nm
+uno|one|num
+bien   [also bueno]|well (adv)|adv
+poco|little, few, a little bit (adv)|adj
+deber|should, ought to; to owe (v)|nm
+entonces|so, then|adv
+poner|to put on|v
+cosa|thing|nf
+tanto|so much, so many|adj
+hombre|man, mankind, husband|nm
+parecer|to seem, look like (v)|nm
+nuestro|our|adj
+tan|such, as, too, so|adv
+donde|where|adv
+ahora|now|adv
+parte|part, portion|nf
+después|after|adv
+vida|life|nf
+quedar|to remain, stay|v
+siempre|always, forever|adv
+creer|to believe, think|v
+hablar|to speak, talk|v
+llevar|to take, carry|v
+dejar|to let, leave|v
+nada|nothing, not at all|pron
+cada|each, every|adj
+seguir|to follow, to go on|v
+menos|less, fewer|adj
+nuevo|new|adj
+encontrar|to find|v
+algo|something, somewhat|pron
+solo|only, just (adv)|adv
+pues|then, well then|conj
+llamar|to call, name [also denominar]|v
+venir|to come|v
+pensar|to think|v
+aquel|that (over there)|adj
+momento|moment, time|nm
+sino|but, except, rather|conj
+esto|this (pron)|pron
+salir|to leave [also partir]|v
+volver|to turn, to turn over, to return to a place|v
+forma|form, shape, way|nf
+antes|before|adv
+bueno|good (adj)|adj
+casa|house|nf
+aunque|although, even though|conj
+mundo|world|nm
+tres|three|num
+tal|such a|adj
+mejor|best, better (adv)|adj
+tomar|to take, drink|v
+cierto|certain, sure, true|adj
+conocer|to know (someone or place)|v
+hacia|toward, towards|prep
+cómo|how?|conj
+mujer|woman, wife|nf
+vivir|to live|v
+aquí|here|adv
+caso|case, occasion|nm
+sentir|to feel, regret (v)|nm
+luego|later, afterwards|adv
+país|country|nm
+tratar|to try, treat, deal with|v
+lugar|place, position|nm
+te|you (obj, familiar)|nm
+persona|person|nf
+mayor|larger, older, main|adj
+último|last, final|adj
+propio|own, proper, typical|adj
+quien|who, whom|pron
+mirar|to look, watch|v
+hora|hour, time (specific)|nf
+ninguno|no, none, nobody|adj pron
+trabajo|work, job, effort|nm
+casi|almost, nearly|adv
+punto|point, dot, period|nm
+durante|during, for (time)|adv
+cualquier|any, anyone|adj pron
+mano|hand|nf
+nunca|never, ever|adv
+manera|way, manner (nf)|nf
+cual|which, who, whom|pron
+mientras|while, whereas, as long as|conj
+contar|to tell, count|v
+fin|end|nm
+tipo|type, kind|nm
+gente|people|nf
+además|also, as well, besides|adv
+solo|lonely, alone (adj)|adj
+empezar|to begin, start [also comenzar]|v
+ejemplo|example|nm
+esperar|to wait, hope for, expect|v
+hoy|today, nowadays|adv
+lado|side|nm
+hijo|son, [pl] children|nm
+allí|there [also ahí]|adv
+éste, ésta|this one|pron
+problema|problem|nm
+cuenta|bill, account|nf
+medio|means, middle (nm)|adj
+contra|against, opposite|prep
+buscar|to look for|v
+dentro   [also adentro]|inside|adv
+largo|long (adj)|adj
+palabra|word|nf
+existir|to exist|v
+niño|child, little boy|nm
+entrar|to enter|v
+sin embargo<br />embargo|nevertheless|nm
+único|only, unique, sole|adj
+padre|father|nm
+trabajar|to work|v
+pequeño|little, small, young|adj
+alto|tall, high|adj
+cambio|change|nm
+escribir|to write|v
+cuatro|four|num
+ahí   [also allí]|there|adv
+perder|to lose, miss|v
+nosotros|we|pron
+historia|history, story|nf
+idea|idea|nf
+agua|water|nf_el
+producir|to produce, cause|v
+noche|night, evening|nf
+ciudad|city|nf
+modo|way, manner (nm)|nm
+nombre|name, noun|nm
+ocurrir|to happen, occur|v
+familia|family|nf
+realidad|reality, actuality|nf
+entender|to understand [also comprender]|v
+pedir|to ask for, request|v
+recibir|to receive|v
+obra|work, book, deed|nf
+importante|important|adj
+medio|half, middle (adj)|nm
+verdad|truth|nf
+mes|month|nm
+todavía|still, yet [also aún]|adv
+razón|reason|nf
+en cuanto a<br />cuanto|in terms of, regarding|adj
+bajo|under, underneath (prep)|adj
+recordar   [also acordar]|to remember, remind|v
+grupo|group|nm
+mil|thousand|num
+humano|human (adj)|adj
+terminar|to finish, end|v
+permitir|to allow, permit|v
+aparecer|to appear|v
+conseguir|to get, acheive|v
+comenzar|to begin, start [also empezar]|v
+varios|several, various|adj
+posible|possible|adj
+servir|to serve|v
+general|general (adj)|adj
+sacar|to take out|v
+necesitar|to need|v
+relación|relationship, relation|nf
+cinco|five|num
+cuerpo|body|nm
+nadie|nobody, anybody|pron
+mantener|to keep, maintain|v
+hecho|fact, happening|nm
+ante|before, in the presence of|prep
+principio|beginning, principle|nm
+resultar|to result, turn out|v
+igual|equal, same as|adj
+señor|sir, Mr., lord|nm
+pueblo|people, village|nm
+tarde|afternoon, evening (nf)|adv
+segundo|second (adj)|adj
+leer|to read|v
+caer|to fall|v
+cambiar|to change|v
+ojo|eye|nm
+calle|street|nf
+presentar|to introduce, present|v
+blanco|white|adj
+crear|to create|v
+abrir|to open|v
+libro|book|nm
+distinto|distinct, different|adj
+fuerza|strength, force, power|nf
+luz|light|nf
+según|according to|prep
+santo|saint (m)|nm
+claro|clear (adj)|adj
+al frente: frente a<br />frente|facing; across from|nmf
+considerar|to consider|v
+amigo|friend|nm
+oír|to hear|v
+cuyo|whose|adj
+sentido|sense, feeling|nm
+acabar|to have just|v
+paso|step, pace|nm
+situación|situation|nf
+usted|you (subj formal)|pron
+bastante|rather, fairly, quite a bit|adj adv
+convertir|to convert, change, become|v
+gracia|thank you, grace, favor|nf
+siglo|century, age|nm
+dios|god, divinity|nm
+malo|bad|adj
+tierra|earth, land, ground|nf
+papel|paper, role, part|nm
+madre|mother|nf
+tampoco|neither, nor, either|adv
+social|social|adj
+viejo|old, aged|adj
+aún|still, yet [also todavía]|adv
+tema|theme, subject, topic|nm
+político|political (adj)|adj
+español|Spanish|adj
+ganar|to win, earn|v
+formar|to form|v
+clase|kind, class, order|nf
+traer|to bring, carry|v
+partir|to leave, split|v
+dinero|money|nm
+quién|who?, whom?|pron
+morir|to die|v
+incluso|including, even (adv)|adv
+campo|field, country|nm
+aceptar|to accept|v
+quizás|perhaps, maybe|adv
+cabeza|head (part of body)|nf
+realizar|to fulfill, carry out|v
+ciento|hundred (num)|num
+mal|badly (adv)|adv
+orden|order; sequence (m), religious (f)|nmf
+don|courtesy title (m), Mr., gift|nm
+semana|week|nf
+suponer|to suppose, assume|v
+comprender|to understand [also entender]|v
+al final<br />final|finally, in the end|adj
+interés|interest|nm
+siguiente|following, next|adj
+vista|view, sight|nf
+lograr|to get, to manage to (do something)|v
+demás|the rest, others|adj
+acuerdo  ; de acuerdo|accord: in agreement|nm
+difícil|difficult, hard|adj
+número|number|nm
+explicar|to explain|v
+negro|black|adj
+fondo|background, back, bottom|nm
+camino|road, route, path|nm
+voz|voice|nf
+estudio|study, learning|nm
+necesario|necessary|adj
+preguntar|to ask a question|v
+allá|there, over there|adv
+tocar|to touch, play an instrument|v
+valor|value, worth (n)|nm
+reconocer|to recognize, admit|v
+estudiar|to study|v
+alcanzar|to reach, catch up with|v
+nacer|to be born|v
+dirigir|to direct, manage|v
+correr|to run|v
+medida  ; a medida que|measure: to the extent|nf
+menor|younger, youngest|adj
+demasiado|too much, too many|adj
+solamente|only [also únicamente]|adv
+bueno   [also bien]|well (adv)|adv
+utilizar|to use, utilize|v
+centro|center, middle, downtown|nm
+necesidad|necessity, need|nf
+condición|condition|nf
+pagar|to pay|v
+ello|it (subj-n)|pron
+falta|lack, shortage [also carencia]|nf
+ayudar|to help|v
+diez|ten|num
+a través|across, over, through|adv
+antiguo|old, ancient, former|adj
+tu|your (singular familiar)|adj
+edad|age|nf
+estado|state, condition, status|nm
+ser|being (nm)|v
+gustar|to be pleasing to|v
+puerta|door|nf
+jugar|to play (sport/game)|v
+cara|face, expression|nf
+mí   [also me]|me (pron)|pron
+época|time, age, period|nf
+color|color|nm
+escuchar|to listen to|v
+experiencia|experience|nf
+movimiento|movement|nm
+cumplir|to fulfill|v
+especial|special|adj
+diferente|different, separate|adj
+pesar|sorrow (nm)|nm
+posibilidad|possibility|nf
+ofrecer|to offer, present|v
+descubrir|to discover|v
+anterior|previous, preceding|adj
+juego|game, play, sport|nm
+levantar|to raise, lift|v
+pobre|poor|adj
+aire|air, wind, appearance|nm
+seis|six|num
+intentar|to try, attempt|v
+guerra|war, warfare|nf
+junto|together with, next to (adv)|adj
+resultado|result, outcome|nm
+usar|to use|v
+decidir|to decide|v
+repetir|to repeat|v
+olvidar|to forget|v
+ley|law, bill, rule|nf
+aspecto|aspect, appearance|nm
+pie|foot, base|nm
+valer|to be worth, cost|v
+especie|kind, sort, species|nf
+comer|to eat|v
+servicio|service, helpfulness|nm
+cerca|close, near|adv
+mostrar|to show|v
+actividad|activity, action|nf
+tercero|third|adj
+cuál|which?|pron
+pronto|soon, quick|adv
+ocupar|to occupy, use|v
+cuestión|question, matter|nf
+duda|doubt|nf
+diferencia|difference|nf
+mañana|morning, tomorrow (nf)|adv
+mover|to move, incite|v
+continuar|to continue|v
+cantidad|quantity, amount|nf
+acción|action, act, deed|nf
+suceder|to happen|v
+fijar|to set, fix, [se] notice|v
+sociedad|society|nf
+referir|to refer to, tell|v
+acercar|to come near|v
+capaz|capable, able|adj
+bajo|short, low (adj)|prep
+libre|free, vacant|adj
+natural|natural|adj
+dedicar|to dedicate, devote|v
+realmente|really, actually, in fact|adv
+peso|peso (money), weight, load|nm
+efecto|effect|nm
+objeto|object, thing|nm
+verdadero|true, real|adj
+dónde|where?|conj
+aprender|to learn|v
+amor|love|nm
+muerte|death|nf
+partido|party, group, sports match|nm
+económico|economic|adj
+derecho|right, justice, law (nm)|adj
+poder|power (nm)|v
+importancia|importance|nf
+sistema|system|nm
+viaje|travel, trip|nm
+suelo|ground, floor|nm
+respecto  ; con respecto a|respect: with regards to|nm
+conocimiento|knowledge|nm
+libertad|freedom, liberty|nf
+encima|above, on top, in addition|adv
+comprar|to buy|v
+común|common|adj
+abierto|open, unlocked|adj
+próximo|next|adj
+atención|attention|nf
+joven|young (adj)|adj
+subir|to go up|v
+esfuerzo|effort, endeavor|nm
+pasado|past, last (adj)|adj
+evitar|to avoid, prevent [also prevenir]|v
+resto|rest, remainder, leftover|nm
+interesar|to interest|v
+ladrón|thief|nm
+zona|area, zone (nf)|nf
+miedo|fear [also temor]|nm
+fuera|out, outside, away|adv
+proceso|process, procedure|nm
+vivo|alive, bright|adj
+cerrar|to close|v
+echar|to throw|v
+responder|to answer, respond|v
+sufrir|to suffer, undergo|v
+completo|complete|adj
+minuto|minute|nm
+contrario|contrary, opposite|adj
+mesa|table, board|nf
+real|royal, real, authentic|adj
+ocasión|opportunity, occasion|nf
+importar|to matter, import|v
+público|public (adj)|adj
+obtener|to obtain|v
+programa|program, plan|nm
+favor|favor, benefit|nm
+lejos|far away, far off|adv
+siete|seven|num
+enorme|enormous, vast|adj
+respuesta|answer, reply|nf
+línea|line, course|nf
+espacio|space, room|nm
+nivel|level|nm
+gobierno|government|nm
+cabo|end, bit|nm
+observar|to observe, to notice|v
+indicar|to indicate|v
+alguien|somebody, someone, anyone|pron
+pregunta|question|nf
+claro|of course, clearly (adv)|adv
+atrás|behind|adv
+imagen|image, picture|nf
+carrera|career, course, race|nf
+imaginar|to imagine|v
+soler|to be accustomed to [also acostumbrar]|v
+ambos|both|adj
+profundo|deep, profound|adj
+detener|to stop, detain|v
+desarrollar|to develop|v
+ocho|eight|num
+señalar|to point out, signal|v
+elegir|to choose, elect|v
+figura|figure|nf
+principal|main, principal|adj
+animal|animal|nm
+base|base, basis|nf
+preparar|to prepare|v
+proponer|to propose|v
+demostrar|to show, demonstrate|v
+significar|to mean|v
+posición|position|nf
+motivo|motive, cause, motif|nm
+prueba|proof, trial, test|nf
+política|politics, policy|nf
+nacional|national|adj
+lleno|full, filled (as an object would de filled)|adj
+reunir|to put togerther, to get together [also juntar]|v
+faltar|to be lacking|v
+supuesto  ; por supuesto|supposed: of course|adj
+acompañar|to accompany|v
+dato|data, fact|nm
+fácil|easy|adj
+desear|to want, desire, wish for|v
+adelante|forward, further|adv
+empresa|firm, company, venture|nf
+asunto|matter, issue, affair|nm
+presencia|presence, appearance|nf
+suyo|his, hers, yours, theirs (formal)|pron
+cultura|culture|nf
+serie|series|nf
+millón|million, fortune|num
+enseñar|to teach, show|v
+construir|to construct, build|v
+vender|to sell|v
+representar|to represent|v
+desaparecer|to disappear, vanish|v
+mandar|to send, order|v
+carácter|personality, nature|nm
+mayoría|majority|nf
+escuela|school|nf
+rojo|red|adj
+tras|after, behind|prep
+superior|superior, upper|adj
+andar|to walk&nbsp;[also caminar]|nm
+corto|short, brief|adj
+autor|writer, author|nm/f
+hermano|brother, [pl] siblings|nm
+conocido|known, well-known|adj
+preferir|to prefer|v
+asegurar|to assure, secure, insure|v
+función|function, meeting|nf
+arriba|up above|adv
+serio|serious|adj
+causa|cause|nf
+suficiente|sufficient, enough|adj
+grave|serious, solemn|adj
+decisión|decision|nf
+música|music|nf
+extraño|strange, foreign|adj
+crecer|to grow, increase|v
+surgir|to appear, spring forth|v
+tú   [also vos]|you (subj singular familiar)|pron
+expresión|expression|nf
+alrededor|about, around, round (adv)|adv
+matar|to kill|v
+entregar|to deliver|v
+río|river|nm
+seguridad|security, safety|nf
+término|term (language), end|nm
+colocar|to place, position|v
+metro|meter (unit of measure), subway|nm
+médico|doctor (nm/f)|adj
+establecer|to establish|v
+guardar|to keep, save|v
+arte|art, skill|nm
+iniciar|to initiate, start|v
+bajar|to come down, let down|v
+consecuencia|consequence|nf
+notar|to notice [also percibir]|v
+acto|act, action|nm
+meter|to put into|v
+absoluto|absolute|adj
+pena|trouble (be of worth)|nf
+actuar|to act|v
+segundo|second (nm)|nm
+altura|height, altitude|nf
+deseo|desire, wish|nm
+precisamente|precisely|adv
+joven|teenager, young person (nc)|nc
+veinte|twenty|num
+sueño|dream, sleep|nm
+pretender|to attempt|v
+tarea|task, job|nf
+carta|letter, playing card|nf
+apenas|hardly, barely|adv
+propiedad|property|nf
+producto|product|nm
+personal|personal (adj)|adj
+simplemente|simply, just|adv
+imposible|impossible|adj
+gusto|pleasure, taste, preference|nm
+ayuda|help, aid|nf
+acordar   [also recordar]|to remember, remind|v
+lengua|language, tongue, strip of land|nf
+cortar|to cut|v
+plan|plan|nm
+corresponder|to correspond with|v
+vuelta|return, turn|nf
+romper|to break|v
+siquiera|even if|adv
+adquirir|to acquire, get|v
+proyecto|project, plan|nm
+memoria|memory|nf
+origen|origin, cause|nm
+elemento|element|nm
+inglés|English|adj
+mercado|market|nm
+curso|course, direction|nm
+lanzar|to throw (violently), to hurl [also arrojar]|v
+aprovechar|to take advantage of|v
+sangre|blood|nf
+interior|interior, inside (nm)|adj
+duro|hard (adj)|adj
+apoyar|to support, lean on|v
+negar|to deny, refuse|v
+avanzar|to advance, progress|v
+uso|use|nm
+brazo|arm|nm
+profesor|professor, teacher|nm/f
+resolver|to resolve, settle, work out|v
+futuro|future (nm)|adj
+oportunidad|opportunity, chance|nf
+mitad|half, middle|nf
+costar|to cost, to be hard to do|v
+rico|rich, tasty|adj
+recuerdo|memory, keepsake|nm
+total|total, entire (adj)|adj
+exigir|to demand|v
+abajo|down, below, downward|adv
+opinión|opinion, view|nf
+aumentar|to increase [also incrementar]|v
+recoger|to pick up|v
+boca|mouth, entrance, opening|nf
+dirección|direction, address|nf
+puro|pure, clean|adj
+abandonar|to abandon, leave (a place)|v
+pieza|piece, part|nf
+profesional|professional|adj
+imponer|to impose, enforce|v
+obligar|to obligate, force|v
+físico|physical (adj)|adj
+actitud|attitude|nf
+mar|sea|nmf
+francés|French|adj
+entrada|entrance, admission ticket|nf
+contacto|contact|nm
+corazón|heart, core|nm
+aplicar|to apply|v
+capital|capital city (f), money (m)|nmf
+rápido|quick, fast|adj
+título|title, heading|nm
+pertenecer|to belong|v
+cuarto|room, chamber (nm)|adj
+material|material, element (nm)|adj
+golpe|hit, strike, punch|nm
+disponer|to have means, dispose|v
+comunicación|communication|nf
+expresar|to express|v
+simple|simple, mere, simple-minded|adj
+totalmente|totally, completely|adv
+provocar|to cause, provoke|v
+normal|normal, usual, regular|adj
+defender|to defend, protect|v
+enfermedad|illness, sickness|nf
+bien|goods, property, benefit (nm)|nm
+materia|matter, subject|nf
+quitar|to remove, take away|v
+conservar|to conserve, preserve|v
+moderno|modern|adj
+sitio|place, space|nm
+depender|to depend on|v
+naturaleza|nature|nf
+capacidad|capacity|nf
+actual|current (adj)|adj
+marcar|to mark, note, dial|v
+distancia|distance|nf
+pleno|complete, fulfilled (as emotionally)|adj
+cerrado|closed|adj
+compartir|to share|v
+información|information|nf
+ambiente|environment, atmosphere|nm
+especialmente|especially|adv
+desarrollo|development|nm
+sol|sun|nm
+muerto|dead (adj)|adj
+consistir|to consist of|v
+constituir|to constitute, consist of|v
+dispuesto|willing, ready|adj
+cubrir|to cover|v
+funcionar|to work, function|v
+compañero|companion, classmate|nm
+salida|exit, escape, outcome|nf
+caber|to fit into|v
+conciencia|conscience, consciousness|nf
+atender|to serve, attend to|v
+enfermo|ill, sick|adj
+insistir|to insist on|v
+costumbre|habit, custom, usage|nf
+detrás|in the back|adv
+paz|peace|nf
+noticia|news|nf
+circunstancia|circumstance|nf
+dolor|pain, ache, sorrow|nm
+privado|private|adj
+estilo|style|nm
+precio|price, cost, value|nm
+popular|popular|adj
+sentar|to sit down, seat|v
+planta|plant, floor|nf
+personaje|character (e.g. movie)|nm
+famoso|famous, well-known|adj
+éxito|success|nm
+hija|daughter|nf
+merecer|to deserve, be worthy of|v
+edificio|building|nm
+autoridad|authority|nf
+piedra|stone, rock|nf
+incluir|to include|v
+conjunto|group, set|nm
+treinta|thirty|num
+cuánto|how much?|adj
+inmediato|immediate|adj
+suerte|luck, fortune|nf
+cruzar|to cross [also atravesar]|v
+tender|to tend to, lay out|v
+finalmente|finally, at last|adv
+junto|together (adj)|adv
+anunciar|to announce, advertise|v
+espíritu|spirit, ghost|nm
+miembro|member, limb|nm
+directo|direct, straight|adj
+despertar|to wake up, arouse|v
+recurso|resource, recourse, means|nm
+pared|interior wall|nf
+equipo|team, equipment, outfit|nm
+error|error, mistake|nm
+preciso|precise, necessary|adj
+diverso|different, several, diverse|adj
+dificultad|difficulty, obstacle|nf
+comentar|to comment on|v
+publicar|to publish|v
+familiar|familiar, of the family (adj)|adj
+voluntad|will, willpower, intention|nf
+reunión|meeting, reunion|nf
+modelo|model, pattern|nc
+cargar|to load up, carry|v
+fecha|date, day|nf
+participar|to participate|v
+impedir|to prevent, hinder|v
+propósito|intention, purpose|nm
+salvar|to save, rescue|v
+cuidado|care, carefulness|nm
+puesto|job, place, position|nm
+grado|degree, grade|nm
+escapar|to escape|v
+lucha|fight, struggle, wrestle|nf
+tirar|to throw, pull|v
+entero|entire, whole, complete|adj
+jefe|leader, boss, manager|nm/f
+interesante|interesting|adj
+amplio|wide, ample, broad|adj
+contestar|to answer, reply|v
+periódico|newspaper, periodical|nm
+preocupar|to worry|v
+prestar|to lend|v
+par|pair, couple (m)|nmf
+público|public, audience (nm)|nm
+pesar|to weigh (v)|v
+final|final (adj)|nmf
+calidad|quality|nf
+exponer|to expound, expose|v
+civil|civil (adj)|adj
+ciencia|science, knowledge|nf
+tamaño|size, dimension|nm
+mas|but, however|adj
+doctor|doctor|nm/f
+cuadro|painting, picture|nm
+caballo|horse|nm
+responsabilidad|responsibility|nf
+cincuenta|fifty|num
+interno|internal|adj
+detalle|detail|nm
+marcha|march, progress|nf
+nueve|nine|num
+carne|meat, flesh|nf
+jamás|never|adv
+pensamiento|thought, thinking|nm
+viajar|to travel|v
+cargo|position, charge, fee|nm
+separar|to separate|v
+santa|saint (f)|nf
+construcción|construction|nf
+juicio|judgment|nm
+terreno|ground, earth, terrain|nm
+piso|floor, story|nm
+compañía|company|nf
+regresar|to return to a place|v
+texto|text|nm
+fuente|source, fountain|nf
+presente|present (nm)|adj
+definitivo|definitive, conclusive|adj
+revista|magazine, journal|nf
+esperanza|hope|nf
+máquina|machine|nf
+contemplar|to contemplate|v
+recorrer|to travel, cover distance|v
+frase|phrase|nf
+perfecto|perfect|adj
+sala|room, hall|nf
+durar|to last|v
+instrumento|instrument|nm
+aquello|that over there (n)|pron
+defensa|defense, plea|nf
+director|director, manager, principal|nm/f
+retirar|to take away, retire|v
+explicación|explanation|nf
+artículo|article, product, item|nm
+debajo|underneath, below|adv
+permanecer|to stay, remain|v
+asistir|to attend|v
+doce|twelve|num
+radio|radio; set (m), communication (f)|nmf
+organizar|to organize|v
+película|movie, film|nf
+elección|election, choice|nf
+visita|visit, visitor, guest|nf
+contener|to contain|v
+apoyo|support, backing|nm
+presidente|president|nm
+arma|weapon|nf_el
+árbol|tree|nm
+visitar|to visit|v
+informar|to inform|v
+encuentro|meeting, game, skirmish|nm
+parecido|similar [also similar]|adj
+corriente|current, flow (nf)|adj
+lectura|reading|nf
+existencia|existence, life|nf
+lenguaje|language, speech|nm
+enviar|to send|v
+aun|even (though), still|adv
+destino|destination, destiny|nm
+educación|education|nf
+cuidar|to take care of|v
+intervenir|to intervene|v
+operación|operation|nf
+raro|strange, rare, scarce|adj
+perfectamente|perfectly|adv
+extender|to extend, spread|v
+comprobar|to verify, prove|v
+nota|note, grade|nf
+particular|particular, peculiar (adj)|adj
+ése, ésa|that one|pron
+militar|military (adj)|adj
+dormir|to sleep|v
+unido|united|adj
+discutir|to argue, discuss|v
+extraordinario|extraordinary, exceptional|adj
+teatro|theater, drama|nm
+enfrentar|to confront, face|v
+recién|recently, just|adv
+negocio|business, transaction|nm
+letra|letter, handwriting, lyrics|nf
+peor|worse (adv)|adj
+sentimiento|feeling, sentiment|nm
+conducir|to lead, drive|v
+completamente|completely|adv
+firmar|to sign|v
+solución|solution, answer|nf
+mío|mine (pron)|pron
+comida|food, meal|nf
+impresión|impression, printing|nf
+plano|plane, map, level (nm)|adj
+intención|intention|nf
+ritmo|rhythm|nm
+verde|green|adj
+exacto|exact, faithful, true|adj
+respetar|to respect|v
+banco|financial bank, bench|nm
+inmediatamente|immediately|adv
+sostener|to support, hold up|v
+piel|skin, hide, fur|nf
+delante|in front of, ahead|adv
+religioso|religious|adj
+advertir|to warn|v
+oscuro|dark, obscure|adj
+control|control|nm
+investigación|investigation|nf
+transformar|to transform, change|v
+conversación|conversation|nf
+verano|summer|nm
+respeto|respect, regard|nm
+norte|north|nm
+mediante|by means of|prep
+cuarto|fourth (adj)|nm
+tradición|tradition|nf
+bastar|to be sufficient|v
+población|population|nf
+pareja|couple, pair|nf
+pasado|past (nm)|nm
+diario|newspaper (nm)|adj
+azul|blue|adj
+mencionar|to mention, cite|v
+generación|generation|nf
+frío|cold (adj)|adj
+visión|vision|nf
+concreto|concrete, real|adj
+plantear|to propose, present|v
+probar|to test, prove, try|v
+derecho|right, straight (adj)|nm
+peligro|danger, menace|nm
+oro|gold|nm
+justo|just (adv)|adj
+manejar|to drive, handle|v
+vino|wine|nm
+unir|to unite|v
+caminar|to walk [also andar]|v
+coincidir|to coincide, agree|v
+etapa|stage, period|nf
+sencillo|simple, plain, easy|adj
+silencio|silence|nm
+salvo|except for, but|adv
+llenar|to fill|v
+dominar|to dominate, master|v
+determinado|determined, fixed|adj
+artista|artist, performer|nc
+medir|to measure|v
+labor|labor, work, task|nf
+perdido|lost|adj
+cielo|sky, heaven, ceiling|nm
+práctica|practice, skill|nf
+límite|limit|nm
+masa|mass, dough, bulk, crowd|nf
+directamente|directly, straight away|adv
+atravesar|to cross [also cruzar]|v
+formación|formation, education|nf
+perro|dog|nm
+izquierda|left|nf
+destacar|to emphasize, stand out|v
+cercano|near|adj
+cuarenta|forty|num
+pronunciar|to pronounce|v
+distinguir|to distinguish|v
+energía|energy, power|nf
+confianza|confidence, trust|nf
+adecuado|adequate, suitable|adj
+introducir|to introduce, bring in|v
+flor|flower|nf
+esposa|wife|nf
+comunicar|to communicate|v
+italiano|Italian|adj
+invitar|to invite|v
+responsable|responsible|adj
+feliz|happy, fortunate|adj
+revolución|revolution|nf
+instalar|to install|v
+tardar|to delay, take long|v
+mejorar|to improve, get better|v
+maestro|teacher (m), master (nm)|adj
+emplear|to employ|v
+alemán|German|adj
+convenir|to be agreeable, be convenient|v
+recuperar|to recuperate, recover|v
+fenómeno|phenomenon|nm
+presión|pressure|nf
+dado|given|adj
+alumno|student, pupil|nm
+teoría|theory|nf
+probablemente|probably|adv
+tono|tone|nm
+salud|health|nf
+definir|to define|v
+superar|to overcome, surpass|v
+señora|Mrs., lady, madam|nf
+exactamente|exactly|adv
+afirmar|to assert, affirm|v
+diario|daily (adj) [also cotidiano]|nm
+histórico|historical|adj
+debido: debido a|due to|adj
+vía|road, way|nf
+interpretar|to interpret|v
+alma|soul|nf_el
+admitir|to admit|v
+identificar|to identify|v
+madera|wood|nf
+fiesta|party, feast|nf
+calor|heat, warmth|nm
+mínimo|minimum (adj)|adj
+afectar|to affect|v
+hogar|home, hearth|nm
+mente|mind|nf
+seguramente|surely, securely|adv
+preocupación|worry, concern|nf
+reducir|to reduce|v
+concepto|concept|nm
+montar|to ride, mount, assemble|v
+teléfono|phone, telephone|nm
+hoja|sheet, leaf|nf
+parar|to stop moving|v
+doble|double (adj)|adj
+devolver|to give back, to return something [also retornar]|v
+ejercer|to practice, exercise|v
+poseer|to possess, own|v
+proteger|to protect|v
+causar|to cause, bring about|v
+rápidamente|rapidly, quickly|adv
+determinar|to determine, decide|v
+fuerte|strong|adj
+escritor|writer|nm/f
+intento|attempt, try|nm
+cobrar|to charge money|v
+regla|rule, ruler, regulation|nf
+dividir|to divide|v
+riesgo|risk|nm
+policía|police, police force, police officer|nc
+inventar|to invent, make up|v
+estudiante|student|nc
+plaza|square, marketplace|nf
+limitar|to limit|v
+llamada|call, knock|nf
+sensación|sensation, feeling|nf
+enemigo|enemy|nm
+unidad|unit, unity|nf
+luchar|to fight, wrestle|v
+idioma|language|nm
+raíz|root|nf
+compromiso|compromise, engagement|nm
+comentario|remark, comment|nm
+carga|load, charge, cargo|nf
+marido|husband|nm
+quince|fifteen|num
+constante|constant|adj
+derecha|right, right hand|nf
+extremo|edge, border, end (nm)|adj
+individuo|individual, person|nm
+contenido|contents, content|nm
+semejante|similar, such, alike|adj
+obligación|obligation|nf
+corte|court (f), cut (m)|nmf
+extranjero|foreign, alien (adj)|adj
+total|sum, total (nm)|nm
+acudir|to attend, go to, frequent|v
+daño|harm, injury, damage|nm
+tarde|late (adv)|nf
+mensaje|message|nm
+analizar|to analyze|v
+lista|list, roster, roll|nf
+región|region|nf
+evidente|evident, obvious|adj
+niña|child, young girl|nf
+culpa|blame, fault|nf
+encargar|to entrust, [se] take charge of|v
+discusión|discussion, argument|nf
+pelo|hair&nbsp;[also cabello]|nm
+destinar|to assign, appoint|v
+comparar|to compare|v
+celebrar|to celebrate|v
+fe|faith|nf
+fijo|fixed, steady|adj
+central|central (adj)|adj
+referencia|reference, allusion|nf
+sur|south|nm
+gesto|gesture|nm
+perspectiva|perspective|nf
+preparado|prepared|adj
+sonar|to sound, ring|v
+manifestar|to express, show|v
+controlar|to control|v
+saltar|to jump, leap, hop|v
+acaso|by chance, maybe|adv
+colegio|high school, college|nm
+inmenso|immense, vast, huge|adj
+venta|sale|nf
+documento|document|nm
+citar|to cite, quote|v
+televisión|TV, television|nf
+chico|boy&nbsp;[also muchacho]|nm
+novela|novel|nf
+requerir|to require|v
+moral|moral (adj)|adj
+alcance|reach, scope|nm
+curioso|curious, strange|adj
+crisis|crisis|nf
+fundamental|fundamental|adj
+incorporar|to incorporate, include|v
+presente|present, current (adj)|nm
+máximo|maximum (adj)|adj
+literatura|literature|nf
+batalla|battle|nf
+europeo|European|adj
+dueño|owner, landlord (m)|nm
+perseguir|to pursue|v
+vecino|neighbor (nm)|adj
+sector|sector, area, section|nm
+pintura|painting, paint|nf
+accidente|accident, irregularity|nm
+oficial|official, authorized (adj)|adj
+procurar|to try, seek|v
+numeroso|numerous|adj
+influencia|influence|nf
+intelectual|intellectual|adj
+empleado|employee|nm
+casar|to marry|v
+prácticamente|practically|adv
+moneda|coins, currency|nf
+facilidad|ease, facility|nf
+matrimonio|marriage, married couple|nm
+escaso|scarce, very little|adj
+iglesia|church|nf
+ayer|yesterday|adv
+oficina|office|nf
+cristiano|Christian|adj
+institución|institution|nf
+someter|to subject, submit, subjugate|v
+fundar|to found, base|v
+seguro|safe, sure, secure (adj)|adj
+intenso|intense, acute|adj
+frío|cold (nm)|nm
+domingo|Sunday|nm
+reacción|reaction|nf
+elevar|to elevate, raise|v
+cantar|to sing|v
+acontecimiento|event, happening|nm
+costa|coast|nf
+peligroso|dangerous|adj
+lento|slow|adj
+método|method|nm
+comunidad|community|nf
+coche|car, carriage|nm
+asumir|to assume, take on|v
+aclarar|to clarify, clear up|v
+arrastrar|to drag, pull|v
+página|page|nf
+declarar|to declare, testify|v
+frecuencia|frequency|nf
+conclusión|conclusion, end|nf
+escena|scene, stage, setting|nf
+falso|false|adj
+estructura|structure|nf
+beneficio|benefit, profit|nm
+alimento|food, nourishment|nm
+tranquilo|calm, tranquil, relaxed|adj
+velocidad|speed, velocity [also rapidez]|nf
+barrio|neighborhood, district|nm
+nombrar|to name, appoint|v
+análisis|analysis|nm
+confundir|to confuse|v
+frontera|border, frontier|nf
+describir|to describe|v
+lejano|distant|adj
+breve|brief, short|adj
+temor|fear [also miedo]|nm
+calcular|to calculate, figure out|v
+conformar|to conform|v
+ataque|attack, raid|nm
+pintar|to paint|v
+cine|cinema, US movie theater|nm
+rama|branch, bough, limb|nf
+repartir|to divide, deliver, distribute|v
+comienzo|start, beginning|nm
+exterior|exterior, outside (adj)|adj
+barco|boat|nm
+partida|game, match, departure|nf
+hallar|to find out|v
+ordenar|to put in order, organize|v
+aparato|apparatus, device|nm
+convencer|to convince, persuade|v
+médico|medical (adj)|nm/f
+extranjero|foreigner (nm)|nm
+cámara|camera, chamber|nf
+creación|creation|nf
+rodear|to surround|v
+ajeno|not belonging to, detached|adj
+reflejar|to reflect|v
+gana|desire|nf
+seco|dry, arid|adj
+quinto|fifth|adj
+moda|fashion, form|nf
+absolutamente|absolutely, completely|adv
+rechazar|to reject|v
+contribuir|to contribute|v
+ruido|noise|nm
+cama|bed (furniture)|nf
+infantil|of children, childlike, infantile|adj
+técnica|technique, skill|nf
+consejo|advice, council, counsel|nm
+internacional|international|adj
+violencia|violence|nf
+original|original (adj)|adj
+sonido|sound|nm
+vencer|to overcome, conquer|v
+estrella|star (nf)|nf
+útil|useful|adj
+alejar|to move away|v
+mirada|gaze, look|nf
+tremendo|tremendous, dreadful, huge|adj
+cuándo|when?|adv
+temprano|early|adj
+pierna|leg|nf
+transmitir|to transmit, broadcast|v
+marchar|to walk, to work (like a machine)|v
+hambre|hunger, starvation|nf_el
+placer|pleasure|nm
+profesión|profession, occupation|nf
+destruir|to destroy, ruin|v
+separado|separate|adj
+opinar|to think, be of the opinion|v
+objetivo|objective (nm)|adj
+honor|honor, honesty|nm
+montaña|mountain (nf)|nf
+cometer|to commit|v
+lógico|logical|adj
+instante|instant, moment|nm
+viento|wind, scent|nm
+lluvia|rain|nf
+ejército|army|nm
+trasladar|to move, transfer|v
+tren|train, convoy|nm
+concluir|to conclude, finish|v
+círculo|circle, club|nm
+auténtico|authentic|adj
+hermoso|beautiful, lovely|adj
+oponer|to oppose|v
+ventaja|advantage, benefit|nf
+figurar|to appear, represent, figure in|v
+terrible|terrible|adj
+isla|island|nf
+en torno a<br>torno|about, regarding|nm
+sentado|seated|adj
+amistad|friendship|nf
+concentrar|to concentrate|v
+correcto|correct, suitable|adj
+mañana|tomorrow (adv)|nf
+cadena|chain|nf
+político|politician (nm/f)|nm/f
+rey|king|nm
+permanente|permanent|adj
+ánimo|zest, spirit, heart|nm
+trato|treatment, manner, agreement|nm
+ejercicio|exercise, practice|nm
+organización|organization|nf
+agosto|August|nm
+secretario|secretary|nm/f
+norteamericano|North American|adj
+ignorar|to be unaware|v
+dedo|finger, toe, digit|nm
+gasto|expense, expenditure|nm
+café|coffee, café|nm
+diálogo|dialogue, conversation|nm
+dudar|to have doubt|v
+comercial|commercial, shopping|adj
+discurso|lecture, discourse, talk|nm
+obligado|obliged, required|adj
+hermana|sister|nf
+descansar|to rest|v
+caja|bank, box, safe|nf
+juez|judge|nc
+particular|particular, detail, individual (nm)|nm
+americano|American|adj
+poeta|poet|nc
+interior|interior, inside (adj)|nm
+sorpresa|surprise|nf
+ventana|window|nf
+característica|characteristic, aspect|nf
+adoptar|to adopt|v
+arrancar|to start a machine, uproot|v
+disfrutar|to enjoy [also gozar]|v
+práctico|practical, skillful|adj
+suma|sum, amount, summary|nf
+molestar|to bother, disturb, upset|v
+excelente|excellent|adj
+volumen|volume|nm
+estación|station, season|nf
+atrever|to dare|v
+cultural|cultural|adj
+complejo|complex, complicated (adj)|adj
+argumento|argument, plot|nm
+categoría|category|nf
+plata|silver, money|nf
+conflicto|conflict|nm
+avión|plane, airplane, aircraft|nm
+débil|weak|adj
+ropa|clothes, clothing|nf
+examen|examination, exam|nm
+habitante|inhabitant|nm
+acerca|about, concerning|adv
+ceder|to give way, yield|v
+justicia|justice, fairness|nf
+independiente|independent, self-sufficient|adj
+criterio|criterion|nm
+atraer|to attract|v
+convencido|convinced, persuaded|adj
+plazo|deadline, installment|nm
+pendiente|aware of, pending|adj
+kilómetro|kilometer|nm
+hospital|hospital|nm
+satisfacción|satisfaction|nf
+futuro|future (adj)|nm
+acumular|to accumulate, amass|v
+desconocido|unknown|adj
+practicar|to practice|v
+gozar|to enjoy&nbsp;[also disfrutar]|v
+muchísimo|great many, great amount|adj
+sesenta|sixty|num
+silla|chair, seat|nf
+justificar|to justify, excuse|v
+tradicional|traditional|adj
+soportar|to endure, stand (something)|v
+juventud|youth|nf
+resistir|to resist, endure|v
+aparte|apart, aside, separately|adv
+triste|sad, unhappy|adj
+acceso|access, entry|nm
+marco|frame, mark, setting|nm
+vestir|to wear, dress|v
+prensa|press|nf
+excepción|exception|nf
+sorprender|to surprise|v
+ausencia|absence|nf
+proceder|to proceed, start|v
+condenar|to convict, condemn|v
+sombra|shade, shadow|nf
+similar|similar&nbsp;[also parecideo]|adj
+consumir|to consume, take in|v
+sugerir|to suggest, hint at|v
+activo|active|adj
+clásico|classic|adj
+profundidad|depth, profundity|nf
+conceder|to grant, concede|v
+reciente|recent|adj
+eléctrico|electric|adj
+leche|milk|nf
+consideración|consideration, regard|nf
+componer|to compose, be part of|v
+premio|prize, reward|nm
+bello|beautiful, fine|adj
+nacimiento|birth, origin|nm
+invierno|winter|nm
+diciembre|December|nm
+brillante|brilliant, shiny, sparkling|adj
+comportamiento|behavior, conduct|nm
+crítica|criticism, critique|nf
+femenino|feminine, female|adj
+fuego|fire, gunfire|nm
+tendencia|tendency, style|nf
+fino|fine, delicate|adj
+norma|standard, pattern, norm|nf
+inferior|lower, inferior|adj
+arreglar|to fix, arrange|v
+rueda|wheel|nf
+puente|bridge|nm
+animar|to cheer up|v
+rasgo|feature, trait|nm
+positivo|positive|adj
+cuento|story, tale|nm
+definitivamente|definitely, finally|adv
+signo|sign, mark, symbol|nm
+señal|sign, mark, token|nf
+apuntar|to point, note, aim|v
+campaña|campaign|nf
+liberar|to free, liberate|v
+puerto|port, harbor|nm
+profundamente|profoundly, deeply|adv
+aventura|adventure|nf
+pesado|heavy, boring, tiresome|adj
+complicado|complicated, complex|adj
+añadir|to add|v
+marca|mark, brand, trademark|nf
+girar|to rotate, revolve|v
+ilusión|illusion, hope, dream|nf
+os|you (obj pl fam)|pron
+compra|shopping, buy, purchase|nf
+inteligencia|intelligence|nf
+volar|to fly|v
+loco|crazy, insane|adj
+virtud|virtue, quality|nf
+remedio|alternative, cure, solution|nm
+delicado|delicate|adj
+facilitar|to facilitate|v
+territorio|territory|nm
+facultad|faculty, ability|nf
+solicitar|to solicit, request|v
+fotografía|photograph|nf
+techo|ceiling, roof|nm
+temer|to fear|v
+conducta|conduct, behavior|nf
+violento|violent|adj
+aquél|that one over there (m)|pron
+salto|jump, hop, skip|nm
+pan|bread|nm
+atacar|to attack|v
+sano|healthy, wholesome [also saludable]|adj
+pegar|to hit, stick on|v
+juzgar|to judge|v
+limpio|clean|adj
+disposición|disposal, disposition|nf
+posterior|rear, backside|adj
+general|general (nm)|nm
+disciplina|discipline, subject|nf
+relacionado|related, regarding|adj
+habitual|usual, habitual, customary|adj
+personal|personnel, staff, staffing (nm)|nm
+interrumpir|to interrupt|v
+columna|column, spine|nf
+verdaderamente|truly|adv
+fabricar|to manufacture|v
+únicamente|only [also solamente]|adv
+nervioso|nervous, uptight|adj
+indio|Indian|nm
+gato|cat|nm
+margen|edge, margin, border, brink|nmf
+material|material (adj)|nm
+resistencia|resistance, opposition|nf
+consciente|conscious, aware|adj
+pérdida|loss|nf
+tratamiento|treatment, processing|nm
+entrevista|interview, meeting|nf
+espectáculo|spectacle, show|nm
+personalidad|personality, celebrity|nf
+mayo|May|nm
+confiar|to trust, confide|v
+operar|to operate|v
+representación|representation|nf
+régimen|regime, diet|nm
+punta|tip, point|nf
+vital|vital, lively, essential|adj
+alegría|joy, happiness|nf
+basar|to base on, base upon|v
+igualmente|equally|adv
+misión|mission, task|nf
+estimar|to estimate, hold in esteem|v
+cotidiano|daily (adj)&nbsp;[also diario]|adj
+confirmar|to confirm|v
+empleo|work, job, occupation|nm
+previo|previous|adj
+participación|participation, involvement|nf
+integrar|to integrate, fit in|v
+período|period, time|nm
+busca|search, hunt|nf
+superficie|surface, area|nf
+aprobar|to pass a test, approve|v
+chino|Chinese|adj
+pasión|passion, desire|nf
+vehículo|vehicle, car|nm
+inteligente|intelligent|adj
+grabar|to record, engrave|v
+enero|January|nm
+capítulo|chapter|nm
+fracaso|failure, collapse|nm
+experto|expert|nm
+inquietud|restlessness, anxiety|nf
+nuevamente|anew, again|adv
+once|eleven|num
+listo|ready, clever, smart|adj
+equivocar|to be wrong|v
+organismo|organization, organism, human body|nm
+canción|song|nf
+religión|religion|nf
+correspondiente|corresponding|adj
+departamento|department, apartment|nm
+generalmente|generally, usually|adv
+periodista|journalist|nc
+seguido|in a row, successive|adj
+llorar|to cry|v
+griego|Greek|adj
+interpretación|interpretation, interpreting|nf
+maestro|master (adj)|nm
+barato|inexpensive|adj
+proyectar|to project|v
+belleza|beauty|nf
+universidad|university, college|nf
+riqueza|riches, wealth|nf
+notable|outstanding, noteworthy|adj
+beber|to drink|v
+claramente&nbsp;|clearly|adv
+rato|moment, while, time|nm
+encargado|in charge of|adj
+técnico|technical (adj)|adj
+ciego|blind|adj
+individual|individual|adj
+apreciar|to appreciate|v
+experimentar|to experience, experiment|v
+justamente|just, exactly|adv
+amar|to love|v
+equilibrio|balance|nm
+universal|universal|adj
+ah   [also oh]|oh|interj
+fruto|fruit, result|nm
+representante|representative (nc)|nc
+robar|to rob, steal|v
+reír|to laugh|v
+literario|literary|adj
+exceso|excess|nm
+capa|layer, coat|nf
+defecto|defect|nm
+fábrica|factory, manufacture|nf
+espalda|back (body)|nf
+mezclar|to mix|v
+género|sort, gender, genre|nm
+continuo|continuous|adj
+distribuir|to distribute, deliver|v
+economía|economy, economics, thriftiness|nf
+apartar|to move away, separate|v
+bosque|forest|nm
+reclamar|to demand, require|v
+paisaje|landscape|nm
+quemar|to burn|v
+llamado|call, calling|nm
+paciente|patient|nc
+elevado|elevated, high, lofty|adj
+obedecer|to obey|v
+tensión|tension, stress, strain|nf
+establecido|established|adj
+local|local (adj)|adj
+satisfacer|to satisfy|v
+concebir|to conceive, understand|v
+ministro|government secretary, minister|nm/f
+impulso|impulse, momentum|nm
+reaccionar|to react|v
+comercio|commerce, trade|nm
+naturalmente|naturally|adv
+acusar|to accuse|v
+espera|wait|nf
+gastar|to spend money|v
+reserva|reservation, reserve|nf
+regalar|to give as a gift|v
+competencia|competition, contest|nf
+quejar|to complain|v
+penetrar|to penetrate|v
+vacío|empty, vacant (adj)|adj
+aislado|isolated|adj
+rendir|to yield, to produce|v
+observación|observation|nf
+registrar|to register, record [also inscribir]|v
+limpiar|to clean|v
+vacío|emptiness, void (nm)|nm
+atribuir|to attribute|v
+cifra|figure, number, amount|nf
+ocultar|to hide|v
+escala|scale, ladder, rank|nf
+enterar|to find out [se]|v
+procedimiento|procedure, proceedings|nm
+ajustar|to adjust, tighten|v
+fórmula|formula|nf
+ámbito|sphere, space|nm
+informe|report|nm
+dimensión|dimension, size|nf
+cliente|client, customer|nc
+manifestación|protest, manifestation|nf
+aspirar|to aspire, want|v
+y pico&nbsp;:pico|and a bit :beak, peak|nm
+sensibilidad|sensitivity|nf
+recurrir|to resort to|v
+múltiple|multiple, many|adj
+regreso|return [also retorno]|nm
+temperatura|temperature|nf
+julio|July|nm
+poderoso|powerful|adj
+digno|worthy|adj
+bomba|bomb, explosion, pump|nf
+órgano|organ|nm
+inútil|useless|adj
+avance|advance, progress&nbsp;[also adelanto]|nm
+humanidad|humanity, mankind|nf
+firma|company, signature, signing|nf
+soldado|soldier|nm/f
+sólido|solid, strong|adj
+firme|firm, steady|adj
+extremo|extreme (adj)|nm
+conforme|in agreement|adj
+esencial|essential|adj
+huir|to flee, run away|v
+percibir|to notice [also notar]|v
+clima|climate|nm
+emoción|emotion, excitement|nf
+automóvil|automobile|nm
+transcurrir|to occur, pass|v
+mal|evil (nm)|nm
+recomendar|to recommend|v
+habilidad|ability, skill, talent|nf
+identidad|identity|nf
+desgracia|misfortune, bad luck|nf
+corregir|to correct, rectify|v
+amarillo|yellow|adj
+consultar|to consult|v
+deber|duty, obligation (nm)|v
+cola|line, queue, tail|nf
+padecer|to suffer|v
+progreso|progress|nm
+elaborar|to make, develop|v
+soñar|to dream|v
+muestra|proof, sample, sign|nf
+acostumbrado|accustomed|adj
+hábito|habit|nm
+gritar|to shout|v
+artístico|artistic|adj
+mecanismo|mechanism|nm
+vivienda|housing, dwelling|nf
+ocupado|busy, occupied|adj
+área|area, zone (nf el)|nf_el
+traducir|to translate|v
+efectivamente|in fact, actually, indeed|adv
+interesado|interested|adj
+mezcla|mixture, blend|nf
+excesivo|excessive|adj
+sumar|to add up, amount to|v
+alimentar|to feed, support|v
+habitación|room, bedroom, habitat|nf
+instrucción|instruction|nf
+eliminar|to eliminate, exclude|v
+versión|version, account|nf
+lujo|luxury|nm
+intervención|intervention|nf
+llegada|arrival|nf
+alrededor|surrounding area, vicinity (nm)|nm
+testigo|witness|nm
+dominio|power, control|nm
+raza|race, lineage|nf
+renunciar|to give up, renounce|v
+descubrimiento|discovery|nm
+vacaciones|vacation|nf
+provincia|province, region|nf
+saber|knowledge (nm)|v
+argentino|Argentine|adj
+cómodo|comfortable, convenient|adj
+acostumbrar|to be accustomed to&nbsp;[also soler]|v
+fácilmente|easily|adv
+claridad|clearness, clarity|nf
+negativo|negative, pessimistic|adj
+revisar|to check, revise, inspect|v
+carecer|to lack|v
+científico|scientific (adj)|adj
+arena|sand|nf
+postura|posture, position, attitude|nf
+salón|hall, room|nm
+escenario|stage, setting, scene|nm
+armado|armed|adj
+largo|length (nm)|nm
+prometer|to promise|v
+contento|happy, content|adj
+hotel|hotel|nm
+oficio|job, occupation, function|nm
+descender|to descend|v
+cubierto|covered|adj
+fila|line, row, file|nf
+patrón|employer, landlord, patron saint, pattern|nm
+pecho|chest, breast<div><img src="paste-81720342740993.jpg" /></div>|nm
+tienda|shop, store, tent|nf
+típico|typical|adj
+protección|protection|nf
+funcionario|civil servant|nm
+reproducir|to reproduce, repeat|v
+constar|to consist of, comprise|v
+crítico|critical (adj)|adj
+transporte|transportation, transport|nm
+red|network, net, system|nf
+caída|fall, drop, falling|nf
+castellano|Castilian, Spanish|adj
+asociar|to associate with|v
+desconocer|to not know, not recognize|v
+valle|valley|nm
+fallar|to fail, miss|v
+vuelo|flight|nm
+vecino|nearby, neighboring (adj)|nm
+sexo|sex|nm
+iniciativa|initiative|nf
+increíble|incredible, unbelievable|adj
+concentración|concentration, gathering|nf
+grito|cry, shout, scream|nm
+esencia|essence|nf
+cocina|kitchen|nf
+mental|mental|adj
+reflejo|reflection (reflected image)|nm
+definición|definition|nf
+preocupado|worried, concerned|adj
+perdonar|to forgive, excuse|v
+no + obstante<br />obstante|nevertheless|adj
+abogado|lawyer|nm/f
+agradecer|to thank for|v
+admirar|to admire|v
+sesión|session, meeting|nf
+íntimo|close, intimate|adj
+reloj|clock, watch|nm
+estrecho|narrow|adj
+muchacho|boy [also chico]|nm
+octubre|October|nm
+exposición|exhibition, display|nf
+ingreso|entrance, admission, income|nm
+revelar|to reveal, disclose|v
+dibujo|drawing, sketch|nm
+frecuente|frequent|adj
+inevitable|inevitable, unavoidable|adj
+hueso|bone|nm
+ligero|light (in weight), slight|adj
+militar|soldier, military person (nm)|nm
+motor|engine, motor|nm
+oposición|opposition|nf
+patio|courtyard, playground, yard|nm
+fruta|fruit|nf
+ideal|ideal, goal (nm)|adj
+izquierdo|left (opposite of right)|adj
+ti|you (obj prep singular familiar)|pron
+actor|actor|nm
+confusión|confusion|nf
+bonito|pretty, nice|adj
+agregar|to add, gather|v
+corriente|current, common (adj)|nf
+traje|suit, dress, costume|nm
+exigencia|requirement, demand|nf
+víctima|victim, casualty|nf
+playa|beach, seaside|nf
+trabajador|worker, laborer (nm/f) [also obrero]|adj
+primario|primary|adj
+hierro|iron|nm
+ideal|ideal (adj)|nm
+completar|to complete|v
+tela|cloth, fabric|nf
+ancho|wide (adj)|adj
+producción|production [also elaboración]|nf
+febrero|February|nm
+símbolo|symbol|nm
+agradable|nice, pleasant|adj
+medicina|medicine|nf
+combatir|to fight against|v
+búsqueda|search|nf
+colectivo|collective, joint (adj)|adj
+tranquilidad|tranquility, peace|nf
+espejo|mirror, reflection|nm
+secreto|secret (adj)|adj
+comprensión|understanding (nf)|nf
+incapaz|incapable|adj
+cerebro|brain|nm
+satisfecho|satisfied|adj
+reducido|reduced, limited|adj
+tiro|throw, shot|nm
+aportar|to provide, contribute|v
+derivar|to derive, come from|v
+abuelo|grandfather|nm
+prohibir|to prohibit, forbid|v
+proporcionar|to provide, supply|v
+maravilloso|wonderful, marvelous|adj
+saludar|to greet, say hello|v
+relacionar|to relate|v
+declaración|declaration, statement|nf
+relativo|relative (adj)|adj
+sujeto|subject, individual (nm)|adj
+investigar|to investigate [also indagar]|v
+ubicar|to find, locate|v
+enseñanza|teaching, instruction|nf
+musical|musical|adj
+permiso|permission, permit|nm
+evolución|evolution, development|nf
+tío|uncle, guy|nm
+moral|morals, ethics (nf)|nf
+redondo|round (adj)|adj
+modificar|to modify|v
+sujeto|fastened, subject to (adj)|nm
+parque|park|nm
+ingeniero|engineer|nm/f
+lavar|to wash|v
+borde|edge|nm
+invadir|to invade, overcome|v
+entusiasmo|enthusiasm|nm
+evidentemente|evidently, obviously|adv
+independencia|independence|nf
+mentira|lie|nf
+exclusivamente|exclusively|adv
+sueldo|salary, pay|nm
+desplazar|to replace, move, shift|v
+comparación|comparison|nf
+setenta|seventy|num
+romano|Roman|adj
+sagrado|sacred|adj
+seno|breast, bosom, cavity|nm
+adelantar|to move forward|v
+canto|singing, chant|nm
+potencia|power, potential|nf
+examinar|to examine, inspect|v
+oficial|official, officer (nc)|nc
+fortuna|fortune, fate|nf
+crimen|crime, murder|nm
+suave|soft, gentle, mild|adj
+opuesto|opposite, contrary|adj
+sustituir|to substitute, replace|v
+ciudadano|citizen (nm)|adj
+implicar|to implicate, imply|v
+baño|bathroom, bath, swim|nm
+sabio|wise, learned|adj
+ingresar|to join, deposit, admit|v
+respirar|to breathe|v
+caliente|hot, warm, spirited|adj
+reconocimiento|recognition, acknowledgment|nm
+exterior|exterior, outside (nm)|nm
+sexual|sexual|adj
+respectivo|respective|adj
+situado|situated, located|adj
+crédito|credit, reputation|nm
+alternativa|alternative|nf
+rodeado|surrounded|adj
+esconder|to hide, conceal|v
+cuando|when (adv)|conj
+canal|channel, canal|nm
+suficientemente|enough (adv)&nbsp;|adv
+agente|agent|nc
+pago|payment|nm
+filosofía|philosophy|nf
+alterar|to alter, modify|v
+lector|reader, lecturer|nm
+emitir|to emit, give off|v
+magnífico|magnificent, splendid|adj
+triunfo|triumph, victory|nm
+inclinar|to bow, tilt, incline|v
+campesino|rural|adj
+sábado|Saturday|nm
+amiga|friend (f)|nf
+carretera|highway, road|nf
+desprender|to detach, release, remove|v
+efectivo|effective [also eficaz]|adj
+victoria|victory, triumph|nf
+circular|to circulate, go around, flow (v)|adj
+pelear|to fight, struggle|v
+pájaro|bird [also ave]|nm
+biblioteca|library|nf
+reflexión|reflection, thought|nf
+aplicado|applied|adj
+aconsejar|to advise, counsel|v
+vocación|vocation, calling|nf
+casado|married|adj
+continente|continent|nm
+severo|severe|adj
+tabla|chart, board, table, plank|nf
+justo|fair, just (adj)|adv
+ensayo|essay, rehearsal|nm
+plato|plate, dish|nm
+jardín|garden|nm
+imaginación|imagination, fantasy|nf
+precioso|beautiful, precious|adj
+probable|probable|adj
+poesía|poetry, poem|nf
+guardia|guard, watch, lookout|nc
+privilegio|privilege|nm
+monte|mountain (nm)|nm
+conmigo|with me|pron
+arrojar|to throw (violently), to hurl [also lanzar]|v
+precisión|precision|nf
+sacrificio|sacrifice|nm
+criticar|to criticize|v
+hundir|to sink, submerge|v
+hilo|thread, yarn, wire|nm
+entendido|understood|adj
+aparentemente|apparently|adv
+aparición|appearance, apparition|nf
+poema|poem|nm
+avanzado|advanced|adj
+curiosidad|curiosity, quaintness|nf
+afuera|outside|adv
+diente|tooth, cog|nm
+primo|cousin|nm
+encerrar|to shut in|v
+latino|Latin (adj)|adj
+apariencia|appearance, aspect|nf
+novedad|latest news, newness|nf
+espiritual|spiritual|adj
+limitado|limited|adj
+castigo|punishment, penalty|nm
+constantemente|constantly|adv
+denominar|to call, name [also llamar]|v
+vestido|dressed (adj)|adj
+carro|car, cart|nm
+eterno|eternal|adj
+aumento|increase, rise|nm
+pobreza|poverty, lack, scarcity|nf
+impulsar|to push, promote, drive|v
+caro|expensive, difficult, dear|adj
+empujar|to push, shove|v
+dólar|dollar|nm
+inicial|initial (adj)|adj
+local|place, quarters (nm)|nm
+dictar|to dictate, announce|v
+dulce|sweet (adj)|adj
+chocar|to crash into, collide with|v
+industria|industry, factory|nf
+caballero|gentleman, knight|nm
+especialista|specialist|nc
+temporada|season, period, time|nf
+divino|divine|adj
+humor|mood, humor|nm
+borrar|to erase|v
+nación|nation|nf
+felicidad|happiness|nf
+amante|lover|nc
+alejado|remote, distant, aloof|adj
+aguantar|to endure, put up with|v
+coger|to hold, take, catch|v
+cálculo|calculation, calculus|nm
+composición|composition, make-up, essay|nf
+rapidez|speed, velocity [also velocidad]|nf
+huevo|egg|nm
+elemental|elemental, basic|adj
+crecimiento|growth, increase|nm
+clave|key (nf)|adj
+golpear|to hit, strike|v
+tragedia|tragedy|nf
+colección|collection|nf
+chica|girl, female|nf
+prestigio|prestige|nm
+ascender|to ascend, be promoted|v
+sección|section, cut|nf
+complicar|to complicate, make difficult|v
+anciano|elderly, aged|adj
+fiel|faithful, loyal|adj
+roto|broken, torn|adj
+bolsa|bag, purse, stock exchange|nf
+cinta|tape, ribbon, film, strip|nf
+engañar|to trick, deceive|v
+elegante|elegant, smart, stylish|adj
+agotar|to exhaust, wear out, run out|v
+cuello|neck, collar|nm
+continuación|continuation, follow-up|nf
+abril|abril|nm
+precisar|to do exactly, specify|v
+actuación|performance, acting|nf
+factor|factor, cause, influence|nm
+esquina|corner|nf
+hombro|shoulder|nm
+infancia|infancy, childhood|nf
+suspender|to suspend, hang, fail|v
+descanso|rest, interval, break|nm
+ampliar|to enlarge, increase, expand|v
+zapato|shoe|nm
+parecer|opinion, looks (nm)|v
+familiar|relative (nm)|nm
+mérito|worth, merit|nm
+cultivar|to cultivate, produce|v
+oportuno|opportune, timely|adj
+explotar|to explode, exploit|v
+significativo|significant, meaningful|adj
+despedir|to dismiss, to say goodbye to|v
+suelto|loose|adj
+muro|outer wall, rampart|nm
+colaborar|to collaborate, work together|v
+a menudo|often|adv
+invertir|to invest|v
+montón|lot of, heap, pile|nm
+revolucionario|revolutionary|adj
+disco|disc, disk, record|nm
+indispensable|indispensable, essential|adj
+demanda|petition, request, demand|nf
+mundial|worldwide|adj
+mueble|piece of furniture|nm
+desastre|disaster|nm
+secreto|secret (nm)|nm
+oriental|eastern, oriental|adj
+regular|regular (adj)|adj
+angustia|anguish, distress|nf
+provenir|to come from, be from|v
+forzar|to force|v
+doméstico|domestic|adj
+nube|cloud|nf
+criar|to bring up, rear|v
+miseria|misery, wretchedness|nf
+personalmente|personally|adv
+peor|worse, worst (adj)|adv
+significado|meaning|nm
+fama|reputation, fame|nf
+palacio|palace|nm
+oído|hearing, ear|nm
+conveniente|convenient|adj
+polvo|dust, powder|nm
+confesar|to confess, admit|v
+mecánico|mechanical|adj
+sacerdote|priest|nm
+lentamente|slowly|adv
+eficaz|effective&nbsp;[also efectivo]|adj
+lección|lesson|nf
+rosa|rose|nf
+nocturno|nocturnal, evening|adj
+posiblemente|possibly|adv
+doblar|to bend, turn|v
+disminuir|to decrease, diminish|v
+averiguar|to investigate, find out|v
+sospechar|to suspect, suppose|v
+pasear|to go for a walk, ride|v
+olor|smell, odor, fragrance|nm
+radical|radical|adj
+decidido|determined, resolute|adj
+contrato|contract, agreement|nm
+presentación|presentation, introduction|nf
+cárcel|jail, prison|nf
+división|division|nf
+revés  : al revés:|backwards, upside down, inside out|nm
+sucio|dirty, filthy, underhanded|adj
+depositar|to deposit, place, store|v
+captar|to capture, attract|v
+cualidad|quality, attribute|nf
+empeñar|to pawn, pledge, engage|v
+sobrevivir|to survive, outlive|v
+índice|index, forefinger|nm
+salvaje|wild, savage, uncultivated|adj
+marzo|March|nm
+atmósfera|atmosphere, environment|nf
+planeta|planet|nm
+industrial|industrial|adj
+orgullo|pride|nm
+jornada|working day, shift|nf
+desnudo|nude, naked|adj
+querido|dear, beloved|adj
+absurdo|absurd|adj
+dramático|dramatic|adj
+palo|stick, pole|nm
+diseño|design|nm
+liberal|liberal|adj
+lógica|logic|nf
+herencia|inheritance, legacy|nf
+legal|legal|adj
+artificial|artificial|adj
+deporte|sport|nm
+reina|queen|nf
+bandera|flag|nf
+influir|to have influence|v
+maravilla|wonder, marvel|nf
+modesto|modest, humble|adj
+banda|musical band, sash|nf
+cristal|glass, crystal, window|nm
+objetivo|objective, impartial (adj)|nm
+anécdota|anecdote|nf
+universitario|university (adj)|adj
+sensible|sensitive, sentient|adj
+leyenda|legend|nf
+muerto|dead person (nm)|nm
+azúcar|sugar|nm
+multiplicar|to multiply|v
+inclinación|slope, incline, tendency|nf
+formal|formal, polite|adj
+doler|to hurt|v
+primitivo|primitive|adj
+oculto|hidden, occult|adj
+rostro|face, countenance|nm
+separación|separation|nf
+eco|echo, response|nm
+definido|definite|adj
+favorecer|to favor, help|v
+cita|appointment, date, quotation|nf
+actualidad|present time|nf
+externo|external, outward|adj
+escoger|to choose|v
+colgar|to hang up|v
+fantasía|fantasy, fancy|nf
+promesa|promise|nf
+pata|leg, paw|nf
+llover|to rain|v
+foto|photo, picture|nf
+administración|administration|nf
+absorber|to absorb, soak up|v
+civilización|civilization|nf
+organizado|organized|adj
+ocupación|occupation, use|nf
+mero|mere|adj
+asiento|seat, chair|nm
+compuesto|composite, mixed|adj
+imitar|to imitate, copy, mimic|v
+solitario|solitary, lonely|adj
+pista|clue, track, trace|nf
+testimonio|testimony, evidence|nm
+regalo|gift, present|nm
+educar|to educate|v
+comprometer|to compromise|v
+aproximar|to come near, closer|v
+bailar|to dance|v
+inspirar|to inspire, inhale|v
+contradicción|contradiction|nf
+agarrar|to grasp, catch|v
+metal|metal|nm
+aceite|oil|nm
+prolongar|to extend, prolong|v
+código|code|nm
+estricto|strict, rigorous|adj
+doloroso|painful|adj
+unión|union|nf
+extensión|extension, area, expanse|nf
+duro|money (nm)|nm
+adentro   [also dentro]|inside|adv
+idéntico|identical|adj
+previsto|foreseen, planned|adj
+adaptar|to adapt|v
+varón|male, man|nm
+situar|to situate, place, locate|v
+característico|characteristic|adj
+evidencia|evidence, certainty|nf
+dignidad|dignity|nf
+escándalo|scandal|nm
+colega|colleague|nc
+horario|schedule, timetable|nm
+orilla|shore, edge|nf
+curar|to cure|v
+copia|copy|nf
+huella|trace, track, footstep|nf
+desempeñar|to carry out, fulfill|v
+ejemplar|copy, issue (nm)|adj
+extraer|to extract, take out|v
+cura|priest (m), cure (f)|nmf
+apagar|to turn off, extinguish|v
+prever|to foresee, anticipate, forecast|v
+garantía|guarantee, warranty|nf
+vaso|drinking glass, vase|nm
+perfil|profile, outline|nm
+proporción|proportion|nf
+expulsar|to expel, throw out|v
+ceremonia|ceremony|nf
+vidrio|glass, pane|nm
+ruta|route|nf
+anuncio|advertisement, announcement|nm
+trece|thirteen|num
+soledad|loneliness, solitude|nf
+tesis|thesis, exposition|nf
+rincón|corner, nook|nm
+nariz|nose|nf
+ochenta|eighty|num
+bolsillo|pocket|nm
+exhibir|to exhibit, show off|v
+asociación|association|nf
+fresco|cool, healthy, fresh (adj)|adj
+mando|command, authority|nm
+sabor|taste, flavor, sensation|nm
+década|decade|nf
+preparación|preparation, training|nf
+tapar|to cover, wrap|v
+acceder|to consent, agree, accede|v
+atractivo|attractive (adj)|adj
+afecto|affection, fondness|nm
+encender|to turn on|v
+protesta|objection, protest|nf
+patria|native land, fatherland|nf
+consumo|consumption|nm
+católico|Catholic|adj
+selva|forest, jungle|nf
+deuda|debt|nf
+horizonte|horizon|nm
+disparar|to shoot at|v
+masculino|masculine, manly, male|adj
+talento|talent, skill|nm
+gas|gas|nm
+té|tea|pron
+gloria|glory, fame|nf
+cansado|tired, tiresome|adj
+noviembre|November|nm
+candidato|candidate|nm
+llave|key, faucet, wrench|nf
+inconveniente|inconvenience, drawback|nm
+afán|eagerness, zeal, effort|nm
+atar|to tie (up)|v
+etcétera|etcetera|n
+comisión|commission, committee|nf
+desesperado|desperate, hopeless|adj
+generar|to generate|v
+posesión|possession|nf
+dama|lady, dame|nf
+onda|wave, ripple|nf
+botella|bottle, flask|nf
+torre|tower|nf
+abarcar|to encompass, comprise|v
+combinación|combination|nf
+cadáver|corpse, body|nm
+paquete|package, packet|nm
+apellido|last name|nm
+caído|fallen|adj
+japonés|Japanese|adj
+brindar|to offer|v
+conferencia|conference, lecture|nf
+espontáneo|spontaneous|adj
+propuesta|proposal, proposition|nf
+intensidad|intensity, force|nf
+explosión|explosion|nf
+urbano|urban, city, urbane|adj
+odio|hatred|nm
+valioso|valuable, precious|adj
+universo|universe|nm
+agudo|sharp, acute|adj
+milagro|miracle|nm
+entrega|delivery|nf
+repente: de + repente|suddenly|adv
+solucionar|to solve, settle|v
+mapa|map|nm
+héroe|hero|nm
+lunes|Monday|nm
+tráfico|traffic, trade|nm
+terror|terror, horror|nm
+casualidad|chance, coincidence|nf
+tonto|stupid, dumb|adj
+risa|laugh, chuckle|nf
+cuerda|cord, rope|nf
+consulta|consultation, advice|nf
+edición|edition, publication|nf
+acomodar|to accommodate, be/make comfortable|v
+rayo|ray, beam, lightning|nm
+cuadrado|square|adj
+tía|aunt|nf
+adulto|adult, grown-up (nm)|adj
+voto|vote|nm
+calma|calm, lull|nf
+sorprendente|surprising, astonishing|adj
+favorable|favorable, suitable|adj
+oferta|offer, bid, supply|nf
+vergüenza|embarrassment|nf
+ave|bird [also pájaro]|nm
+rodilla|knee|nf
+paseo|walk, ride|nm
+variar|to change, vary|v
+culpable|guilty|adj
+normalmente|normally|adv
+secundario|secondary|adj
+registro|register, record|nm
+infinito|infinite (adj)|adj
+válido|valid|adj
+gordo|fat, thick|adj
+pintor|painter|nm/f
+delito|crime, offense|nm
+vestido|dress (nm)|nm
+relato|tale, story|nm
+baile|dance, ball|nm
+misterio|mystery|nm
+otorgar|to give, grant, award|v
+ciclo|cycle|nm
+principalmente|principally, mainly|adv
+cesar|to cease, stop|v
+síntoma|symptom|nm
+amenaza|threat|nf
+acá|here, around here|adv
+recorrido|journey, itinerary, route|nm
+concepción|conception|nf
+tristeza|sadness|nf
+vaca|cow|nf
+criatura|creature, child|nf
+creencia|belief|nf
+desagradable|unpleasant|adj
+<div>núcleo&nbsp; </div>|nucleus, core|nm
+amenazar|to threaten|v
+perdón|forgiveness, pardon|nm
+madrugada|dawn, daybreak [also alba]|nf
+agresivo|aggressive|adj
+obrero|worker, laborer (nm/f)&nbsp;[also trabajador]|adj
+parado|stopped, standing|adj
+callar|to be/make quiet|v
+cariño|love, affection|nm
+vigilar|to watch over, guard|v
+ángel|angel|nm
+rigor|harshness, rigor|nm
+orientar|guide, show the way|v
+contraste|contrast|nm
+turno; en turno a|turn; shift &nbsp;|nm
+exclusivo|exclusive|adj
+portar|to behave [se], carry|v
+reino|kingdom, reign|nm
+aproximadamente|approximately|adv
+prohibido|prohibited|adj
+funcionamiento|functioning, operation|nm
+auto|auto, car|nm
+ala|wing, flank|nf_el
+debate|debate|nm
+grueso|thick (adj)|adj
+aplicación|application|nf
+laboratorio|laboratory|nm
+urgente|urgent|adj
+vendedor|salesperson|nm/f
+copa|cup, glass, top of a tree|nf
+avisar|to notify [also notificar]|v
+renovar|to renew, renovate|v
+tratado|treaty, treatise|nm
+democrático|democratic|adj
+soltar|to release, loosen, let out|v
+abordar|to board, get in/on|v
+castigar|to punish|v
+rechazo|rejection, refusal|nm
+totalidad|whole, totality|nf
+fracasar|to fail, to be unsuccessful|v
+catorce|fourteen|num
+calificar|to grade, rate, qualify|v
+juntar|to put togerther, to get together&nbsp;[also reunir]|v
+papá|dad|nmf
+necesariamente|necessarily|adv
+considerable|considerable|adj
+cero|zero, naught, nil|num
+ejecutar|to execute, carry out|v
+mamá|mom|nf
+vela|candle, sail, vigil|nf
+protestar|to protest, object|v
+establecimiento|establishment|nm
+gris|gray, gloomy|adj
+matiz|shade, tint, nuance|nm
+impresionar|to impress|v
+meta|goal, aim, purpose|nf
+comportar|to behave|v
+básico|basic, essential|adj
+comodidad|comfort, convenience|nf
+pariente|relative (nc)|nc
+abandonado|abandoned|adj
+distribución|distribution|nf
+invitación|invitation|nf
+destrucción|destruction|nf
+indígena|indigenous, native|adj
+moreno|dark, brown|adj
+alegre|happy, lively, cheerful|adj
+opción|option, choice|nf
+extenso|extensive, large|adj
+ruso|Russian|adj
+máximo|maximum (nm)|nm
+tarjeta|card|nf
+fase|phase, stage|nf
+veinticinco|twenty-five|num
+tropa|troops, forces|nf
+remoto|remote, far-off|adj
+socio|member, partner|nm
+comunista|Communist|adj
+abundante|abundant, plentiful|adj
+dibujar|to draw, sketch|v
+guía|guide, leader|nc
+judío|Jewish|adj
+impresionante|impressive, astonishing|adj
+hielo|ice|nm
+gobernar|to govern|v
+occidental|occidental, western|adj
+deshacer|to undo, destroy, take apart|v
+primavera|spring, spring-like|nf
+mutuo|mutual|adj
+simpatía|sympathy, affinity|nf
+reconstruir|to reconstruct|v
+centímetro|centimeter|nm
+pantalla|screen, monitor|nf
+toro|bull|nm
+denunciar|to denounce|v
+cultivo|cultivation, crop|nm
+horror|horror, atrocity|nm
+bienestar|wellbeing, welfare|nm
+paciencia|patience|nf
+ay|oh no! oh my!|interj
+romántico|romantic|adj
+convicción|conviction|nf
+plenamente|fully|adv
+uniforme|uniform (nm)|adj
+media|average; a m.: halfways|nf
+mínimo|minimum (nm)|nm
+doscientos|two hundred|num
+garantizar|to guarantee|v
+compañera|female companion|nf
+pintado|painted|adj
+combinar|to combine|v
+junio|June|nm
+drama|drama|nm
+distante|distant, far, remote|adj
+sencillamente|simply|adv
+equivocado|mistaken, wrong|adj
+doble|double (nm)|nm
+episodio|episode, incident|nm
+divertir|to amuse, entertain|v
+afirmación|statement, assertion|nf
+conquistar|to conquer, win over|v
+bar|snack bar, café|nm
+fantástico|fantastic, unreal|adj
+liberación|liberation|nf
+actualmente|now, at present|adv
+envolver|to wrap|v
+estancia|stay, stance, ranch|nf
+emprender|to undertake, embark on|v
+anticipar|to anticipate, advance|v
+humilde|humble, modest|adj
+variedad|variety|nf
+desarrollado|developed, grown|adj
+capitán|captain, chief|nm
+droga|drug|nf
+específico|specific|adj
+taller|workshop, shop|nm
+desorden|disorder, mess|nm
+quebrar|to break, bend, weaken|v
+encerrado|locked up|adj
+esclavo|slave|nm
+injusto|unfair, unjust|adj
+sucesivo|successive, following|adj
+sumamente|extremely, highly|adv
+feo|ugly, nasty, rude|adj
+equilibrar|to balance|v
+asomar|to appear, show, stick (out)|v
+optar|to choose, opt for|v
+manejo|handling, management|nm
+lágrima|tear, teardrop|nf
+colaboración|collaboration|nf
+orgulloso|proud, arrogant [also soberbio]|adj
+ángulo|angle|nm
+impacto|impact|nm
+urgencia|urgency|nf
+excepcional|exceptional, unusual|adj
+creador|creator|nm
+luna|moon|nf
+instalación|installation, facilities|nf
+homenaje|homage, tribute|nm
+ruina|ruin, collapse|nf
+generoso|generous|adj
+académico|academic|adj
+azar|random, chance, hazard|nm
+estallar|to break out, explode, start|v
+copiar|to copy|v
+inaugurar|to inaugurate, start|v
+apretar|to squeeze, tighten, compress|v
+razonable|reasonable|adj
+ola|wave, billow|nf
+oreja|ear|nf
+abuela|grandmother|nf
+amable|kind, nice, friendly|adj
+doña|courtesy title (f), Mrs.|nf
+rígido|rigid, stiff, firm|adj
+arco|arch, arc, bow|nm
+oriente|East|nm
+rumbo|direction, course, bearing|nm
+ejecución|performance, execution|nf
+mentir|to (tell a) lie|v
+ordenado|organized, clean|adj
+contratar|to hire, contract|v
+caos|chaos|nm
+colonia|colony, cologne|nf
+alcohol|alcohol|nm
+apropiado|appropriate|adj
+nieve|snow|nf
+multitud|multitude|nf
+ganado|livestock, cattle|nm
+pez|fish (alive)|nm
+líder|leader|nc
+resuelto|resolved, determined|adj
+club|club, society|nm
+posteriormente|afterwards|adv
+desierto|desert (nm)|adj
+escritura|writing, scripture|nf
+árabe|Arab|adj
+danza|dance|nf
+concierto|concert, concerto|nm
+partidario|supporter, partisan|nm
+templo|temple, church|nm
+líquido|liquid|nm
+debilidad|weakness|nf
+ambición|ambition|nf
+locura|madness, insanity|nf
+comerciante|merchant, businessman|nc
+camisa|shirt|nf
+pluma|pen, feather|nf
+pelota|ball|nf
+pasaje|fare, passage, lane|nm
+limpieza|cleanliness, purity|nf
+admiración|admiration|nf
+fantasma|ghost, phantom|nm
+transformación|transformation|nf
+caza|hunting (game)|nf
+retener|to keep, retain|v
+cruel|cruel, harsh|adj
+prender|to turn on, apprehend|v
+almacén|warehouse, store|nm
+expectativa|expectation, hope, prospect|nf
+ruptura|break-up, rupture|nf
+inversión|investment, outlay|nf
+visible|visible|adj
+herida|wound, injury|nf
+hipótesis|hypothesis|nf
+formular|to formulate|v
+poquito|little bit|adj
+variado|varied, mixed|adj
+giro|turn, draft, expression|nm
+esquema|outline, diagram, plan|nm
+mito|myth|nm
+oscuridad|darkness|nf
+pensión|pension, boarding house|nf
+desaparición|disappearance|nf
+repetido|repeated|adj
+fumar|to smoke|v
+envuelto|wrapped|adj
+especializar|to specialize, major in|v
+últimamente|lately, recently|adv
+caracterizar|to characterize, portray|v
+paralelo|parallel|adj
+ordinario|vulgar, ordinary|adj
+designar|to designate|v
+bloque|block|nm
+cierre|zipper, closing|nm
+broma|joke|nf
+viernes|Friday|nm
+creciente|growing, increasing|adj
+tumba|tomb, grave|nf
+competir|to compete|v
+despacho|office, study|nm
+viuda|widow|nf
+pantalón|pants, trousers|nm
+intercambio|exchange, interchange|nm
+mancha|stain, spot|nf
+retrato|portrait, photograph|nm
+lata|tin can|nf
+combate|combat, battle, fight|nm
+instancia|application, request|nf
+secar|to dry|v
+roca|rock|nf
+herramienta|tool|nf
+anónimo|anonymous|adj
+panorama|panorama, landscape|nm
+trágico|tragic|adj
+imprimir|to print|v
+camión|truck, van, tanker|nm
+olvido|forgetfulness, omission|nm
+estrategia|strategy|nf
+muchacha|girl|nf
+conversar|to converse, talk|v
+propaganda|advertising, propaganda|nf
+lamentar|to regret|v
+misa|religious mass|nf
+alzar|to lift, raise|v
+inicio|beginning, start|nm
+fútbol|soccer|nm
+esfera|sphere, globe|nf
+iluminar|to illuminate, light up|v
+arquitectura|architecture|nf
+especialidad|specialty, specialized field|nf
+músico|musician|nm/f
+relativamente|relatively|adv
+eh|eh|interj
+eje|axis, shaft, crux|nm
+guiar|to guide, lead, steer|v
+efectuar|to carry out, cause to happen|v
+abandono|abandonment, desertion|nm
+museo|museum|nm
+propietario|owner|nm
+trozo|piece, chunk|nm
+riguroso|rigorous, severe|adj
+armonía|harmony|nf
+pacto|pact, agreement|nm
+calentar|to warm, heat|v
+atento|attentive, careful, polite|adj
+selección|selection, choice|nf
+proseguir|to continue, carry on|v
+incómodo|uncomfortable|adj
+protagonista|protagonist, main character|nc
+ferrocarril|railway|nm
+inocente|innocent, naïve|adj
+fatal|fateful, deadly, awful|adj
+intimidad|private life, intimacy|nf
+enfrente|in front of|adv
+nave|spacecraft, ship|nf
+oración|prayer|nf
+cansancio|tiredness, weariness|nm
+noble|noble (adj)|adj
+escondido|hidden|adj
+tejido|fabric, tissue|nm
+trampa  ; hacer trampa|trick, trap; to cheat|nf
+hondo|deep|adj
+descripción|description|nf
+pecado|sin|nm
+cansar|to tire, annoy|v
+divertido|funny, amusing|adj
+injusticia|injustice|nf
+heredar|to inherit|v
+librar|to liberate, set free|v
+adiós|goodbye|nm
+brillar|to shine, twinkle, be outstanding|v
+rescatar|to rescue, save|v
+tabaco|tobacco, cigarette, cigar|nm
+juvenil|young, juvenile|adj
+ausente|absent|adj
+suceso|event, incident|nm
+extrañar|to miss, long for|v
+asustar|to frighten, scare|v
+mediado|mid, middle|adj
+antecedente|antecedent|nm
+barrera|barrier, obstacle|nf
+estético|esthetic|adj
+anotar|to annotate, jot, note|v
+tribunal|court|nm
+bravo|fierce, angry|adj
+invasión|invasion|nf
+septiembre|September|nm
+dependencia|dependence, dependency|nf
+democracia|democracy|nf
+sutil|subtle|adj
+maduro|mature, ripe|adj
+mezclado|mixed|adj
+remontar|to go back to (time)|v
+limitación|limitation|nf
+lindo|pretty, nice, lovely|adj
+invitado|guest|nm
+pescado|fish (cooked)|nm
+continuamente|continuously|adv
+obvio|obvious|adj
+estrictamente|strictly|adv
+obstáculo|obstacle|nm
+aspiración|ambition, aspiration|nf
+simpático|nice, likeable, friendly|adj
+corredor|broker, corridor, runner|nm/f
+exquisito|exquisite, superb|adj
+resumen|summary|nm
+basura|garbage, rubbish|nf
+escalera|stairs, ladder|nf
+gravedad|seriousness, gravity|nf
+fundamento|foundation, ground|nm
+sustancia|substance, essence|nf
+convocar|to convene, summon|v
+harto|fed up with|adj
+derrota|defeat, loss|nf
+sospecha|suspicion|nf
+exagerado|exaggerated|adj
+huelga|strike, protest|nf
+abuso|abuse, misuse|nm
+jueves|Thursday|nm
+arreglo|arrangement|nm
+sal|salt|nf
+dosis|dose|nf
+acento|accent, stress|nm
+aviso|warning|nm
+lazo|bow, knot, tie, lasso|nm
+conservador|conservative|adj
+entorno|environment, surroundings|nm
+nieto|grandchild|nm
+príncipe|prince|nm
+imprescindible|essential, indispensable|adj
+mediodía|noon, midday|nm
+gota|drop|nf
+cajón|drawer|nm
+generalizar|to generalize, popularize|v
+señorita|young woman|nf
+preferencia|preference|nf
+habitar|to inhabit|v
+pozo|well, shaft|nm
+rumor|rumor, murmur|nm
+armar|to arm, put together|v
+concurso|competition, gathering|nm
+tesoro|treasure, thesaurus|nm
+presupuesto|budget|nm
+rural|rural, country|adj
+vigilancia|surveillance, vigilance|nf
+supremo|supreme|adj
+confuso|confused, mixed up|adj
+presa|dam, prisoner (f)|nf
+estómago|stomach|nm
+anular|to annul, cancel|v
+decisivo|decisive, conclusive|adj
+bola|ball, sphere|nf
+determinación|determination|nf
+reforma|reform, improvement|nf
+bruto|brutal, coarse, clumsy|adj
+verso|verse, poem|nm
+requisito|prerequisite, requirement|nm
+adolescente|adolescent (nc)|adj
+sentimental|sentimental|adj
+herido|wounded, injured (adj)|adj
+kilo|kilogram|nm
+alargar|to enlarge, elongate|v
+conquista|conquest|nf
+luminoso|bright, luminous|adj
+particularmente|particularly, personally|adv
+filósofo|philosopher|nm
+genio|genius, temper, genie|nm
+sucesión|succession, series|nf
+componente|component, ingredient|nm
+transparente|transparent, clear|adj
+sufrimiento|suffering|nm
+aparente|apparent|adj
+entidad|entity|nf
+saludo|greeting|nm
+estimular|to stimulate, encourage|v
+certeza|certainty|nf
+depósito|deposit, sediment|nm
+húmedo|humid, damp|adj
+pasillo|hall, corridor|nm
+pisar|to step on|v
+solidaridad|solidarity, togetherness|nf
+papa|Pope (m), potato (f)|nm
+geografía|geography|nf
+leve|slight, trifling, light|adj
+juguete|toy|nm
+violar|to violate, trespass, rape|v
+chiste|joke, funny story|nm
+aprendizaje|learning, apprenticeship|nm
+esposo|husband, spouse|nm
+boda|marriage, wedding|nf
+realista|realistic|adj
+fresco|freshness, coolness (nm)|nm
+lago|lake|nm
+enriquecer|to enrich|v
+prestado|borrowed, lent|adj
+orientación|orientation, direction|nf
+madurez|maturity, ripeness|nf
+adulto|adult, grown-up (adj)|nm
+municipal|municipal, town|adj
+demostración|demonstration|nf
+fundamentalmente|fundamentally, basically|adv
+alegrar|to be/make happy|v
+transportar|to transport, carry|v
+cumplimiento|fulfillment, compliment|nm
+respaldo|support, backing, back|nm
+superficial|superficial|adj
+dieciocho|eighteen|num
+incendio|fire, conflagration|nm
+dorado|golden, gold-plated|adj
+triunfar|to triumph|v
+joya|jewel, treasure|nf
+favorito|favorite|adj
+cementerio|cemetery, graveyard|nm
+escolar|school, scholastic|adj
+publicación|publication|nf
+variación|variation|nf
+cálido|warm|adj
+inconsciente|unconscious, thoughtless|adj
+promoción|promotion|nf
+enseguida|immediately, at once|adv
+mágico|magic, magical|adj
+sentencia|legal sentence, judgment|nf
+amargo|bitter, sour, painful|adj
+resolución|resolution|nf
+afortunadamente|luckily, fortunately|adv
+coincidencia|coincidence|nf
+estímulo|stimulus, encouragement|nm
+acoger|to welcome, accept|v
+filosófico|philosophical|adj
+sembrar|to sow, plant|v
+acentuar|to accent, stress|v
+anteriormente|previously&nbsp;[also previamente]|adv
+marino|marine, naval|adj
+barra|bar, rod, rail|nf
+entretener|to entertain, amuse|v
+desviar|to deviate, divert, change|v
+retroceder|to go back|v
+culto|cultured, educated (adj)|adj
+novia|girlfriend, bride|nf
+piano|piano|nm
+pretensión|pretension, claim|nf
+habla|speech, talking|nf_el
+novio|boyfriend, groom|nm
+sonreír|to smile|v
+espectador|spectator, onlooker|nm
+relatar|to tell, narrate|v
+pensado|thought-out, designed|adj
+bota|boot, wineskin|nf
+oh   [also ah]|oh|interj
+pretexto|pretext, excuse|nm
+horrible|horrible|adj
+fiebre|fever, excitement|nf
+difundir|to spread out|v
+lucir|to show off, shine|v
+síntesis|synthesis|nf
+este|East (n)|n
+nervio|nerve|nm
+científico|scientist (nm/f)|nm/f
+peculiar|peculiar|adj
+ejemplar|exemplary, model (adj)|nm
+grano|grain, kernel|nm
+recientemente|recently|adv
+reservar|to reserve, book|v
+asistencia|attendance, assistance|nf
+sacrificar|to sacrifice|v
+puramente|purely, simply|adv
+sonrisa|smile|nf
+exagerar|to exaggerate|v
+león|lion|nm
+bárbaro|savage, horrible|adj
+aceptación|acceptance, approval|nf
+labio|lip|nm
+visitante|visitor|nc
+autónomo|autonomous|adj
+sonoro|loud, resounding|adj
+traslado|transfer|nm
+residir|to reside, live in|v
+tentación|temptation|nf
+porvenir|future, time to come|nm
+promover|to promote|v
+atracción|attraction|nf
+jurídico|legal, juridical|adj
+reparar|to repair, to mend, to fix|v
+ilustre|renowned, illustrious|adj
+corona|crown|nf
+administrar|to administer, manage|v
+docena|dozen|nf
+ahorrar|to save (money, time)|v
+perfección|perfection|nf
+humedad|humidity|nf
+cosecha|harvest, crop|nf
+enterrar|to bury|v
+desesperación|desperation, exasperation|nf
+curva|curve|nf
+contraer|to contract, shrink, abbreviate|v
+blando|soft, limp, gentle|adj
+estable|stable, steady|adj
+ciertamente|certainly, indeed|adv
+dormido|asleep, sleeping|adj
+amo|master, boss (m)|nm
+reflexionar|to reflect, consider on|v
+humo|smoke|nm
+realización|fulfillment, realization|nf
+cuartel|quarters, barracks|nm
+tránsito|traffic, transit|nm
+dieciséis|sixteen|num
+énfasis|emphasis|nm
+tímido|timid, shy, half-hearted|adj
+empresario|manager, entrepreneur|nm
+tuyo|yours (singular familiar)|pron
+saco|sack, bag, plunder|nm
+vasto|vast, immense, huge|adj
+cruz|cross, burden|nf
+frustrado|frustrated|adj
+pausa|pause|nf
+comprometido|committed, engaged|adj
+libremente|freely|adv
+vicio|vice, bad habit, defect|nm
+impuesto|tax|nm
+consiguiente|consequent|adj
+arquitecto|architect|nm/f
+cruce|crossing, intersection|nm
+centrar|to center, focus, base on|v
+convivencia|coexistence, living together|nf
+cable|cable, wiring|nm
+aburrido|boring, bored|adj
+bondad|goodness, kindness|nf
+experimento|experiment|nm
+recto|right, straight, honest|adj
+crónica|account, chronicle|nf
+seguida: en seguida|right away, at once|adv
+originar|to give rise to, cause|v
+socialista|socialist|adj
+ahogar|to drown, choke, flood|v
+espléndido|splendid, generous|adj
+esforzar|to make an effort, exert oneself|v
+dictadura|dictatorship|nf
+eficacia|efficiency, effectiveness|nf
+detectar|to detect|v
+vapor|vapor, steam|nm
+bebida|drink, beverage|nf
+autorizar|to authorize, legalize|v
+charla|talk, chat|nf
+gestión|management, step, negotiation|nf
+afrontar|to face, confront|v
+existente|existing|adj
+cartera|wallet, satchel|nf
+inclinado|inclined, slanting|adj
+restar|to subtract, minimize|v
+circulación|circulation, traffic|nf
+denuncia|accusation, complaint, denunciation|nf
+concretar|to specify, materialize, fulfill|v
+picar|to bite, sting, itch, chop|v
+tormenta|storm|nf
+metálico|metallic|adj
+foco|focus|nm
+residencia|residence|nf
+espectacular|spectacular|adj
+jurar|to swear, take an oath|v
+rezar|to pray, recite|v
+cuero|leather, skin|nm
+misterioso|mysterious|adj
+hierba|herb, grass, weed|nf
+obrero|working class (adj)|nm/f
+administrativo|administrative|adj
+manzana|apple, city block|nf
+singular|single, singular|adj
+pedazo|piece, bit|nm
+sabiduría|wisdom, knowledge|nf
+inducir|to lead to,&nbsp;induce|v
+cigarrillo|cigarette|nm
+encantar|to be very pleasing to|v
+crudo|raw, crude, natural|adj
+agotado|tired, used up, sold out|adj
+deportivo|sports, sporty|adj
+magnitud|magnitude, extent|nf
+químico|chemical|adj
+botón|button|nm
+teórico|theoretical|adj
+igualdad|equality|nf
+privar|to deprive of|v
+deducir|to deduce, infer|v
+redactar|to edit, write, compose|v
+noción|notion, idea|nf
+planear|to plan|v
+abrazar|to hug, embrace|v
+tolerar|to tolerate, put up with|v
+semilla|seed|nf
+avenida|avenue|nf
+descartar|to discard, reject, rule out|v
+diablo|devil|nm
+sujetar|to fasten, attach, hold|v
+hueco|hole, cavity (nm)|adj
+colaborador|collaborator|nm
+capricho|caprice, whim|nm
+ciudadano|community, citizen (adj)|nm
+prudente|sensible, prudent|adj
+guitarra|guitar|nf
+agencia|agency, branch|nf
+rabia|rage|nf
+telefónico|telephone|adj
+monumento|monument|nm
+racional|rational|adj
+previamente|previously&nbsp;[also anteriormente]|adv
+trazar|to draw, trace|v
+correspondencia|correspondence, connection|nf
+barro|clay, mud|nm
+fuga|flight, escape|nf
+presionar|to press, pressure|v
+identificación|identification|nf
+contexto|context|nm
+sombrero|hat, sombrero|nm
+reiterar|to reiterate, repeat|v
+ayudante|helper, assistant|nc
+indiferente|indifferent|adj
+maniobra|maneuver, operation|nf
+inesperado|unexpected, unforeseen|adj
+distraer|to distract|v
+prejuicio|prejudice|nm
+tropezar|to trip, stumble|v
+recomendación|recommendation|nf
+francamente|frankly, openly|adv
+diseñar|to design, develop|v
+proveer|to provide|v
+seleccionar|to select|v
+convivir|to coexist|v
+instinto|instinct|nm
+sincero|sincere|adj
+progresar|to progress|v
+ideológico|ideological|adj
+precaución|caution, forethought|nf
+robo|theft, robbery|nm
+cabello|hair&nbsp;[also pelo]|nm
+utilidad|usefulness, utility|nf
+queja|complaint|nf
+abundar|to be plentiful|v
+celo|zeal,&nbsp;jealousy|nm
+publicidad|advertising, publicity|nf
+ligado|linked, joined|adj
+índole|nature, temperament|nf
+asimilar|to assimilate|v
+prolongado|prolonged, lengthy|adj
+choque|crash, collision|nm
+tecnología|technology|nf
+tubo|tube, pipe|nm
+sordo|deaf, dull|adj
+admirable|admirable|adj
+mercancía|goods, merchandise|nf
+tronco|trunk, torso|nm
+culto|worship, cult (nm)|nm
+palma|palm tree, palm|nf
+prenda|piece of clothing|nf
+coro|choir, chorus|nm
+tejer|to sew, weave|v
+túnel|tunnel|nm
+cercanía|nearness, proximity|nf
+proclamar|to proclaim|v
+cuchillo|knife|nm
+desprecio|contempt, disdain|nm
+plástico|plastic (nm)|adj
+complejo|complex (nm)|nm
+plantar|to plant|v
+naranja|orange (fruit)|nf
+derrotar|to defeat, beat|v
+frenar|to brake, restrain|v
+voluntario|voluntary, volunteer|adj
+adivinar|to guess, solve|v
+cuota|quota, share, dues|nf
+mosca|fly (insect)|nf
+judicial|judicial|adj
+pescar|to fish|v
+doctrina|doctrine, teachings|nf
+reservado|reserved, booked|adj
+laguna|lagoon|nf
+distinción|distinction|nf
+tribu|tribe|nf
+refugio|shelter, refuge|nm
+tragar|to swallow|v
+legítimo|legitimate|adj
+flotar|to float, flutter|v
+convencional|conventional|adj
+sacudir|to shake, jolt|v
+gigantesco|giant, gigantic|adj
+cena|dinner|nf
+incertidumbre|uncertainty|nf
+tierno|tender, soft|adj
+ligeramente|slightly, lightly|adv
+aéreo|aerial, air|adj
+suprimir|to suppress, delete|v
+ahorro|saving, thrift|nm
+sobrar|to be too much, left over|v
+brotar|to sprout|v
+prisión|prison, imprisonment|nf
+investigador|researcher, investigator|nm/f
+técnico|technician (nm/f)|nm/f
+paraíso|paradise|nm
+automático|automatic|adj
+postre; a la postre|dessert; in the end|nmf
+inquieto|restless, anxious|adj
+helado|iced, freezing, icy|adj
+plástico|plastic (adj)|nm
+alimentación|feeding, food|nf
+miel|honey|nf
+vulgar|vulgar, common, banal|adj
+desafío|challenge, provocation|nm
+aeropuerto|airport|nm
+valorar|to value|v
+diferenciar|to differentiate, distinguish|v
+abrigo|overcoat, shelter|nm
+hábil|skillful, clever|adj
+veinticuatro|twenty-four|num
+sello|stamp, seal|nm
+campana|bell|nf
+destacado|outstanding, leading|adj
+encendido|turned on, burning|adj
+incidente|incident|nm
+fragmento|fragment, passage|nm
+plano|flat, plain, even, level (adj)|nm
+compensar|to compensate, make up for|v
+obligatorio|obligatory, compulsory|adj
+asignar|to assign, allocate|v
+contemporáneo|contemporary|adj
+suscitar|to arouse, provoke|v
+finalizar|to end, finalize|v
+reforzar|to reinforce, strengthen|v
+mina|mine (nf)|nf
+restaurante|restaurant|nm
+porcentaje|percentage|nm
+conductor|driver, conductor|nm/f
+contigo|with you|pron
+evolucionar|to evolve, develop|v
+magia|magic|nf
+presidir|to preside over|v
+comedor|dining room|nm
+seriedad|seriousness|nf
+gallina|hen, coward|nf
+espada|sword|nf
+discreto|discreet, tactful|adj
+excelencia|excellence|nf
+agitar|to shake, move|v
+amoroso|loving, affectionate|adj
+músculo|muscle|nm
+optimista|optimistic|adj
+persecución|pursuit, persecution|nf
+imperio|empire, fortune|nm
+casco|helmet|nm
+pelea|fight, quarrel|nf
+retorno|return [also regreso]|nm
+oler|to smell|v
+aludir|to allude to|v
+de veras<br />vera|really, for real|nf
+delgado|thin, skinny|adj
+latín|Latin (nm)|nm
+resumir|to summarize|v
+rutina|routine|nf
+tenso|tight, tense|adj
+mejora|improvement|nf
+domicilio|residence, address|nm
+porquería|filth, junk|nf
+burlar|to mock|v
+susto|fright, scare|nm
+encajar|to insert, fit well|v
+nadar|to swim|v
+amanecer|daybreak, dawn (nm)|nm
+célula|cell (biology)|nf
+acelerar|to accelerate, speed up|v
+crítico|critic (nm)|nm
+inspiración|inspiration, inhalation|nf
+ladrillo|brick|nm
+proyección|projection, screening|nf
+desplegar|to unfold, deploy|v
+desembocar|to flow, lead into|v
+lana|wool|nf
+indirecto|indirect|adj
+infierno|hell, inferno|nm
+aliviar|to lighten, relieve, comfort|v
+acero|steel|nm
+ejecutivo|executive|adj
+cazar|to hunt|v
+ojalá|I hope that|adv
+aplaudir|to clap, applaud|v
+preso|prisoner (nm)|adj
+billete|ticket, bill, note|nm
+motivar|to motivate, cause|v
+descuidar|to neglect|v
+referente|concerning|adj
+tontería|stupidity, stupid thing&nbsp;[also estupidez]|nf
+cauce|riverbed, ditch|nm
+ignorancia|ignorance|nf
+acostar|to put/go to bed|v
+encanto|charm, spell|nm
+propiamente|exactly, properly|adv
+sed|thirst|nf
+escudo|shield, coat of arms|nm
+muñeca|doll, wrist|nf
+dotado|endowed, gifted|adj
+conectar|to connect, plug in|v
+rango|rank, range|nm
+invento|invention|nm
+arder|to burn, glow|v
+recinto|grounds, precincts|nm
+tinta|ink|nf
+garganta|throat, gorge|nf
+viajero|traveler, passenger|nm
+asesino|killer, assassin|nm
+rito|rite, ritual|nm
+atractivo|attraction, charm (nm)|nm
+callado|quiet, reserved|adj
+frustración|frustration|nf
+flexible|flexible|adj
+cemento|cement, concrete|nm
+catástrofe|catastrophe|nf
+dulce|candy, sweets (nm)|nm
+recuperación|recovery, recuperation|nf
+localizar|to locate, find, localize|v
+mediano|average, medium, ordinary|adj
+almuerzo|lunch|nm
+pacífico|peaceful|adj
+uña|nail, fingernail, toenail|nf
+contradictorio|contradictory|adj
+excepto|except for|prep
+herir|to wound, hurt|v
+costo|price, cost, expense|nm
+manifiesto  : poner de manifiesto|to show|nm
+mortal|mortal, lethal, deadly (adj)|adj
+repetición|repetition|nf
+patrimonio|patrimony, inheritance|nm
+solemne|solemn|adj
+estatua|statue|nf
+decadencia|decline, decay|nf
+mudo|mute, silent|adj
+precipitar|to plunge, hurl, rush|v
+sorprendido|surprised|adj
+excluir|to exclude, reject|v
+enfermero|nurse|nm/f
+psicológico|psychological|adj
+adorar|to worship, adore|v
+aficionado|fan, devotee|nm
+preferible|preferable|adj
+célebre|famous, renowned|adj
+agujero|hole, opening|nm
+beneficiar|to benefit|v
+arroz|rice|nm
+valiente|brave, courageous, bold|adj
+delicioso|delicious, delightful, charming|adj
+potente|potent, powerful|adj
+cerveza|beer, ale|nf
+escasez|scarcity, shortage|nf
+ministerio|ministry|nm
+vuestro|your (plural familiar)|adj
+notorio|notorious, noticeable|adj
+transición|transition|nf
+sexto|sixth|adj
+despreciar|to despise, scorn|v
+negativa|negative, denial|nf
+falda|skirt|nf
+improvisar|to improvise|v
+emerger|to emerge, surface|v
+clavar|to nail|v
+cantante|singer|nc
+constancia|perseverance|nf
+electrónico|electronic|adj
+anillo|ring|nm
+balance|outcome, balance|nm
+entendimiento|understanding|nm
+volcar|to turn/knock over, empty|v
+quieto|still, motionless, calm|adj
+transcurso|passing, course, lapse|nm
+barrer|sweep, clean out|v
+desayuno|breakfast|nm
+alfombra|rug, carpet mat|nf
+historiador|historian|nm/f
+rogar|to implore, pray, ask|v
+pálido|pale, ghastly, faded|adj
+programar|to plan, program|v
+animado|excited, lively|adj
+chileno|Chilean|adj
+ficción|fiction|nf
+ensayar|to test,&nbsp;rehearse|v
+materno|maternal|adj
+jugador|player, gambler|nm
+cartel|poster|nm
+desconfianza|distrust|nf
+respiración|respiration, breath|nf
+votar|to vote|v
+caña|cane, reed|nf
+aislar|to isolate, insulate|v
+soltero|single, not married|adj
+prisionero|prisoner|nm
+turista|tourist (nc)|nc
+abundancia|abundance|nf
+rodar|to roll, run, scatter|v
+asistente|assistant|nc
+vinculado|connected|adj
+queso|cheese|nm
+arriesgar|to risk, venture|v
+indicio|indication, sign|nm
+colgado|hanging|adj
+bautizar|to baptize, christen|v
+cerro|hill|nm
+desatar|to untie, unleash, spark off|v
+alentar|to encourage|v
+descargar|to unleash, unload|v
+galería|gallery, balcony|nf
+engaño|deceit, falsehood, hoax|nm
+enamorar|to fall in love|v
+geográfico|geographical|adj
+continuidad|continuity|nf
+receta|recipe, prescription|nf
+conveniencia|convenience, usefulness|nf
+reemplazar|to replace|v
+carencia|lack, shortage [also falta]|nf
+cerdo|pig, sow, slob|nm
+soplar|to blow (wind)|v
+frágil|fragile, weak|adj
+empeño|insistence, determination|nm
+agresión|aggression, attack|nf
+fortaleza|fortress, strength|nf
+seriamente|seriously|adv
+balcón|balcony|nm
+observador|observer|nm
+ridículo|ridiculous, absurd (adj)|adj
+renta|income, rent|nf
+justificación|justification|nf
+enfrentamiento|confrontation|nm
+junta|meeting, conference, seam|nf
+irregular|irregular|adj
+trayectoria|trajectory, path|nf
+genial|brilliant, inspired|adj
+indiferencia|indifference|nf
+taza|cup, bowl|nf
+vínculo|tie, bond, link|nm
+cuaderno|notebook, workbook|nm
+gracioso|funny, charming, amusing|adj
+regir|to rule, govern, manage|v
+intermedio|interim, intermediate (adj)|adj
+bañar|to bathe, take a bath|v
+temporal|temporary|adj
+rozar|to touch lightly|v
+pánico|panic|nm
+distinguido|distinguished|adj
+cañón|canyon, cannon|nm
+dudoso|doubtful, dubious|adj
+pollo|chicken|nm
+lamentable|regrettable|adj
+trascendencia|transcendent nature, significance|nf
+remitir|to remit|v
+interminable|endless, interminable|adj
+corrupción|corruption|nf
+confesión|confession, admission|nf
+corbata|tie, sash|nf
+macho|male, manliness|nm
+disolver|to dissolve|v
+secuencia|sequence|nf
+cáncer|cancer|nm
+velar|to watch over|v
+archivo|archive, file, filing cabinet|nm
+habitualmente|habitually|adv
+trámite|procedure, step, requirement|nm
+tranquilamente|calmly, peacefully|adv
+innecesario|unnecessary|adj
+raya|line, ray, stripe|nf
+televisor|television set|nm
+estabilidad|stability|nf
+grandeza|greatness, size|nf
+prisa|hurry|nf
+persistir|to persist|v
+temblar|to tremble, shake|v
+verbal|verbal, oral|adj
+matemática|mathematics|nf
+demonio|demon, devil|nm
+intacto|intact|adj
+procedente|coming from&nbsp;[also proveniente]|adj
+cenar|to dine|v
+disponible|available|adj
+tornar|to transform, turn|v
+encantado|pleased, delighted|adj
+británico|British|adj
+manga|sleeve|nf
+perjudicar|to endanger|v
+laboral|labor, industry (adj)|adj
+rubio|blonde, fair|adj
+prevenir|to avoid, prevent [also evitar]|v
+seda|silk|nf
+envidia|envy|nf
+emergencia|emergency|nf
+enamorado|in love|adj
+grasa|grease, fat|nf
+culminar|to culminate, accomplish|v
+alcalde|mayor|nm
+insuficiente|insufficient|adj
+sostenido|sustained, steady|adj
+congreso|congress|nm
+espantoso|frightening, dreadful|adj
+aplauso|applause, praise, acclaim|nm
+prima|female cousin, down payment|nf
+ansiedad|anxiety|nf
+dirigente|leader, director, manager|nc
+ascenso|promotion, climb|nm
+finalidad|purpose, aim|nf
+preceder|to precede|v
+financiero|financial|adj
+nostalgia|nostalgia, homesickness|nf
+mención|mention|nf
+afición|fondness, interest|nf
+colonial|colonial|adj
+lástima|shame, pity|nf
+teatral|theatrical|adj
+lápiz|pencil|nm
+vertical|vertical, upright|adj
+nido|nest|nm
+gratuito|free, arbitrary, gratuitous|adj
+difícilmente|with difficulty|adv
+orquesta|orchestra, dance band|nf
+conexión|connection, relationship|nf
+alternar|to alternate|v
+vegetal|plant, vegetable (adj)|adj
+usado|worn out, old, used|adj
+vigor|force, strength, vigor|nm
+salario|salary, wages|nm
+acertar|to get right|v
+filo|cutting edge|nm
+ambicioso|ambitious, greedy|adj
+policial|police (adj)|adj
+poético|poetic|adj
+batir|to beat an object|v
+maíz|corn, maize|nm
+desgraciadamente|unfortunately|adv
+satisfactorio|satisfactory|adj
+autonomía|autonomy, range|nf
+vago|vague|adj
+estúpido|stupid, idiotic|adj
+demorar|to delay, take time|v
+ama|housekeeper, housewife|nc
+beso|kiss|nm
+cintura|waist|nf
+automáticamente|automatically|adv
+pauta|guideline, rule, standard|nf
+honesto|honest|adj
+recepción|reception, waiting-room|nf
+bala|bullet, shot|nf
+suicidio|suicide|nm
+placa|plaque, plate, badge|nf
+calmar|to calm, soothe, relieve|v
+brusco|brusque, abrupt, sudden|adj
+asesinato|murder, assassination|nm
+mentalidad|mindset, mind|nf
+jerarquía|hierarchy, rank|nf
+duración|duration, length|nf
+hallazgo|finding, discovery|nm
+proximidad|proximity|nf
+estadística|statistic|nf
+presumir|to boast, show off, suppose|v
+trescientos|three hundred|num
+iluminado|illuminated|adj
+castillo|castle|nm
+traducción|translation|nf
+diversión|fun, entertainment|nf
+introducción|introduction|nf
+lámpara|lamp|nf
+dicho|saying, proverb (nm)|adj
+simbólico|symbolic|adj
+fluir|to flow|v
+heroico|heroic|adj
+asesinar|to murder, assassinate|v
+audiencia|audience, hearing|nf
+pasajero|passenger (nm)|adj
+décimo|tenth|adj
+costado|side, flank|nm
+otoño|autumn|nm
+feria|fair, festival|nf
+exilio|exile|nm
+indudablemente|doubtless, undoubtedly|adv
+preservar|to preserve|v
+portador|bearer, carrier|nm
+obispo|bishop|nm
+disimular|to disguise, hide, pretend|v
+quemado|burned, burnt|adj
+perfeccionar|to perfect|v
+vano|vain, useless|adj
+apertura|opening, beginning|nf
+ideología|ideology|nf
+casero|homemade|adj
+molesto|annoyed, bothered, upset|adj
+cocinar|to cook|v
+auxiliar|auxiliary, ancillary|adj
+silencioso|quiet, silent|adj
+navegar|to navigate, sail|v
+cazador|hunter|nm/f
+seguro|insurance (nm)|nm
+ingenio|ingenuity, talent, wit|nm
+hembra|female, woman|nf
+bando|faction, side|nm
+nativo|native|adj
+dormitorio|bedroom, dormitory|nm
+plenitud|fullness, abundance|nf
+aceptable|acceptable, suitable|adj
+coraje|courage, toughness|nm
+plomo|lead, bullet|nm
+descendiente|descendant|nc
+rotundo|categorical|adj
+república|republic|nf
+sierra|mountain range, saw|nf
+aplastar|to flatten, crush, smash|v
+guante|glove|nm
+cartón|cardboard, carton, sketch|nm
+repentino|sudden [also súbito]|adj
+ansioso|anxious eager|adj
+subrayar|to underline, highlight, emphasize|v
+adolescencia|adolescence|nf
+despacio|slow, slowly|adj
+innumerable|innumerable, countless|adj
+complicación|complication|nf
+insoportable|unbearable, intolerable|adj
+taxi|taxi, cab|nm
+porción|part, portion, share|nf
+timbre|doorbell, bell, seal, stamp|nm
+monstruo|monster, monstrosity|nm
+bebé|baby|nm
+trayecto|trajectory, course, path|nm
+globo|balloon, globe|nm
+celebración|celebration|nf
+quehacer|task, job, chore|nm
+electoral|electoral|adj
+obsesión|mania, obsession|nf
+bronce|bronze|nm
+formidable|formidable, tremendous|adj
+licencia|license, permission|nf
+motivación|motivation|nf
+noventa|ninety|num
+anoche|last night|adv
+depresión|depression, slump|nf
+pulmón|lung|nm
+apoderar|to take power|v
+debatir|to debate, discuss|v
+reponer|to replace, restore|v
+fibra|fiber, grain|nf
+disputar|to dispute, contest|v
+quinientos|five hundred|num
+petróleo|oil, petroleum|nm
+sucesivamente|successively, step by step|adv
+permanencia|permanence, tenure|nf
+vos|you (subj singular familiar) [also tú]|pron
+miércoles|Wednesday|nm
+horno|oven, furnace|nm
+logro|success, achievement|nm
+vientre|womb, belly|nm
+petición|request, petition|nf
+civil|civilian (nc)|nc
+reparto|distribution, delivery|nm
+advertencia|warning, notice|nf
+arrebatar|to snatch, grab|v
+previsión|forecast, precaution|nf
+miserable|wretched, miserable|adj
+grato|agreeable, pleasant|adj
+mandato|mandate, order, command|nm
+odiar|to hate|v
+clave|key (adj)|nf
+diecisiete|seventeen|num
+timidez|shyness, timidity|nf
+toque|touch, ringing, warning|nm
+máscara|mask|nf
+venganza|revenge, vengeance|nf
+barba|beard|nf
+alarma|alarm|nf
+insinuar|to insinuate, hint|v
+aliento|breath, courage, spirit|nm
+pureza|purity, chastity|nf
+fallecer|to pass away (to die)|v
+comedia|comedy, play, pretense|nf
+aldea|small village|nf
+enérgico|energetic, vigorous|adj
+eludir|to evade, avoid, elude|v
+párrafo|paragraph|nm
+permanentemente|permanently|adv
+brillo|shine, twinkling, sparkle|nm
+ocasionar|to occasion, bring about|v
+rastro|track, sign, flea market|nm
+concretamente|specifically, exactly|adv
+ignorante|ignorant|adj
+adorno|decoration, adornment|nm
+curiosamente|strangely, funnily enough|adv
+lógicamente|logically|adv
+mono|monkey|nm
+razonamiento|reasoning|nm
+ilustrado|learned, illustrated|adj
+pastor|shepherd, pastor|nm/f
+tramo|section, stretch, plot|nm
+reto|challenge, defiance|nm
+altísimo|very high, tall|adj
+estupendo|marvelous, stupendous|adj
+pesadilla|nightmare|nf
+centenar|hundred (nm)|nm
+molestia|bother, nuisance, trouble|nf
+restante|remaining|adj
+paja|straw, thatching|nf
+regional|regional|adj
+cómico|comic|adj
+concesión|awarding, concession|nf
+tardío|late, belated|adj
+nudo|knot|nm
+retomar|to retake, restart|v
+martes|Tuesday|nm
+utilización|use, utilization|nf
+tapa|cover, lid|nf
+traición|treason, betrayal|nf
+asentar|to settle, establish, locate|v
+pesca|fishing|nf
+malestar|discomfort, unease, unrest|nm
+rata|rat|nf
+puntual|punctual|adj
+defensor|defender|nm
+auxilio|help, aid, assistance|nm
+estrechar|to tighten, make closer|v
+traspasar|to go beyond, cross over|v
+cobre|copper|nm
+imaginario|imaginary|adj
+brutal|brutal, savage|adj
+disperso|spread out|adj
+ingenuo|naive, ingenuous|adj
+anual|annual, yearly|adj
+intuición|intuition|nf
+invención|invention, contrivance|nf
+asimismo|as well, also, moreover|adv
+vena|vein|nf
+freno|brake|nm
+costoso|costly, expensive|adj
+repleto|full, overcrowded|adj
+consumar|to complete, carry out, consummate|v
+asaltar|to assault|v
+interrupción|interruption|nf
+condena|sentence in prison, penalty|nf
+inocencia|innocence|nf
+relieve; poner de relieve|relief&nbsp;(scupture or Earth surface); to emphasize|nm
+semejanza|similarity, likeness|nf
+cumbre|summit, top|nf
+diariamente|daily (adv)|adv
+colmo; para colmo|climax; to top it all|nm
+asombroso|amazing|adj
+administrador|administrator, manager|nm/f
+arrepentir|to repent, regret|v
+decreto|decree, order|nm
+exigente|demanding, urgent|adj
+ironía|irony|nf
+felicitar|to congratulate|v
+seña|sign, mark, seal|nf
+ritual|ritual, rite|nm
+apto|appropriate, fit, able|adj
+incierto|uncertain|adj
+espeso|thick, dense, stiff|adj
+presenciar|to be present at, witness|v
+escritorio|desk, bureau|nm
+solicitud|request, application|nf
+víspera|eve|nf
+insecto|insect|nm
+ridículo|ridicule (nm)|nm
+derrumbar|to knock down, demolish|v
+ira|rage, wrath|nf
+ceniza|ash|nf
+apasionado|passionate|adj
+monja|nun|nf
+abstracto|abstract|adj
+parto|birth|nm
+creativo|creative|adj
+autoritario|authoritarian|adj
+excesivamente|excessively|adv
+circuito|circuit, circumference, track|nm
+subterráneo|underground|adj
+oveja|sheep, ewe|nf
+dueña|landlady, owner (f)|nf
+dañar|to damage|v
+ubicación|position, location|nf
+feroz|ferocious, fierce|adj
+hacienda|ranch|nf
+antigüedad|antiquity, seniority|nf
+puño|fist, handle, cuff|nm
+excusa|excuse|nf
+asombrar|to amaze, astound|v
+trama|plot, theme|nf
+sistemático|systematic|adj
+inclusive|including, even|adv
+alteración|alteration, change|nf
+sumo|utmost, highest|adj
+eficiente|efficient|adj
+invisible|invisible|adj
+acusación|accusation, charge|nf
+sinceramente|sincerely|adv
+salvación|salvation, rescue|nf
+rebelde|rebel (adj)|adj
+fundador|founder|nm
+oscilar|oscillate|v
+privilegiado|privileged|adj
+recobrar|to recover, regain|v
+original|original (nm)|nm
+maquinaria|machinery|nf
+dominante|dominant|adj
+vaciar|to empty, pour out|v
+tortura|torture|nf
+humano|human (nm)|nm
+insistencia|insistence, persistence|nf
+morder|to bite|v
+atrapar|to trap, catch|v
+tibio|lukewarm|adj
+amanecer|to dawn, get light (v)|v
+sospechoso|suspicious|adj
+sobrino|nephew|nm
+recitar|to recite|v
+explorar|to explore|v
+fabuloso|fabulous, fantastic|adj
+embarcar|to embark, load|v
+aguardar|to wait for, await|v
+apunte|note, annotation|nm
+antepasado|ancestor|nm
+antemano|beforehand, in advance|adv
+parir|to give birth|v
+refugiar|to take shelter, give refuge|v
+sillón|armchair, seat|nm
+denso|heavy, dense, thick|adj
+colectivo|collective, group (nm)|nm
+dieta|diet|nf
+teniente|lieutenant, deputy mayor|nm
+polo|pole, polo, polo shirt|nm
+verificar|to verify|v
+agrícola|agricultural, farming|adj
+abismo|abyss, large gap|nm
+algodón|cotton|nm
+harina|flour|nf
+exactitud|accuracy|nf
+extinguir|to extinguish, put out|v
+provecho|benefit, use|nm
+mensual|monthly|adj
+agradar|to please|v
+sobrepasar|excel, out perform|v
+prudencia|prudence, moderation|nf
+insulto|insult|nm
+narrar|to narrate, tell|v
+flujo|flow, tide, discharge|nm
+aguja|needle, spire, stylus|nf
+planteamiento|proposal, exposition|nm
+simultáneamente|simultaneously|adv
+florecer|to flower, bloom, flourish|v
+torpe|clumsy, awkward, slow|adj
+cortina|curtain, screen|nf
+acarrear|to carry, result in, entail|v
+liso|smooth, flat, straight|adj
+asustado|scared, frightened|adj
+profundizar|to deepen, analyze in depth|v
+apostar|to wager, bet|v
+propicio|appropriate, suitable|adj
+reproducción|reproduction|nf
+expansión|expansion, spreading|nf
+umbral|threshold, outset|nm
+alusión|allusion, hint|nf
+descenso|decline, descent, lowering|nm
+clasificar|to classify, sort, file|v
+recortar|to trim, cut off, clip|v
+dicho|aforementioned, said (adj)|nm
+ambiguo|ambiguous|adj
+océano|ocean|nm
+proposición|proposition|nf
+absurdo|absurdity, nonsense|nm
+parada|transportation stop|nf
+encantador|charming|adj
+deslizar|to slide, glide, slip|v
+estirar|to stretch, strain|v
+respetuoso|respectful|adj
+africano|African|adj
+titular|headline, holder (nm)|nm
+calendario|calendar|nm
+interlocutor|participant in a dialog|nm
+abusar|to abuse|v
+complementar|to complement, supplement|v
+disgusto|disgust, annoyance|nm
+conservación|conservation|nf
+revivir|to revive|v
+elaboración|production [also producción]|nf
+conmover|to move, affect|v
+correo|mail, post office|nm
+circo|circus|nm
+adversario|adversary|nm
+cubierta|covering, top, lid|nf
+aniversario|anniversary|nm
+franja|strip, stripe, fringe|nf
+charlar|to chat, talk|v
+pila|battery, pile, sink|nf
+flaco|thin, frail|adj
+biológico|biological|adj
+equivaler|to be equivalent, tantamount to|v
+fomentar|to foster, promote, encourage|v
+goma|rubber|nf
+enormemente|enormously|adv
+ancho|width (nm)|nm
+emocional|emotional|adj
+diplomático|diplomatic (adj)|adj
+uva|grape|nf
+ética|ethics|nf
+inscripción|inscription, registration|nf
+progresivo|progressive|adj
+reanudar|to renew, resume|v
+adquisición|acquisition|nf
+mudar|to move, change|v
+glorioso|glorious|adj
+sentir|feeling (nm)|v
+turco|Turkish|adj
+prescindir|to do without|v
+renuncia|resignation, renunciation|nf
+préstamo|loan, borrowing|nm
+poblado|populated|adj
+besar|to kiss|v
+impreso|printed|adj
+dedicación|dedication, devotion|nf
+instituto|institute|nm
+paloma|dove|nf
+resaltar|to emphasize|v
+devoción|devotion|nf
+inverso|inverse, opposite|adj
+intercambiar|to exchange|v
+consolar|to console|v
+descomponer|to decompose, break down|v
+enfocar|<div>to focus</div>|v
+espina|thorn, spine|nf
+aprobación|approval, consent|nf
+fachada|front of a building|nf
+funcional|functional|adj
+jugo|juice|nm
+traicionar|to betray|v
+discípulo|disciple|nm
+coronel|colonel|nm
+orgánico|organic|adj
+modificación|modification, alteration|nf
+acumulación|accumulation|nf
+comparable|comparable|adj
+mantenimiento|maintenance, sustenance|nm
+marginal|marginal, minor|adj
+pardo|brown, dark, dim|adj
+cabecera|head, header|nf
+revelación|revelation|nf
+peseta|peseta (money)|nf
+cuna|cradle, birth, lineage|nf
+tendido|spread, hung, laid out|adj
+horizontal|horizontal|adj
+ácido|acid|nm
+incapacidad|inability, incompetence|nf
+villa|village, villa|nf
+lecho|bed|nm
+alquiler|rent, rental|nm
+contrastar|to contrast|v
+redacción|editing, wording, essay|nf
+ficha|index card, chip, token|nf
+penoso|painful, laborious|adj
+inseguridad|insecurity|nf
+coma|comma (f), coma (m)|nmf
+desenvolver|to unwrap|v
+agricultura|agriculture, farming|nf
+naturalidad|ease, spontaneity|nf
+serenidad|serenity, calm|nf
+preferido|preferred, favorite|adj
+pistola|gun, pistol|nf
+interrogar|to question, interrogate|v
+insignificante|insignificant|adj
+subsistir|to subsist, survive|v
+diputado|deputy, member|nm
+literalmente|literally|adv
+duelo|grief, affliction|nm
+revolver|to stir, to make upset, to rummage through|v
+frecuentemente|frequently, often|adv
+retornar|to return, give back&nbsp;[also devolver]|v
+comandante|commander, commanding officer|nm
+preso|imprisoned, confined (adj)|nm
+ópera|opera|nf
+réplica|answer, retort, copy|nf
+fuertemente|strongly|adv
+global|global, overall|adj
+alquilar|to rent, hire [also arrendar]|v
+pulso|pulse, pulsation|nm
+radicar|to lie, be situated|v
+explotación|exploitation, cultivation|nf
+bestia|beast, brute|nf
+mojar|to make wet, dampen|v
+abrazo|hug, embrace|nm
+asalto|assault, robbery|nm
+reposo|rest, peace|nm
+lámina|sheet of metal|nf
+pasta|pasta, dough|nf
+derribar|to knock down, to demolish|v
+oral|oral|adj
+polémica|polemics, argument|nf
+parcial|partial, biased|adj
+chocolate|chocolate|nm
+generosidad|generosity|nf
+masivo|mass, massive|adj
+sobresalir|to stand out, excel|v
+realismo|realism|nm
+filtrar|to seep, filter|v
+desierto|deserted, desolate (adj)|nm
+acorde|agreement, accord|nm
+sugerencia|suggestion|nf
+cumpleaños|birthday|nm
+ronda|round (nf)|nf
+movilizar|to mobilize|v
+capilla|chapel|nf
+enteramente|completely, entirely|adv
+apelar|to call upon, appeal to|v
+expediente|dossier, proceedings|nm
+tolerancia|tolerance|nf
+entusiasmar|to fill with enthusiasm, excite|v
+educativo|educational|adj
+sopa|soup|nf
+rival|rival|nc
+ternura|tenderness|nf
+variante|variant, difference|nf
+coser|to sew|v
+molde|mold, cast, pattern|nm
+vigente|in force, valid|adj
+espectro|ghost, specter|nm
+saludable|healthy, wholesome [also sano]|adj
+recorte|clipping, cutting, trimming|nm
+reglamento|regulations, rules|nm
+apretado|tight, jammed|adj
+vitalidad|vitality, health|nf
+cuidadosamente|carefully|adv
+adaptación|adaptation|nf
+etiqueta|label, etiquette|nf
+obviamente|obviously|adv
+muralla|city wall|nf
+desaparecido|missing|adj
+represión|repression|nf
+reducción|reduction|nf
+difusión|spread, diffusion|nf
+pésimo|dreadful, awful|adj
+encargo|job, order, errand|nm
+madurar|to mature, ripen|v
+almorzar|to have lunch|v
+oeste|West|nm
+albergar|to lodge, harbor|v
+complacer|to please, satisfy|v
+pescador|fisherman|nm/f
+diagnóstico|diagnosis|nm
+cuadra|city block, stable|nf
+remover|to remove, stir|v
+pecar|to sin|v
+rienda|rein, restraint|nf
+crueldad|cruelty, harshness|nf
+acontecer|to happen, come about|v
+ansia|anxiety, anguish|nf_el
+cúpula|cupola, dome|nf
+desbordar|to overflow, spill over|v
+llama|flame, llama|nf
+alegar|to plead, argue|v
+vegetación|vegetation|nf
+lema|motto, slogan|nm
+encarar|to front, confront|v
+bote|small boat|nm
+solar|solar|adj
+inevitablemente|inevitably|adv
+perfume|perfume|nm
+central|headquarters (nf)|nf
+egoísta|selfish|adj
+pertenencia|membership, property|nf
+exótico|exotic|adj
+tranquilizar|to calm down|v
+casita|cottage|nf
+emigrar|to emigrate|v
+alianza|alliance|nf
+físicamente|physically|adv
+fascinante|fascinating|adj
+áspero|rough, coarse, harsh|adj
+desechar|to throw out|v
+ratón|mouse, rat|nm
+hazaña|deed, heroic feat|nf
+dureza|hardness, toughness|nf
+sábana|bed sheet|nf
+revisión|checking revision|nf
+retirada|retreat, withdrawal|nf
+básicamente|basically|adv
+aroma|aroma|nm
+optimismo|optimism|nm
+mate|mate (beverage)|nm
+lujoso|luxurious|adj
+evento|event|nm
+físico|physicist (nm/f)|nm/f
+estrenar|to use for the first time, debut|v
+pasto|grass, pasture|nm
+hostil|hostile, unfriendly|adj
+gallo|rooster|nm
+tropical|tropical|adj
+rendimiento|yield, output, efficiency|nm
+lentitud|slowness|nf
+aula|classroom|nf_el
+incitar|to incite|v
+franco|open, frank, outspoken|adj
+inédito|unpublished|adj
+uniforme|uniform (adj)|nm
+himno|hymn, anthem|nm
+sindicato|trade union|nm
+mariposa|butterfly, wing nut|nf
+propiciar|to favor, foster, aid|v
+fidelidad|faithfulness, accuracy|nf
+retraso|delay|nm
+desplazamiento|movement, removal|nm
+cuestionar|to question|v
+integrante|integral, part of a group|adj
+lingüístico|linguistic|adj
+compatriota|fellow countryman|nc
+mexicano|Mexican|adj
+fundir|to melt, cast, smelt|v
+localidad|town, locality|nf
+reprimir|to repress|v
+autorizado|authorized|adj
+leal|loyal, faithful|adj
+lobo|wolf|nm
+asamblea|assembly|nf
+pañuelo|handkerchief, shawl|nm
+meditar|to meditate, ponder|v
+temblor|tremor, shudder, shiver|nm
+gira|tour|nf
+manto|cloak|nm
+cubano|Cuban|adj
+asombro|amazement, astonishment|nm
+gobernador|governor|nm
+amplitud|breadth, extent, range|nf
+carbón|coal, charcoal|nm
+campamento|camp, camping|nm
+sangriento|bloody|adj
+matemático|mathematical|adj
+portugués|Portuguese|adj
+intensamente|intensely|adv
+suavemente|softly|adv
+excursión|excursion|nf
+predicar|to preach|v
+encarnar|to embody|v
+lamentablemente|regrettably|adv
+tomate|tomato|nm
+negociar|to negotiate, deal with|v
+cinturón|belt|nm
+estático|static, motionless|adj
+antaño|in days gone by, last year|adv
+bulto|bulk, shape|nm
+adónde|to where?|adv
+vocabulario|vocabulary|nm
+especulación|speculation, conjecture|nf
+manual|manual, handbook (nm)|adj
+representativo|representative (adj)|adj
+honrar|to honor|v
+disparo|shot, discharge|nm
+desencadenar|to unleash, unchain|v
+residuo|residue, waste|nm
+vanidad|vanity, conceit|nf
+ofender|to offend|v
+renovación|renewal, renovation|nf
+enfriar|to cool|v
+furioso|furious|adj
+estudioso|studious|adj
+ilustrar|to illustrate|v
+ratificar|to ratify|v
+peste|plague, pestilence, pest|nf
+expedición|expedition|nf
+destrozar|to rip/break into pieces|v
+vasco|Basque|adj
+simular|to pretend, simulate|v
+complementario|additional, complementary|adj
+mecánica|mechanics, mechanism|nf
+electricidad|electricity|nf
+insólito|unusual, uncommon|adj
+temeroso|fearful|adj
+extraordinariamente|extraordinarily|adv
+ascensor|elevator|nm
+bicicleta|bicycle|nf
+consagrado|dedicated, consecrated|adj
+aporte|contribution (nm)|nm
+despierto|awake|adj
+beca|scholarship, grant|nf
+consentir|to consent to, pamper|v
+trigo|wheat|nm
+paralizar|to paralyze|v
+disipar|to dispel, dissipate|v
+incrementar|to increase [also aumentar]|v
+plataforma|platform, springboard|nf
+maestra|teacher (f)|nf
+clínica|clinic|nf
+heredero|heir, heiress|nm
+embarazada|pregnant|adj
+estadio|stadium|nm
+latinoamericano|Latin American|adj
+tecnológico|technological|adj
+desfile|parade, line, formation|nm
+buque|large ship|nm
+parentesco|kinship|nm
+fallo|mistake, blunder, fault|nm
+rebeldía|rebelliousness, defiance|nf
+desigual|uneven, unequal|adj
+corrección|correction, amendment|nf
+chispa|spark|nf
+virgen|virgin (nf)|adj
+reprochar|to reproach|v
+supervivencia|survival|nf
+caridad|charity|nf
+alumbrar|to light, illuminate|v
+comunión|communion|nf
+embajador|ambassador|nm/f
+tercio|third (one-third)|nm
+iluminación|illumination, lighting|nf
+censura|censorship, criticism|nf
+disputa|dispute, argument, quarrel|nf
+esplendor|splendor|nm
+inscribir|to register, record [also registrar]|v
+perjuicio|damage, loss|nm
+medalla|medal, medallion|nf
+lealtad|loyalty, faithfulness|nf
+divorcio|divorce|nm
+dotar|to endow, bestow|v
+enfoque|focus, approach|nm
+civilizado|civilized|adj
+firmeza|firmness|nf
+indudable|unquestionable|adj
+colina|hill, slope|nf
+parcela|piece of property|nf
+jaula|cage, crate, playpen|nf
+ajuste|adjustment, settlement|nm
+lateral|side, lateral|adj
+entierro|burial|nm
+reventar|to burst, puncture|v
+servidor|servant|nm/f
+superioridad|superiority|nf
+turismo|tourism|nm
+barbaridad|atrocity|nf
+rollo|roll, coil|nm
+arbitrario|arbitrary,&nbsp;high-handed|adj
+triángulo|triangle|nm
+aislamiento|isolation|nm
+alivio|relief, unburdening|nm
+entrenamiento|training|nm
+truco|trick, ruse|nm
+respetable|respectable|adj
+disparate|nonsense, blunder|nm
+cocinero|cook|nm/f
+aburrir|to bore, tire|v
+diminuto|diminutive, tiny, minute|adj
+celeste|heavenly, sky-blue|adj
+fotógrafo|photographer|nm/f
+imposición|imposition|nf
+diluir|to dilute, weaken|v
+convincente|convincing (adj)|adj
+consuelo|comfort, consolation|nm
+periodístico|journalistic|adj
+cariñoso|affectionate|adj
+transmisión|broadcast, transmission|nf
+titular|to title, call (v)|v
+sendero|foot path|nm
+frecuentar|to frequent, visit|v
+desacuerdo|disagreement|nm
+academia|academy|nf
+acertado|correct, accurate|adj
+catedral|cathedral|nf
+mediocre|mediocre|adj
+vanguardia|vanguard, forefront|nf
+desafiar|to defy, stand up to|v
+agitado|agitated, irritated|adj
+precario|precarious|adj
+sanitario|health, sanitary, clean|adj
+comprensible|understandable|adj
+cuidadoso|careful, cautious|adj
+despojar|to deprive, rob|v
+embarazo|pregnancy|nm
+imposibilidad|impossibility|nf
+irracional|irrational|adj
+reinar|to reign, prevail|v
+hundido|buried, sunken|adj
+reportaje|news report|nm
+tambor|drum|nm
+fundación|foundation|nf
+transparencia|transparency, slide|nf
+elegancia|elegance, style|nf
+criminal|criminal (nc)|adj
+elogio|praise, eulogy, compliment|nm
+manta|blanket|nf
+dinámico|dynamic|adj
+hervir|to boil|v
+sereno|serene, calm|adj
+retirado|retired, remote, secluded|adj
+alerta|alert|nf
+sinceridad|sincerity|nf
+cátedra|academic chair|nf
+refinado|refined|adj
+repertorio|repertoire, list, index|nm
+plancha|electric iron, plate, sheet|nf
+terraza|terrace, balcony|nf
+gala|gala (performance/dinner)|nf
+era|era, age|nf
+arranque|start, outburst, kick-start|nm
+patada|kick, punt|nf
+disculpar|to excuse|v
+lapso|lapse|nm
+sudor|sweat, perspiration|nm
+apetito|appetite|nm
+íntimamente|intimately|adv
+indicación|indication|nf
+perdurar|to last, live on, endure|v
+aliado|ally|nm
+presidencia|presidency|nf
+maldito|damned, wretched|adj
+consejero|advisor, counselor|nm/f
+inundar|to flood, inundate|v
+consigna|watchword, motto, slogan|nf
+cortesía|courtesy|nf
+inmóvil|immovable, motionless|adj
+atributo|attribute, quality|nm
+furia|fury, rage|nf
+grosero|crude, rude, crass|adj
+catalán|Catalan|adj
+estatura|stature, height|nf
+vejez|old age|nf
+terremoto|earthquake|nm
+articular|to articulate|v
+tira|strip, strap|nf
+emisor|transmitter, emitter|nm
+relevante|relevant, significant|adj
+integridad|integrity|nf
+autorización|authorization|nf
+audaz|audacious, bold|adj
+seminario|seminar, seminary|nm
+marea|wave, tide, ebb|nf
+resentimiento|resentment|nm
+delincuente|delinquent|nc
+debilitar|to weaken, debilitate|v
+fingir|to feign, pretend|v
+igualar|to equate, equalize|v
+disfrazado|disguised|adj
+trepar|to climb|v
+mutuamente|mutually, each other|adv
+correctamente|correctly|adv
+ágil|agile|adj
+atrasado|behind, slow|adj
+esqueleto|skeleton, framework|nm
+indignación|indignation|nf
+agradecido|grateful, thankful|adj
+adicional|additional|adj
+escultura|sculpture, carving|nf
+condicionado|conditioned|adj
+infinidad|infinity, countless|nf
+pilar|pillar, column|nm
+óptimo|optimum|adj
+súbito|sudden [also repentino]|adj
+regular|to regulate, adjust (v)|v
+vosotros|you (subj plural familiar)|pron
+rematar|to finish off, finish up|v
+incomprensible|incomprehensible|adj
+independientemente|independently|adv
+percepción|perception|nf
+minoría|minority|nf
+deterioro|deterioration, damage|nm
+argumentar|to argue, deduce|v
+guapo|handsome, beautiful|adj
+sanción|sanction, approval, penalty|nf
+poblar|to populate, inhabit|v
+contradecir|to contradict, be inconsistent|v
+inmerso|engrossed, immersed|adj
+manipular|to manipulate, handle|v
+maleta|suitcase, case|nf
+faena|task, job, performance|nf
+regar|to water, irrigate|v
+evocar|to evoke, recall|v
+serpiente|snake|nf
+proveniente  ]|coming from [also procedente|adj
+primordial|fundamental, primary|adj
+agitación|agitation, excitement|nf
+prosperar|to prosper, thrive|v
+ganancia|gain, profit|nf
+genético|genetic|adj
+pino|pine tree|nm
+arrasar|to raze, ravage|v
+rebajar|to lower, reduce, discount|v
+entrevistar|to interview|v
+infeliz|unhappy, unfortunate|adj
+compacto|compact, dense|adj
+llanto|crying, weeping|nm
+ida|departure, first half of a trip|nf
+criminal|criminal (adj)|nc
+coherente|coherent, connected|adj
+falla|flaw, failure|nf
+contribución|contribution (nf)|nf
+burla|mockery, joke, trick|nf
+seguidor|follower, supporter, fan|nm
+estratégico|strategic|adj
+perla|pearl|nf
+ético|ethical|adj
+integración|integration|nf
+enterado|aware of|adj
+siesta|siesta, afternoon nap|nf
+replicar|to reply|v
+incipiente|incipient, beginning|adj
+adornar|to adorn, to decorate|v
+alternativo|alternating, alternative|adj
+expresivo|expressive|adj
+bigote|mustache|nm
+concurrir|to coincide, concur, meet|v
+niñez|childhood, infancy|nf
+leña|firewood|nf
+atardecer|evening, dusk|nm
+restaurar|to restore, reinstate|v
+retrasar|to delay, fall behind|v
+estatal|state, government-owned|adj
+interrogante|question, interrogator|nc
+palpar|to feel, touch, fondle|v
+perpetuo|continual, perpetual|adj
+lente|lens, [pl] glasses|nmf
+compás|rhythm, time, compass|nm
+estéril|sterile, barren|adj
+llanura|plain, prairie, plainness|nf
+collar|collar, necklace|nm
+veneno|poison, venom|nm
+mármol|marble|nm
+biografía|biography|nf
+latente|latent|adj
+rebelión|rebellion|nf
+hígado|liver|nm
+aparentar|to give the appearance|v
+holandés|Dutch|adj
+tablero|board, panel|nm
+enterrado|buried|adj
+imitación|imitation|nf
+adelanto|advance, progress [also avance]|nm
+celoso|jealous|adj
+oscurecer|to get dark|v
+constitucional|constitutional|adj
+intervalo|interval, gap|nm
+trago|drink, [a] swallow|nm
+fracción|fraction|nf
+convento|convent, monastery|nm
+arroyo|brook, stream, gutter|nm
+circular|circular (adj)|v
+enlace|link, connection, bond|nm
+torcer|to twist, bend, distort|v
+derramar|to shed, pour out|v
+diccionario|dictionary|nm
+reflejado|reflected|adj
+afueras|outskirts, suburbs|nf
+agravar|to aggravate, worsen|v
+ceja|eyebrow, brow|nf
+detallado|detailed, thorough|adj
+interponer|to interpose, intervene|v
+topar|to run into, bump into|v
+constitución|constitution|nf
+enlazar|to link, connect|v
+clasificación|classification|nf
+atrapado|trapped|adj
+lío|mess, problem, bad situation|nm
+sede|headquarters, seat|nf
+colar|to slip in [se]<br />|v
+altamente|highly|adv
+litro|liter|nm
+bandeja|tray|nf
+aproximación|approximation|nf
+liviano|light, frivolous|adj
+entusiasmado|enthused, excited|adj
+trapo|rag, cloth|nm
+conocedor|expert, judge, connoisseur|nm
+encaminar|to head for, guide|v
+altar|altar|nm
+acierto|good aim, guess, hit|nm
+piloto|pilot, driver|nm/f
+susceptible|susceptible|adj
+inolvidable|unforgettable|adj
+invocar|to invoke|v
+computadora|computer|nf
+ostentar|to flaunt, show off|v
+alambre|wire|nm
+mango|handle, mango|nm
+configurar|to form, configure|v
+rosario|rosary, beads, string|nm
+reconstrucción|reconstruction|nf
+parroquia|parish|nf
+ruidoso|noisy|adj
+supuestamente|supposedly, allegedly|adv
+ampliamente|widely|adv
+gigante|gigantic (adj)|adj
+prevalecer|to prevail|v
+comprador|buyer|nm
+piedad|pity, mercy|nf
+semanal|weekly|adj
+clandestino|undercover, clandestine|adj
+defensivo|defensive|adj
+manual|manual (adj)|nm
+engendrar|to engender, beget|v
+contagiar|to infect, infest|v
+niebla|fog|nf
+adonde|to where|adv
+consagrar|to consecrate, establish|v
+mixto|mixed, co-ed|adj
+verbo|verb|nm
+cadera|hip|nf
+procesión|procession|nf
+encuesta|poll, survey, inquiry|nf
+cría|breeding, raising|nf
+narración|narration, account|nf
+ramo|bunch of flowers, branch|nm
+penal|penal|adj
+traidor|traitor|nm
+catálogo|catalog|nm
+protector|protector, defender|nm
+amparo|protection, shelter|nm
+farmacia|pharmacy, drugstore|nf
+cima|summit, peak, top|nf
+riñón|kidney|nm
+pintoresco|picturesque|adj
+finca|property, estate|nf
+calificación|evaluation, qualification|nf
+caudal|volume, abundance, fortune|nm
+publicitario|advertising|adj
+trastorno|confusion, trouble, upheaval|nm
+ceñir|to adhere to, fit tightly, encircle|v
+jovencito|young person|nm
+incorporación|inclusion, incorporation|nf
+corral|corral, yard|nm
+fatiga|fatigue|nf
+virgen|virgin (adj)|nf
+bruja|witch, hag|nf
+exploración|exploration|nf
+matrimonial|matrimonial|adj
+equivalente|equivalent (adj)|adj
+ilustración|illustration|nf
+cómplice|accomplice|nc
+melodía|melody|nf
+productor|producer|nm
+deseable|desirable|adj
+constatar|to prove, verify|v
+portero|porter, doorkeeper, goalkeeper|nm/f
+conejo|rabbit|nm
+pasivo|passive|adj
+densidad|density, thickness|nf
+dispersar|to disperse, scatter, spread|v
+apuesta|wager, bet|nf
+nacionalidad|nationality|nf
+llamativo|striking|adj
+vacilar|to vacillate, hesitate|v
+mozo|waiter, youth, bellboy|nm
+capturar|to capture|v
+cuerno|horn, antler|nm
+remediar|to heal, cure|v
+fiar|to vouch for, confide, trust|v
+desfilar|to march, parade|v
+talla|size (of clothing), stature|nf
+justificado|justifiable, justified|adj
+comisario|commissioner, delegate|nm
+fotográfico|photographic|adj
+acercamiento|approach, approximation|nm
+desordenado|messy, confused|adj
+gráfico|graphic, explicit|adj
+reaparecer|to reappear|v
+revuelto|confused, messed up|adj
+contorno|outline, perimeter, edge|nm
+egoísmo|selfishness|nm
+a bordo|on board|nm
+compensación|compensation|nf
+prohibición|prohibition|nf
+obrar|to work, act|v
+expreso|express, explicit|adj
+coronar|to crown, top|v
+liquidar|to liquidate, sell off|v
+laberinto|maze, labyrinth|nm
+erótico|erotic|adj
+amenazado|threatened|adj
+inminente|imminent|adj
+eternidad|eternity|nf
+repasar|to review, revise|v
+pastilla|pill, capsule|nf
+mierda|shit, crap, excrement|nf
+contienda|contest, dispute|nf
+imperial|imperial, imperialist|adj
+inexplicable|unexplainable|adj
+peruano|Peruvian|adj
+experimental|experimental|adj
+chorro|stream, jet, spurt|nm
+opaco|dull, opaque, heavy|adj
+clavo|nail, tack, peg|nm
+sequía|drought|nf
+dinámica|dynamics|nf
+ocio|leisure time|nm
+normalidad|normality|nf
+intuir|to sense|v
+resonancia|resonance, repercussion|nf
+devorar|to devour, consume|v
+efímero|ephemeral, short-lived|adj
+chaqueta|jacket|nf
+aferrar|to grasp, clutch|v
+invertido|reversed, inverted|adj
+asco|disgust|nm
+consolidar|to consolidate|v
+apresurar    [also apurar]|to hurry up|v
+pleito|litigation, suit, dispute|nm
+latir|to beat (heart)|v
+sencillez|simplicity|nf
+transitorio|transitory|adj
+estupidez|stupidity, stupid thing [also tontería]|nf
+mojado|wet|adj
+descalzo|barefoot|adj
+orientado|positioned, guided|adj
+senador|senator|nm/f
+rencor|grudge, spite|nm
+presidencial|presidential|adj
+apurarse   [also apresurarse]|to hurry (LAm)|v
+insultar|to insult, berate|v
+brasileño|Brazilian|adj
+sustentar|to maintain, support|v
+probabilidad|probability|nf
+minucioso|meticulous, thorough|adj
+rústico|rustic, rural|adj
+gobernante|ruler, leader|nc
+merced|favor, mercy|nf
+acariciar|to stroke, fondle, caress|v
+tonelada|ton|nf
+rebelde|rebel, insurgent (nc)|nc
+anhelo|longing, yearning|nm
+princesa|princess|nf
+decididamente|decidedly, decisively|adv
+embajada|embassy|nf
+apagado|turned off|adj
+bruscamente|quickly, sharply|adv
+vincular|to connect, link, bind|v
+amargura|bitterness, sorrow|nf
+fortalecer|to fortify|v
+validez|validity|nf
+tacto|sense of touch, feel|nm
+codo|elbow|nm
+vibrar|to vibrate, tremble|v
+calzar|to wear shoes|v
+chimenea|chimney, fireplace|nf
+comunitario|of the community|adj
+explícito|explicit|adj
+silvestre|wild|adj
+evaluar|to evaluate, assess|v
+emocionar|to move, make/get excited|v
+editar|to edit, publish, release|v
+abanico|range, handheld fan|nm
+fiscal|fiscal, treasury (adj)|adj
+espacial|spatial, space|adj
+violentamente|violently|adv
+medieval|medieval|adj
+camiseta|T-shirt|nf
+honrado|honest, respectable|adj
+veloz|fast, quick|adj
+corteza|bark, crust, rind, peel|nf
+sumergir|to submerge, plunge|v
+cordillera|mountain range|nf
+monótono|monotonous|adj
+longitud|length, longitude|nf
+espantar|to scare, frighten|v
+imprevisto|unforeseen, unexpected|adj
+psicología|psychology|nf
+soviético|Soviet|adj
+potencial|potential|adj
+ambulante|traveling|adj
+agrupar|to put in a group|v
+exageración|exaggeration|nf
+apreciación|appreciation, assessment|nf
+perverso|perverse, wicked|adj
+estallido|crash, outbreak, explosion|nm
+ardiente|passionate, ardent|adj
+talón|heel, check, coupon, stub|nm
+atener|to abide by, comply with|v
+colchón|mattress|nm
+tenue|tenuous, flimsy|adj
+tinte|tint, dye|nm
+indiscutible|indisputable, unquestionable|adj
+imprenta|printing house|nf
+bastón|walking cane|nm
+sombrío|shady, dark, dismal|adj
+humillación|humiliation|nf
+trance|trance, fix, enrapture|nm
+volante|steering wheel|nm
+adolescente|adolescent (adj)|nc
+encabezar|to head, lead off|v
+rosado|pink, rosy|adj
+amistoso|friendly|adj
+noble|nobleman, noble (nc)|nc
+radicalmente|radically|adv
+reclamo|claim, complaint, protest|nm
+asesor|adviser, consultant|nm/f
+perteneciente|pertaining, belonging|adj
+novelista|novelist|nc
+herido|wounded (person) (nm)|nm
+necesitado|poor, needy|adj
+indefinido|vague, indefinite|adj
+solidario|united, jointly shared|adj
+paralizado|paralyzed|adj
+grueso|bulk, mass (nm)|nm
+chupar|to suck|v
+grabación|recording|nf
+frasco|bottle, jar, flask|nm
+inquietante|disquieting|adj
+visual|visual|adj
+verdura|vegetables, greenery|nf
+violación|violation, rape|nf
+innovación|innovation|nf
+tertulia|get-together, meeting of friends|nf
+carcajada|hearty laughter, guffaw|nf
+cancha|playing field, court|nf
+republicano|republican|adj
+destruido|destroyed|adj
+aburrimiento|boredom|nm
+trabajador|hardworking (adj)|nm/f
+inquietar|to make uneasy, disturb|v
+grandioso|magnificent, grandiose|adj
+específicamente|specifically|adv
+exportación|export, exportation|nf
+extremadamente|extremely|adv
+expandir|to expand|v
+predecir|to predict|v
+dichoso|fortunate, happy|adj
+condicionar|to condition, determine|v
+agrario|agrarian, agricultural|adj
+suizo|Swiss|adj
+presunto|alleged, presumed|adj
+tranvía|trolley, tram, streetcar|nm
+alertar|to alert, warn|v
+cordón|cord, yarn, braid|nm
+prioridad|priority|nf
+modalidad|mode, manner|nf
+desenlace|outcome, result|nm
+bailarín|dancer|nm/f
+artefacto|artifact, device|nm
+trono|throne|nm
+adjetivo|adjective|nm
+gama|range, musical scale|nf
+enfermar|to become ill|v
+gabinete|cabinet, den, office|nm
+indagar|to investigate [also investigar]|v
+vertiginoso|dizzying|adj
+decente|respectable, decent|adj
+congelado|frozen|adj
+peón|unskilled laborer, field hand|nm
+triple|triple|adj
+inspector|inspector|nm/f
+órbita|orbit, socket, field|nf
+autopista|freeway, motorway|nf
+prosa|prose|nf
+paréntesis|parenthesis, digression|nm
+fabricación|manufacture, production|nf
+lesión|injury, wound, harm|nf
+mejilla|cheek|nf
+inseguro|unsure, unsafe|adj
+muelle|wharf, dock|nm
+velo|veil|nm
+decoración|decoration|nf
+rancho|ranch, farm|nm
+exceder|to exceed, excel|v
+joder|to f**k, screw (around/up)|v
+irónico|ironic, mocking|adj
+alarmar|to alarm|v
+negociación|negotiation|nf
+euforia|euphoria, elation|nf
+convencimiento|convincing (nm)|nm
+asombrado|amazed, bewildered|adj
+rascar|to scratch, scrape|v
+desconcierto|disorder, chaos|nm
+economista|economist|nm/f
+oficialmente|officially|adv
+sofisticado|sophisticated|adj
+sobra|excess, surplus, leftover|nf
+enredar|to entangle, ensnare|v
+ingenioso|ingenious, clever|adj
+tasa|rate, fee, levy|nf
+balanza|balance, (measuring) scale|nf
+factura|invoice, bill|nf
+hormiga|ant|nf
+vulnerable|vulnerable|adj
+oso|bear|nm
+trazo|line, stroke|nm
+geométrico|geometric|adj
+suspirar|to sigh|v
+gusano|worm, caterpillar|nm
+bendito|blessed|adj
+conferir|to confer|v
+manía|obsession, mania|nf
+disculpa|apology, excuse|nf
+trascendente|transcendent|adj
+alarmante|alarming|adj
+pequeñito|very small, tiny|adj
+predominar|to predominate|v
+metáfora|metaphor|nf
+penetración|penetration, insight|nf
+pasajero|fleeting, transitory (adj)|nm
+whisky|whisky|nm
+turístico|tourist (adj)|adj
+despejar|to clear up|v
+delirio|delirium, nonsense|nm
+impecable|impeccable, faultless|adj
+soberbio|proud, arrogant [also orgulloso]|adj
+librería|bookstore|nf
+documentación|documentation|nf
+sonriente|smiling|adj
+decena|ten (of something)|nf
+nulo|void, null|adj
+tigre|tiger|nm
+premiar|to award|v
+implacable|relentless, implacable|adj
+senda|path, lane|nf
+temperamento|temperament, personality|nm
+brevemente|briefly|adv
+desayunar|to have breakfast|v
+productivo|productive, profitable|adj
+dicha|fortune, happiness, luck|nf
+andaluz|Andalusian|adj
+acta|meeting proceedings, minutes|nf_el
+cera|wax|nf
+tanque|tank, large container|nm
+institucional|institutional|adj
+vigoroso|vigorous, strong|adj
+batería|battery, gun deck|nf
+crema|cream|nf
+atroz|atrocious|adj
+entretenimiento|entertainment|nm
+pala|shovel|nf
+servidumbre|staff of servants, servitude|nf
+resucitar|to resuscitate, revive|v
+psicólogo|psychologist|nm/f
+sabroso|delicious, tasty|adj
+actriz|actress|nf
+esencialmente|essentially|adv
+larguísimo|very long|adj
+simultáneo|simultaneous|adj
+burro|donkey|nm
+procedencia|origin, source|nf
+fiscal|district attorney, prosecutor (nc)|nc
+trascendental|momentous, transcendental|adj
+colorado|red, colored|adj
+financiar|to finance|v
+participante|participant|nm
+rescate|rescue, ransom|nm
+apuro|trouble, predicament|nm
+sudar|to sweat|v
+prestigioso|prestigious|adj
+cautela|caution|nf
+crónico|chronic|adj
+táctica|tactics, strategy|nf
+descuido|neglect, oversight|nm
+bíblico|biblical|adj
+matanza|slaughter, carnage|nf
+perturbar|to perturb, upset|v
+paterno|paternal|adj
+escrito|manuscript, writing|nm
+pinta|pint, aspect, dot|nf
+envidiar|to envy|v
+reposar|to rest, lie down|v
+acelerado|accelerated, quick|adj
+árido|arid, dry|adj
+caprichoso|capricious, whimsical|adj
+minúsculo|minute, insignificant|adj
+caldo|broth, bouillon, soup|nm
+agonía|agony, grief|nf
+deteriorar|to deteriorate|v
+tregua|truce, rest|nf
+vestuario|wardrobe, changing room|nm
+desesperar|to despair, lose hope|v
+bodega|cellar, pantry, warehouse|nf
+antena|antenna|nf
+ligar|to tie, link, bind|v
+maldad|evil, wickedness|nf
+obediencia|obedience|nf
+ocurrencia|idea, witty remark|nf
+abiertamente|openly|adv
+complemento|complement, supplement|nm
+editor|editor, publisher|nm/f
+periodismo|journalism|nm
+piscina|swimming pool|nf
+provincial|provincial|adj
+mediar|to mediate|v
+endurecer|harden, make hard|v
+tradicionalmente|traditionally|adv
+inyección|shot, injection|nf
+ilegal|illegal|adj
+reproche|reproach, criticism|nm
+consistencia|consistency|nf
+nobleza|nobility, uprightness|nf
+terrestre|earthly, of the earth|adj
+impotencia|impotence|nf
+vislumbrar|to glimpse|v
+cordial|cordial, friendly|adj
+hostilidad|hostility, enmity|nf
+angustiado|anguished, distressed|adj
+medicamento|medicine, drug|nm
+entrenar|to train|v
+piadoso|pious, devout, merciful|adj
+corporal|of the body, corporal|adj
+conspiración|conspiracy|nf
+ilimitado|unlimited|adj
+detención|detention, arrest|nf
+autobús|bus|nm
+firmemente|firmly|adv
+esporádico|sporadic|adj
+destreza|skill|nf
+razonar|to reason out, think|v
+entrañas|insides, bowels|nf
+gratitud|gratitude|nf
+rectificar|to rectify, straighten out|v
+melancólico|melancholy|adj
+editorial|publisher (f), editorial article (m)|nmf
+móvil|mobile|adj
+bicho|bug, creature|nm
+martillo|hammer|nm
+robusto|strong, robust, sturdy|adj
+cooperación|cooperation|nf
+elevación|rise, elevation, increase|nf
+atentado|attack, offense|nm
+puñado|fistful, small group|nm
+llano|flat, level, plain|adj
+colombiano|Colombian|adj
+sirena|siren, mermaid|nf
+espuma|foam, lather|nf
+cirujano|surgeon|nm/f
+angustioso|distressing|adj
+vereda|path, sidewalk|nf
+excitar|to excite|v
+reivindicación|claim, demand, redemption|nf
+infección|infection|nf
+chiquillo|kid, youngster|nm
+distracción|distraction, amusement|nf
+enumerar|to enumerate, count|v
+estadístico|statistical|adj
+ingrediente|ingredient|nm
+posar|to rest, pose, land|v
+maligno|evil, malignant|adj
+irritar|to irritate|v
+pugna|battle, struggle|nf
+comprensivo|understanding (adj)|adj
+hueco|hollow (adj)|nm
+torta|cake|nf
+intérprete|performer, interpreter|nc
+araña|spider|nf
+facción|face feature, faction|nf
+elocuente|eloquent|adj
+tumbar|to knock over, cast down|v
+adentrar|to penetrate, go inside|v
+diplomático|diplomat (nm/f)|nm/f
+exhibición|exhibition, showing|nf
+relajar|to relax|v
+escaparate|showcase, display window|nm
+afín|related, similar|adj
+sargento|sergeant|nm
+recrear|to recreate, amuse|v
+usual|normal, usual|adj
+estética|aesthetics|nf
+caballería|cavalry, knighthood|nf
+padrino|godparent, sponsor|nm
+diversidad|diversity, variety|nf
+banquete|banquet, feast|nm
+bancario|bank, banking|adj
+impartir|to impart, administer|v
+andar|walk, gait, pace (nm)|v
+gigante|giant (nc)|nc
+afortunado|fortunate|adj
+pabellón|pavilion, sports hall|nm
+abeja|bee|nf
+asentir|to assent, agree|v
+espontáneamente|spontaneously|adv
+informativo|informative|adj
+violín|violin|nm
+astro|star (nm)|nm
+dictador|dictator|nm
+roce|brush, rubbing, contact|nm
+prolongación|extension|nf
+cráneo|skull, cranium|nm
+aflojar|to loosen|v
+hola|hello, hi|interj
+importado|imported|adj
+íntegro|whole, entire, honest|adj
+agradecimiento|gratitude, gratefulness|nm
+extra|extra|adj
+audacia|boldness, audacity|nf
+cólera|rage (f), cholera (m)|nmf
+resignación|resignation, acceptance|nf
+legislación|legislation|nf
+recíproco|reciprocal|adj
+caramelo|piece of candy, caramel|nm
+pólvora|gunpowder, powder|nf
+rol|role|nm
+fértil|fertile, rich|adj
+ensuciar|to get dirty|v
+largar|to let go, start out|v
+acomodado|well-to-do, suitable|adj
+idiota|idiot, dunce|nc
+bahía|bay|nf
+latitud|latitude|nf
+buey|ox|nm
+vaivén|swinging, rocking|nm
+equivocación|mistake, misconception|nf
+comunismo|communism|nm
+partícula|particle|nf
+intermedio|means, interval (nm)|nm
+económicamente|economically|adv
+limosna|alms, charity|nf
+equivalente|equivalent (nm)|nm
+flecha|arrow, dart|nf
+soberano|sovereign, self-assured|adj
+presentir|to sense in advance|v
+desilusión|disappointment, letdown|nf
+insertar|to insert, put in|v
+pato|duck|nm
+guerrero|warrior, warlike (adj)|adj
+grieta|crack, opening, slit|nf
+jinete|rider, horseman|nm
+involuntario|involuntary|adj
+discurrir|to flow, pass, roam|v
+inexistente|non-existent|adj
+subjetivo|subjective|adj
+agricultor|farmer|nm/f
+garra|claw, fang|nf
+engordar|to fatten, get fat|v
+soporte|support, endorsement|nm
+concurrencia|coming together, participation|nf
+pirámide|pyramid|nf
+aventurar|to venture, risk|v
+neutro|neutral|adj
+demandar|to claim, sue|v
+fósforo|match, match stick|nm
+profeta|prophet|nm
+renacer|to be reborn, reappear|v
+restablecer|to reestablish, restore|v
+muslo|thigh|nm
+desconcertado|disoriented, disconcerted|adj
+retiro|withdrawal, retreat|nm
+comando|command, order|nm
+sobrevenir|to happen unexpectedly, befall, ensue|v
+emisión|broadcast, emission|nf
+rebasar|to exceed, pass over|v
+tenor|meaning, sense, tenor|nm
+recompensa|reward, recompense|nf
+complicidad|involvement, complicity|nf
+recelo|mistrust, suspicion|nm
+vibración|vibration|nf
+restricción|restriction|nf
+acatar|to comply with, abide by|v
+transitar|to roam, go by|v
+vara|rod, stick|nf
+clientela|customers, clients|nf
+soberanía|sovereignty|nf
+impreciso|imprecise|adj
+percatar|to inform, become aware|v
+frialdad|coldness, indifference|nf
+encomendar|to commend, entrust|v
+inspección|inspection|nf
+inicial|initial (letters) (nf)|nf
+seducir|to seduce, tempt|v
+incidencia|incidence, impact|nf
+retroceso|movement backwards|nm
+micrófono|microphone|nm
+previsible|foreseeable|adj
+ventanilla|vehicle window, box office|nf
+frontal|frontal|adj
+extinción|extinction|nf
+infinito|infinite, infinity (nm)|nm
+campeón|champion|nm
+incidir|to influence, affect|v
+monstruoso|monstrous|adj
+persistente|persistent|adj
+oxígeno|oxygen|nm
+rigidez|rigidity|nf
+educado|educated|adj
+irreversible|irreversible|adj
+despedida|goodbye, farewell|nf
+vengar|to take revenge, avenge|v
+encaje|lace|nm
+estropear|to ruin, mess up|v
+repercusión|repercussion, impact|nf
+prematuro|premature|adj
+fascinar|to fascinate|v
+ganador|winner|nm
+emperador|emperor|nm
+cometa|comet (m), kite (f)|nmf
+precedente|precedent|nm
+rudo|rude, crude, coarse|adj
+cerebral|cerebral|adj
+mosaico|mosaic|nm
+significación|meaning, significance|nf
+contestación|answer|nf
+pedagógico|pedagogical, teaching|adj
+asilo|asylum, shelter|nm
+incremento|increase, raise|nm
+incurrir|to incur, fall into|v
+lomo|back, loin, spine|nm
+tentar|to tempt, entice|v
+navegación|navigation, shipping|nf
+edificación|construction, building|nf
+abstracción|abstraction|nf
+veintidós|twenty-two|num
+grotesco|grotesque, ridiculous|adj
+duramente|harshly, severely|adv
+sumido|sunken, drowned|adj
+públicamente|publicly, in public|adv
+resignar|to resign, relinquish|v
+mortal|mortal (nc)|nc
+siniestro|sinister|adj
+místico|mystical|adj
+cabina|cabin, cockpit|nf
+dialogar|to confer, talk|v
+exento|exempt, free|adj
+guerrero|warrior, soldier (nm/f)|nm/f
+acera|sidewalk|nf
+clínico|clinical|adj
+largamente|for a long time, at length|adv
+callejero|of the street|adj
+adherir|to adhere, attach|v
+voluntariamente|voluntarily|adv
+centavo|cent|nm
+molino|mill, windmill|nm
+parcialmente|partially|adv
+decepción|disappointment, disenchantment|nf
+alojar|to host, accommodate|v
+debidamente|properly, duly|adv
+ente|entity, being, firm|nm
+internar|to confine|v
+mismísimo|very same|adj
+contundente|decisive, blunt, forceful|adj
+inundación|flood, deluge|nf
+diligencia|diligence|nf
+viceversa|vice versa|adv
+séptimo|seventh|adj
+complejidad|complexity|nf
+carente|lacking, devoid|adj
+nítido|clear, clean, neat|adj
+imponente|impressive, magnificent|adj
+vecindad|nearness, vicinity|nf
+secular|secular, lay|adj
+cabra|goat|nf
+olfato|sense of smell|nm
+denominación|name, denomination|nf
+bordear|to border|v
+envergadura|breadth, expanse|nf
+admirador|admirer|nm
+instruir|to instruct|v
+rebaño|herd, flock|nm
+inicialmente|initially|adv
+vegetal|plant, vegetable (nm)|nm
+inseparable|inseparable|adj
+fiera|wild beast|nf
+verter|to pour, spill, shed|v
+desmentir|to contradict|v
+inestable|unstable, unsteady|adj
+olla|pot, kettle|nf
+terriblemente|terribly|adv
+coco|coconut|nm
+sótano|basement|nm
+agresividad|aggressiveness|nf
+mentalmente|mentally|adv
+adhesión|adherence|nf
+convención|convention, assembly|nf
+paraje|place, spot|nm
+frívolo|trivial, frivolous|adj
+cohete|rocket|nm
+prodigioso|prodigious, famous|adj
+almohada|pillow|nf
+eficiencia|efficiency|nf
+laborioso|laborious, industrious|adj
+eclesiástico|ecclesiastical|adj
+confundido|confused|adj
+tejado|roof, housetop|nm
+elefante|elephant|nm
+descifrar|to decipher|v
+navaja|razor, blade, navaja|nf
+maldición|damnation, curse|nf
+marinero|sailor|nm/f
+bachillerato|high school diploma|nm
+marrón|brown|adj
+entablar|to start, establish|v
+desequilibrio|imbalance, unsteadiness|nm
+sintético|synthetic|adj
+bélico|warlike|adj
+combinado|combined|adj
+desperdicio|waste, refuse, garbage|nm
+propagar|to propagate, spread|v
+ampliación|enlargement, extension|nf
+recipiente|container, recipient, tank|nm
+parlamentario|parliamentary|adj
+trasero|behind, back|adj
+despliegue|deployment, display|nm
+libra|pound (money/weight)|nf
+incursión|invasion, incursion|nf
+irreal|unreal|adj
+toalla|towel|nf
+tenis|tennis|nm
+perfilar|to outline, shape|v
+entusiasta|enthusiastic|adj
+descarga|unloading, discharge|nf
+patriótico|patriotic|adj
+higiene|hygiene|nf
+decaer|to decay, wane|v
+cuenca|socket, basin, bowl|nf
+aplastado|crushed, flattened|adj
+cal|lime, whitewash|nf
+rítmico|rhythmic|adj
+disfrazar|to disguise, hide, conceal|v
+pionero|pioneer|nm
+volcán|volcano|nm
+puta|whore, prostitute|nf
+hispano|Hispanic|adj
+diamante|diamond|nm
+constructivo|constructive|adj
+delicadeza|gentleness, tenderness|nf
+ocasional|occasional, random|adj
+expulsión|expulsion, ejection|nf
+enigma|enigma, mystery|nm
+monumental|monumental|adj
+hectárea|hectare|nf
+accesible|accessible|adj
+inmigrante|immigrant|nc
+irrumpir|to burst in, raid|v
+prevención|prevention, warning|nf
+cerco|fence, circle, ring|nm
+penumbra|semidarkness, twilight|nf
+jugada|move, play|nf
+estampa|print, engraving, illustration|nf
+cueva|cave|nf

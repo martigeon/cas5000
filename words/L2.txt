@@ -1,0 +1,100 @@
+solo	only, just (adv)	adv
+pues	then, well then	conj
+llamar	to call, name [also denominar]	v
+venir	to come	v
+pensar	to think	v
+aquel	that (over there)	adj
+momento	moment, time	nm
+sino	but, except, rather	conj
+esto	this (pron)	pron
+salir	to leave [also partir]	v
+volver	to turn, to turn over, to return to a place	v
+forma	form, shape, way	nf
+antes	before	adv
+bueno	good (adj)	adj
+casa	house	nf
+aunque	although, even though	conj
+mundo	world	nm
+tres	three	num
+tal	such a	adj
+mejor	best, better (adv)	adj
+tomar	to take, drink	v
+cierto	certain, sure, true	adj
+conocer	to know (someone or place)	v
+hacia	toward, towards	prep
+cómo	how?	conj
+mujer	woman, wife	nf
+vivir	to live	v
+aquí	here	adv
+caso	case, occasion	nm
+sentir	to feel, regret (v)	nm
+luego	later, afterwards	adv
+país	country	nm
+tratar	to try, treat, deal with	v
+lugar	place, position	nm
+te	you (obj, familiar)	nm
+persona	person	nf
+mayor	larger, older, main	adj
+último	last, final	adj
+propio	own, proper, typical	adj
+quien	who, whom	pron
+mirar	to look, watch	v
+hora	hour, time (specific)	nf
+ninguno	no, none, nobody	adj pron
+trabajo	work, job, effort	nm
+casi	almost, nearly	adv
+punto	point, dot, period	nm
+durante	during, for (time)	adv
+cualquier	any, anyone	adj pron
+mano	hand	nf
+nunca	never, ever	adv
+manera	way, manner (nf)	nf
+cual	which, who, whom	pron
+mientras	while, whereas, as long as	conj
+contar	to tell, count	v
+fin	end	nm
+tipo	type, kind	nm
+gente	people	nf
+además	also, as well, besides	adv
+solo	lonely, alone (adj)	adj
+empezar	to begin, start [also comenzar]	v
+ejemplo	example	nm
+esperar	to wait, hope for, expect	v
+hoy	today, nowadays	adv
+lado	side	nm
+hijo	son	nm
+allí	there [also ahí]	adv
+éste	this one	pron
+problema	problem	nm
+cuenta	bill, account	nf
+medio	means, middle (nm)	adj
+contra	against, opposite	prep
+buscar	to look for	v
+adentro	inside	adv
+largo	long (adj)	adj
+palabra	word	nf
+existir	to exist	v
+niño	child, little boy	nm
+entrar	to enter	v
+sin embargo	nevertheless	nm
+único	only, unique, sole	adj
+padre	father	nm
+trabajar	to work	v
+pequeño	little, small, young	adj
+alto	tall, high	adj
+cambio	change	nm
+escribir	to write	v
+cuatro	four	num
+allí	there	adv
+perder	to lose, miss	v
+nosotros	we	pron
+historia	history, story	nf
+idea	idea	nf
+agua	water	nf_el
+producir	to produce, cause	v
+noche	night, evening	nf
+ciudad	city	nf
+modo	way, manner (nm)	nm
+nombre	name, noun	nm
+ocurrir	to happen, occur	v
+familia	family	nf

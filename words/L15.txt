@@ -1,0 +1,100 @@
+disciplina	discipline, subject	nf
+relacionado	related, regarding	adj
+habitual	usual, habitual, customary	adj
+personal	personnel, staff, staffing (nm)	nm
+interrumpir	to interrupt	v
+columna	column, spine	nf
+verdaderamente	truly	adv
+fabricar	to manufacture	v
+únicamente	only [also solamente]	adv
+nervioso	nervous, uptight	adj
+indio	Indian	nm
+gato	cat	nm
+margen	edge, margin, border, brink	nmf
+material	material (adj)	nm
+resistencia	resistance, opposition	nf
+consciente	conscious, aware	adj
+pérdida	loss	nf
+tratamiento	treatment, processing	nm
+entrevista	interview, meeting	nf
+espectáculo	spectacle, show	nm
+personalidad	personality, celebrity	nf
+mayo	May	nm
+confiar	to trust, confide	v
+operar	to operate	v
+representación	representation	nf
+régimen	regime, diet	nm
+punta	tip, point	nf
+vital	vital, lively, essential	adj
+alegría	joy, happiness	nf
+basar	to base on, base upon	v
+igualmente	equally	adv
+misión	mission, task	nf
+estimar	to estimate, hold in esteem	v
+cotidiano	daily (adj)&nbsp;[also diario]	adj
+confirmar	to confirm	v
+empleo	work, job, occupation	nm
+previo	previous	adj
+participación	participation, involvement	nf
+integrar	to integrate, fit in	v
+período	period, time	nm
+busca	search, hunt	nf
+superficie	surface, area	nf
+aprobar	to pass a test, approve	v
+chino	Chinese	adj
+pasión	passion, desire	nf
+vehículo	vehicle, car	nm
+inteligente	intelligent	adj
+grabar	to record, engrave	v
+enero	January	nm
+capítulo	chapter	nm
+fracaso	failure, collapse	nm
+experto	expert	nm
+inquietud	restlessness, anxiety	nf
+nuevamente	anew, again	adv
+once	eleven	num
+listo	ready, clever, smart	adj
+equivocar	to be wrong	v
+organismo	organization, organism, human body	nm
+canción	song	nf
+religión	religion	nf
+correspondiente	corresponding	adj
+departamento	department, apartment	nm
+generalmente	generally, usually	adv
+periodista	journalist	nc
+seguido	in a row, successive	adj
+llorar	to cry	v
+griego	Greek	adj
+interpretación	interpretation, interpreting	nf
+maestro	master (adj)	nm
+barato	inexpensive	adj
+proyectar	to project	v
+belleza	beauty	nf
+universidad	university, college	nf
+riqueza	riches, wealth	nf
+notable	outstanding, noteworthy	adj
+beber	to drink	v
+claramente	clearly	adv
+rato	moment, while, time	nm
+encargado	in charge of	adj
+técnico	technical (adj)	adj
+ciego	blind	adj
+individual	individual	adj
+apreciar	to appreciate	v
+experimentar	to experience, experiment	v
+justamente	just, exactly	adv
+amar	to love	v
+equilibrio	balance	nm
+universal	universal	adj
+ah	oh [also oh]	interj
+fruto	fruit, result	nm
+representante	representative (nc)	nc
+robar	to rob, steal	v
+reír	to laugh	v
+literario	literary	adj
+exceso	excess	nm
+capa	layer, coat	nf
+defecto	defect	nm
+fábrica	factory, manufacture	nf
+espalda	back (body)	nf
+mezclar	to mix	v

@@ -1,0 +1,100 @@
+fuente	source, fountain	nf
+presente	present (nm)	adj
+definitivo	definitive, conclusive	adj
+revista	magazine, journal	nf
+esperanza	hope	nf
+máquina	machine	nf
+contemplar	to contemplate	v
+recorrer	to travel, cover distance	v
+frase	phrase	nf
+perfecto	perfect	adj
+sala	room, hall	nf
+durar	to last	v
+instrumento	instrument	nm
+aquello	that over there (n)	pron
+defensa	defense, plea	nf
+director	director, manager, principal	nm/f
+retirar	to take away, retire	v
+explicación	explanation	nf
+artículo	article, product, item	nm
+debajo	underneath, below	adv
+permanecer	to stay, remain	v
+asistir	to attend	v
+doce	twelve	num
+radio	radio; set (m), communication (f)	nmf
+organizar	to organize	v
+película	movie, film	nf
+elección	election, choice	nf
+visita	visit, visitor, guest	nf
+contener	to contain	v
+apoyo	support, backing	nm
+presidente	president	nm
+arma	weapon	nf_el
+árbol	tree	nm
+visitar	to visit	v
+informar	to inform	v
+encuentro	meeting, game, skirmish	nm
+parecido	similar [also similar]	adj
+corriente	current, flow (nf)	adj
+lectura	reading	nf
+existencia	existence, life	nf
+lenguaje	language, speech	nm
+enviar	to send	v
+aun	even (though), still	adv
+destino	destination, destiny	nm
+educación	education	nf
+cuidar	to take care of	v
+intervenir	to intervene	v
+operación	operation	nf
+raro	strange, rare, scarce	adj
+perfectamente	perfectly	adv
+extender	to extend, spread	v
+comprobar	to verify, prove	v
+nota	note, grade	nf
+particular	particular, peculiar (adj)	adj
+ése, ésa	that one	pron
+militar	military (adj)	adj
+dormir	to sleep	v
+unido	united	adj
+discutir	to argue, discuss	v
+extraordinario	extraordinary, exceptional	adj
+teatro	theater, drama	nm
+enfrentar	to confront, face	v
+recién	recently, just	adv
+negocio	business, transaction	nm
+letra	letter, handwriting, lyrics	nf
+peor	worse (adv)	adj
+sentimiento	feeling, sentiment	nm
+conducir	to lead, drive	v
+completamente	completely	adv
+firmar	to sign	v
+solución	solution, answer	nf
+mío	mine (pron)	pron
+comida	food, meal	nf
+impresión	impression, printing	nf
+plano	plane, map, level (nm)	adj
+intención	intention	nf
+ritmo	rhythm	nm
+verde	green	adj
+exacto	exact, faithful, true	adj
+respetar	to respect	v
+banco	financial bank, bench	nm
+inmediatamente	immediately	adv
+sostener	to support, hold up	v
+piel	skin, hide, fur	nf
+delante	in front of, ahead	adv
+religioso	religious	adj
+advertir	to warn	v
+oscuro	dark, obscure	adj
+control	control	nm
+investigación	investigation	nf
+transformar	to transform, change	v
+conversación	conversation	nf
+verano	summer	nm
+respeto	respect, regard	nm
+norte	north	nm
+mediante	by means of	prep
+cuarto	fourth (adj)	nm
+tradición	tradition	nf
+bastar	to be sufficient	v
+población	population	nf

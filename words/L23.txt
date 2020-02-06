@@ -1,0 +1,100 @@
+voto	vote	nm
+calma	calm, lull	nf
+sorprendente	surprising, astonishing	adj
+favorable	favorable, suitable	adj
+oferta	offer, bid, supply	nf
+vergüenza	embarrassment	nf
+ave	bird [also pájaro]	nm
+rodilla	knee	nf
+paseo	walk, ride	nm
+variar	to change, vary	v
+culpable	guilty	adj
+normalmente	normally	adv
+secundario	secondary	adj
+registro	register, record	nm
+infinito	infinite (adj)	adj
+válido	valid	adj
+gordo	fat, thick	adj
+pintor	painter	nm/f
+delito	crime, offense	nm
+vestido	dress (nm)	nm
+relato	tale, story	nm
+baile	dance, ball	nm
+misterio	mystery	nm
+otorgar	to give, grant, award	v
+ciclo	cycle	nm
+principalmente	principally, mainly	adv
+cesar	to cease, stop	v
+síntoma	symptom	nm
+amenaza	threat	nf
+acá	here, around here	adv
+recorrido	journey, itinerary, route	nm
+concepción	conception	nf
+tristeza	sadness	nf
+vaca	cow	nf
+criatura	creature, child	nf
+creencia	belief	nf
+desagradable	unpleasant	adj
+núcleo	nucleus, core	nm
+amenazar	to threaten	v
+perdón	forgiveness, pardon	nm
+madrugada	dawn, daybreak [also alba]	nf
+agresivo	aggressive	adj
+obrero	worker, laborer (nm/f) [also trabajador]	adj
+parado	stopped, standing	adj
+callar	to be/make quiet	v
+cariño	love, affection	nm
+vigilar	to watch over, guard	v
+ángel	angel	nm
+rigor	harshness, rigor	nm
+orientar	guide, show the way	v
+contraste	contrast	nm
+turno	turn	nm
+exclusivo	exclusive	adj
+portar	to behave [se], carry	v
+reino	kingdom, reign	nm
+aproximadamente	approximately	adv
+prohibido	prohibited	adj
+funcionamiento	functioning, operation	nm
+auto	auto, car	nm
+ala	wing, flank	nf_el
+debate	debate	nm
+grueso	thick (adj)	adj
+aplicación	application	nf
+laboratorio	laboratory	nm
+urgente	urgent	adj
+vendedor	salesperson	nm/f
+copa	cup, glass, top of a tree	nf
+avisar	to notify [also notificar]	v
+renovar	to renew, renovate	v
+tratado	treaty, treatise	nm
+democrático	democratic	adj
+soltar	to release, loosen, let out	v
+abordar	to board, get in/on	v
+castigar	to punish	v
+rechazo	rejection, refusal	nm
+totalidad	whole, totality	nf
+fracasar	to fail, to be unsuccessful	v
+catorce	fourteen	num
+calificar	to grade, rate, qualify	v
+juntar	to put togerther, to get together [also reunir]	v
+papá	dad	nmf
+necesariamente	necessarily	adv
+considerable	considerable	adj
+cero	zero, naught, nil	num
+ejecutar	to execute, carry out	v
+mamá	mom	nf
+vela	candle, sail, vigil	nf
+protestar	to protest, object	v
+establecimiento	establishment	nm
+gris	gray, gloomy	adj
+matiz	shade, tint, nuance	nm
+impresionar	to impress	v
+meta	goal, aim, purpose	nf
+comportar	to behave	v
+básico	basic, essential	adj
+comodidad	comfort, convenience	nf
+pariente	relative (nc)	nc
+abandonado	abandoned	adj
+distribución	distribution	nf
+invitación	invitation	nf

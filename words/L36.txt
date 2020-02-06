@@ -1,0 +1,100 @@
+estrechar	to tighten, make closer	v
+traspasar	to go beyond, cross over	v
+cobre	copper	nm
+imaginario	imaginary	adj
+brutal	brutal, savage	adj
+disperso	spread out	adj
+ingenuo	naive, ingenuous	adj
+anual	annual, yearly	adj
+intuición	intuition	nf
+invención	invention, contrivance	nf
+asimismo	as well, also, moreover	adv
+vena	vein	nf
+freno	brake	nm
+costoso	costly, expensive	adj
+repleto	full, overcrowded	adj
+consumar	to complete, carry out, consummate	v
+asaltar	to assault	v
+interrupción	interruption	nf
+condena	sentence in prison, penalty	nf
+inocencia	innocence	nf
+poner de relieve	to emphasize	nm
+semejanza	similarity, likeness	nf
+cumbre	summit, top	nf
+diariamente	daily (adv)	adv
+para colmo	to top it all	nm
+asombroso	amazing	adj
+administrador	administrator, manager	nm/f
+arrepentir	to repent, regret	v
+decreto	decree, order	nm
+exigente	demanding, urgent	adj
+ironía	irony	nf
+felicitar	to congratulate	v
+seña	sign, mark, seal	nf
+ritual	ritual, rite	nm
+apto	appropriate, fit, able	adj
+incierto	uncertain	adj
+espeso	thick, dense, stiff	adj
+presenciar	to be present at, witness	v
+escritorio	desk, bureau	nm
+solicitud	request, application	nf
+víspera	eve	nf
+insecto	insect	nm
+ridículo	ridicule (nm)	nm
+derrumbar	to knock down, demolish	v
+ira	rage, wrath	nf
+ceniza	ash	nf
+apasionado	passionate	adj
+monja	nun	nf
+abstracto	abstract	adj
+parto	birth	nm
+creativo	creative	adj
+autoritario	authoritarian	adj
+excesivamente	excessively	adv
+circuito	circuit, circumference, track	nm
+subterráneo	underground	adj
+oveja	sheep, ewe	nf
+dueña	landlady, owner (f)	nf
+dañar	to damage	v
+ubicación	position, location	nf
+feroz	ferocious, fierce	adj
+hacienda	ranch	nf
+antigüedad	antiquity, seniority	nf
+puño	fist, handle, cuff	nm
+excusa	excuse	nf
+asombrar	to amaze, astound	v
+trama	plot, theme	nf
+sistemático	systematic	adj
+inclusive	including, even	adv
+alteración	alteration, change	nf
+sumo	utmost, highest	adj
+eficiente	efficient	adj
+invisible	invisible	adj
+acusación	accusation, charge	nf
+sinceramente	sincerely	adv
+salvación	salvation, rescue	nf
+rebelde	rebel (adj)	adj
+fundador	founder	nm
+oscilar	oscillate	v
+privilegiado	privileged	adj
+recobrar	to recover, regain	v
+original	original (nm)	nm
+maquinaria	machinery	nf
+dominante	dominant	adj
+vaciar	to empty, pour out	v
+tortura	torture	nf
+humano	human (nm)	nm
+insistencia	insistence, persistence	nf
+morder	to bite	v
+atrapar	to trap, catch	v
+tibio	lukewarm	adj
+amanecer	to dawn, get light (v)	v
+sospechoso	suspicious	adj
+sobrino	nephew	nm
+recitar	to recite	v
+explorar	to explore	v
+fabuloso	fabulous, fantastic	adj
+embarcar	to embark, load	v
+aguardar	to wait for, await	v
+apunte	note, annotation	nm
+antepasado	ancestor	nm

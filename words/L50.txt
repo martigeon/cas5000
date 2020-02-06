@@ -1,0 +1,99 @@
+inundación	flood, deluge	nf
+diligencia	diligence	nf
+viceversa	vice versa	adv
+séptimo	seventh	adj
+complejidad	complexity	nf
+carente	lacking, devoid	adj
+nítido	clear, clean, neat	adj
+imponente	impressive, magnificent	adj
+vecindad	nearness, vicinity	nf
+secular	secular, lay	adj
+cabra	goat	nf
+olfato	sense of smell	nm
+denominación	name, denomination	nf
+bordear	to border	v
+envergadura	breadth, expanse	nf
+admirador	admirer	nm
+instruir	to instruct	v
+rebaño	herd, flock	nm
+inicialmente	initially	adv
+vegetal	plant, vegetable (nm)	nm
+inseparable	inseparable	adj
+fiera	wild beast	nf
+verter	to pour, spill, shed	v
+desmentir	to contradict	v
+inestable	unstable, unsteady	adj
+olla	pot, kettle	nf
+terriblemente	terribly	adv
+coco	coconut	nm
+sótano	basement	nm
+agresividad	aggressiveness	nf
+mentalmente	mentally	adv
+adhesión	adherence	nf
+convención	convention, assembly	nf
+paraje	place, spot	nm
+frívolo	trivial, frivolous	adj
+cohete	rocket	nm
+prodigioso	prodigious, famous	adj
+almohada	pillow	nf
+eficiencia	efficiency	nf
+laborioso	laborious, industrious	adj
+eclesiástico	ecclesiastical	adj
+confundido	confused	adj
+tejado	roof, housetop	nm
+elefante	elephant	nm
+descifrar	to decipher	v
+navaja	razor, blade, navaja	nf
+maldición	damnation, curse	nf
+marinero	sailor	nm/f
+bachillerato	high school diploma	nm
+marrón	brown	adj
+entablar	to start, establish	v
+desequilibrio	imbalance, unsteadiness	nm
+sintético	synthetic	adj
+bélico	warlike	adj
+combinado	combined	adj
+desperdicio	waste, refuse, garbage	nm
+propagar	to propagate, spread	v
+ampliación	enlargement, extension	nf
+recipiente	container, recipient, tank	nm
+parlamentario	parliamentary	adj
+trasero	behind, back	adj
+despliegue	deployment, display	nm
+libra	pound (money/weight)	nf
+incursión	invasion, incursion	nf
+irreal	unreal	adj
+toalla	towel	nf
+tenis	tennis	nm
+perfilar	to outline, shape	v
+entusiasta	enthusiastic	adj
+descarga	unloading, discharge	nf
+patriótico	patriotic	adj
+higiene	hygiene	nf
+decaer	to decay, wane	v
+cuenca	socket, basin, bowl	nf
+aplastado	crushed, flattened	adj
+cal	lime, whitewash	nf
+rítmico	rhythmic	adj
+disfrazar	to disguise, hide, conceal	v
+pionero	pioneer	nm
+volcán	volcano	nm
+puta	whore, prostitute	nf
+hispano	Hispanic	adj
+diamante	diamond	nm
+constructivo	constructive	adj
+delicadeza	gentleness, tenderness	nf
+ocasional	occasional, random	adj
+expulsión	expulsion, ejection	nf
+enigma	enigma, mystery	nm
+monumental	monumental	adj
+hectárea	hectare	nf
+accesible	accessible	adj
+inmigrante	immigrant	nc
+irrumpir	to burst in, raid	v
+prevención	prevention, warning	nf
+cerco	fence, circle, ring	nm
+penumbra	semidarkness, twilight	nf
+jugada	move, play	nf
+estampa	print, engraving, illustration	nf
+cueva	cave	nf

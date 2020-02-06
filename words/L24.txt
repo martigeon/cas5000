@@ -1,0 +1,100 @@
+destrucción	destruction	nf
+indígena	indigenous, native	adj
+moreno	dark, brown	adj
+alegre	happy, lively, cheerful	adj
+opción	option, choice	nf
+extenso	extensive, large	adj
+ruso	Russian	adj
+máximo	maximum (nm)	nm
+tarjeta	card	nf
+fase	phase, stage	nf
+veinticinco	twenty-five	num
+tropa	troops, forces	nf
+remoto	remote, far-off	adj
+socio	member, partner	nm
+comunista	Communist	adj
+abundante	abundant, plentiful	adj
+dibujar	to draw, sketch	v
+guía	guide, leader	nc
+judío	Jewish	adj
+impresionante	impressive, astonishing	adj
+hielo	ice	nm
+gobernar	to govern	v
+occidental	occidental, western	adj
+deshacer	to undo, destroy, take apart	v
+primavera	spring, spring-like	nf
+mutuo	mutual	adj
+simpatía	sympathy, affinity	nf
+reconstruir	to reconstruct	v
+centímetro	centimeter	nm
+pantalla	screen, monitor	nf
+toro	bull	nm
+denunciar	to denounce	v
+cultivo	cultivation, crop	nm
+horror	horror, atrocity	nm
+bienestar	wellbeing, welfare	nm
+paciencia	patience	nf
+ay	oh no! oh my!	interj
+romántico	romantic	adj
+convicción	conviction	nf
+plenamente	fully	adv
+uniforme	uniform (nm)	adj
+media	average; a m.: halfways	nf
+mínimo	minimum (nm)	nm
+doscientos	two hundred	num
+garantizar	to guarantee	v
+compañera	female companion	nf
+pintado	painted	adj
+combinar	to combine	v
+junio	June	nm
+drama	drama	nm
+distante	distant, far, remote	adj
+sencillamente	simply	adv
+equivocado	mistaken, wrong	adj
+doble	double (nm)	nm
+episodio	episode, incident	nm
+divertir	to amuse, entertain	v
+afirmación	statement, assertion	nf
+conquistar	to conquer, win over	v
+bar	snack bar, café	nm
+fantástico	fantastic, unreal	adj
+liberación	liberation	nf
+actualmente	now, at present	adv
+envolver	to wrap	v
+estancia	stay, stance, ranch	nf
+emprender	to undertake, embark on	v
+anticipar	to anticipate, advance	v
+humilde	humble, modest	adj
+variedad	variety	nf
+desarrollado	developed, grown	adj
+capitán	captain, chief	nm
+droga	drug	nf
+específico	specific	adj
+taller	workshop, shop	nm
+desorden	disorder, mess	nm
+quebrar	to break, bend, weaken	v
+encerrado	locked up	adj
+esclavo	slave	nm
+injusto	unfair, unjust	adj
+sucesivo	successive, following	adj
+sumamente	extremely, highly	adv
+feo	ugly, nasty, rude	adj
+equilibrar	to balance	v
+asomar	to appear, show, stick (out)	v
+optar	to choose, opt for	v
+manejo	handling, management	nm
+lágrima	tear, teardrop	nf
+colaboración	collaboration	nf
+orgulloso	proud, arrogant [also soberbio]	adj
+ángulo	angle	nm
+impacto	impact	nm
+urgencia	urgency	nf
+excepcional	exceptional, unusual	adj
+creador	creator	nm
+luna	moon	nf
+instalación	installation, facilities	nf
+homenaje	homage, tribute	nm
+ruina	ruin, collapse	nf
+generoso	generous	adj
+académico	academic	adj
+azar	random, chance, hazard	nm

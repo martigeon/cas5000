@@ -1,0 +1,100 @@
+firmeza	firmness	nf
+indudable	unquestionable	adj
+colina	hill, slope	nf
+parcela	piece of property	nf
+jaula	cage, crate, playpen	nf
+ajuste	adjustment, settlement	nm
+lateral	side, lateral	adj
+entierro	burial	nm
+reventar	to burst, puncture	v
+servidor	servant	nm/f
+superioridad	superiority	nf
+turismo	tourism	nm
+barbaridad	atrocity	nf
+rollo	roll, coil	nm
+arbitrario	arbitrary, high-handed	adj
+triángulo	triangle	nm
+aislamiento	isolation	nm
+alivio	relief, unburdening	nm
+entrenamiento	training	nm
+truco	trick, ruse	nm
+respetable	respectable	adj
+disparate	nonsense, blunder	nm
+cocinero	cook	nm/f
+aburrir	to bore, tire	v
+diminuto	diminutive, tiny, minute	adj
+celeste	heavenly, sky-blue	adj
+fotógrafo	photographer	nm/f
+imposición	imposition	nf
+diluir	to dilute, weaken	v
+convincente	convincing (adj)	adj
+consuelo	comfort, consolation	nm
+periodístico	journalistic	adj
+cariñoso	affectionate	adj
+transmisión	broadcast, transmission	nf
+titular	to title, call (v)	v
+sendero	foot path	nm
+frecuentar	to frequent, visit	v
+desacuerdo	disagreement	nm
+academia	academy	nf
+acertado	correct, accurate	adj
+catedral	cathedral	nf
+mediocre	mediocre	adj
+vanguardia	vanguard, forefront	nf
+desafiar	to defy, stand up to	v
+agitado	agitated, irritated	adj
+precario	precarious	adj
+sanitario	health, sanitary, clean	adj
+comprensible	understandable	adj
+cuidadoso	careful, cautious	adj
+despojar	to deprive, rob	v
+embarazo	pregnancy	nm
+imposibilidad	impossibility	nf
+irracional	irrational	adj
+reinar	to reign, prevail	v
+hundido	buried, sunken	adj
+reportaje	news report	nm
+tambor	drum	nm
+fundación	foundation	nf
+transparencia	transparency, slide	nf
+elegancia	elegance, style	nf
+criminal	criminal (nc)	adj
+elogio	praise, eulogy, compliment	nm
+manta	blanket	nf
+dinámico	dynamic	adj
+hervir	to boil	v
+sereno	serene, calm	adj
+retirado	retired, remote, secluded	adj
+alerta	alert	nf
+sinceridad	sincerity	nf
+cátedra	academic chair	nf
+refinado	refined	adj
+repertorio	repertoire, list, index	nm
+plancha	electric iron, plate, sheet	nf
+terraza	terrace, balcony	nf
+gala	gala (performance/dinner)	nf
+era	era, age	nf
+arranque	start, outburst, kick-start	nm
+patada	kick, punt	nf
+disculpar	to excuse	v
+lapso	lapse	nm
+sudor	sweat, perspiration	nm
+apetito	appetite	nm
+íntimamente	intimately	adv
+indicación	indication	nf
+perdurar	to last, live on, endure	v
+aliado	ally	nm
+presidencia	presidency	nf
+maldito	damned, wretched	adj
+consejero	advisor, counselor	nm/f
+inundar	to flood, inundate	v
+consigna	watchword, motto, slogan	nf
+cortesía	courtesy	nf
+inmóvil	immovable, motionless	adj
+atributo	attribute, quality	nm
+furia	fury, rage	nf
+grosero	crude, rude, crass	adj
+catalán	Catalan	adj
+estatura	stature, height	nf
+vejez	old age	nf
+terremoto	earthquake	nm

@@ -1,0 +1,100 @@
+demostrar	to show, demonstrate	v
+significar	to mean	v
+posición	position	nf
+motivo	motive, cause, motif	nm
+prueba	proof, trial, test	nf
+política	politics, policy	nf
+nacional	national	adj
+lleno	full, filled (as an object would de filled)	adj
+reunir	to put togerther, to get together [also juntar]	v
+faltar	to be lacking	v
+por supuesto	supposed: of course	adj
+acompañar	to accompany	v
+dato	data, fact	nm
+fácil	easy	adj
+desear	to want, desire, wish for	v
+adelante	forward, further	adv
+empresa	firm, company, venture	nf
+asunto	matter, issue, affair	nm
+presencia	presence, appearance	nf
+suyo	his, hers, yours, theirs (formal)	pron
+cultura	culture	nf
+serie	series	nf
+millón	million, fortune	num
+enseñar	to teach, show	v
+construir	to construct, build	v
+vender	to sell	v
+representar	to represent	v
+desaparecer	to disappear, vanish	v
+mandar	to send, order	v
+carácter	personality, nature	nm
+mayoría	majority	nf
+escuela	school	nf
+rojo	red	adj
+tras	after, behind	prep
+superior	superior, upper	adj
+andar	to walk&nbsp;[also caminar]	nm
+corto	short, brief	adj
+autor	writer, author	nm/f
+hermano	brother, [pl] siblings	nm
+conocido	known, well-known	adj
+preferir	to prefer	v
+asegurar	to assure, secure, insure	v
+función	function, meeting	nf
+arriba	up above	adv
+serio	serious	adj
+causa	cause	nf
+suficiente	sufficient, enough	adj
+grave	serious, solemn	adj
+decisión	decision	nf
+música	music	nf
+extraño	strange, foreign	adj
+crecer	to grow, increase	v
+surgir	to appear, spring forth	v
+tú	you (subj singular familiar)	pron
+expresión	expression	nf
+alrededor	about, around, round (adv)	adv
+matar	to kill	v
+entregar	to deliver	v
+río	river	nm
+seguridad	security, safety	nf
+término	term (language), end	nm
+colocar	to place, position	v
+metro	meter (unit of measure), subway	nm
+médico	doctor (nm/f)	adj
+establecer	to establish	v
+guardar	to keep, save	v
+arte	art, skill	nm
+iniciar	to initiate, start	v
+bajar	to come down, let down	v
+consecuencia	consequence	nf
+notar	to notice [also percibir]	v
+acto	act, action	nm
+meter	to put into	v
+absoluto	absolute	adj
+pena	trouble (be of worth)	nf
+actuar	to act	v
+segundo	second (nm)	nm
+altura	height, altitude	nf
+deseo	desire, wish	nm
+precisamente	precisely	adv
+joven	teenager, young person (nc)	nc
+veinte	twenty	num
+sueño	dream, sleep	nm
+pretender	to attempt	v
+tarea	task, job	nf
+carta	letter, playing card	nf
+apenas	hardly, barely	adv
+propiedad	property	nf
+producto	product	nm
+personal	personal (adj)	adj
+simplemente	simply, just	adv
+imposible	impossible	adj
+gusto	pleasure, taste, preference	nm
+ayuda	help, aid	nf
+acordar	to remember, remind	v
+lengua	language, tongue, strip of land	nf
+cortar	to cut	v
+plan	plan	nm
+corresponder	to correspond with	v
+vuelta	return, turn	nf

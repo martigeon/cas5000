@@ -1,0 +1,100 @@
+latente	latent	adj
+rebelión	rebellion	nf
+hígado	liver	nm
+aparentar	to give the appearance	v
+holandés	Dutch	adj
+tablero	board, panel	nm
+enterrado	buried	adj
+imitación	imitation	nf
+adelanto	advance, progress [also avance]	nm
+celoso	jealous	adj
+oscurecer	to get dark	v
+constitucional	constitutional	adj
+intervalo	interval, gap	nm
+trago	drink, [a] swallow	nm
+fracción	fraction	nf
+convento	convent, monastery	nm
+arroyo	brook, stream, gutter	nm
+circular	circular (adj)	v
+enlace	link, connection, bond	nm
+torcer	to twist, bend, distort	v
+derramar	to shed, pour out	v
+diccionario	dictionary	nm
+reflejado	reflected	adj
+afueras	outskirts, suburbs	nf
+agravar	to aggravate, worsen	v
+ceja	eyebrow, brow	nf
+detallado	detailed, thorough	adj
+interponer	to interpose, intervene	v
+topar	to run into, bump into	v
+constitución	constitution	nf
+enlazar	to link, connect	v
+clasificación	classification	nf
+atrapado	trapped	adj
+lío	mess, problem, bad situation	nm
+sede	headquarters, seat	nf
+colar	to slip in	v
+altamente	highly	adv
+litro	liter	nm
+bandeja	tray	nf
+aproximación	approximation	nf
+liviano	light, frivolous	adj
+entusiasmado	enthused, excited	adj
+trapo	rag, cloth	nm
+conocedor	expert, judge, connoisseur	nm
+encaminar	to head for, guide	v
+altar	altar	nm
+acierto	good aim, guess, hit	nm
+piloto	pilot, driver	nm/f
+susceptible	susceptible	adj
+inolvidable	unforgettable	adj
+invocar	to invoke	v
+computadora	computer	nf
+ostentar	to flaunt, show off	v
+alambre	wire	nm
+mango	handle, mango	nm
+configurar	to form, configure	v
+rosario	rosary, beads, string	nm
+reconstrucción	reconstruction	nf
+parroquia	parish	nf
+ruidoso	noisy	adj
+supuestamente	supposedly, allegedly	adv
+ampliamente	widely	adv
+gigante	gigantic (adj)	adj
+prevalecer	to prevail	v
+comprador	buyer	nm
+piedad	pity, mercy	nf
+semanal	weekly	adj
+clandestino	undercover, clandestine	adj
+defensivo	defensive	adj
+manual	manual (adj)	nm
+engendrar	to engender, beget	v
+contagiar	to infect, infest	v
+niebla	fog	nf
+adonde	to where	adv
+consagrar	to consecrate, establish	v
+mixto	mixed, co-ed	adj
+verbo	verb	nm
+cadera	hip	nf
+procesión	procession	nf
+encuesta	poll, survey, inquiry	nf
+cría	breeding, raising	nf
+narración	narration, account	nf
+ramo	bunch of flowers, branch	nm
+penal	penal	adj
+traidor	traitor	nm
+catálogo	catalog	nm
+protector	protector, defender	nm
+amparo	protection, shelter	nm
+farmacia	pharmacy, drugstore	nf
+cima	summit, peak, top	nf
+riñón	kidney	nm
+pintoresco	picturesque	adj
+finca	property, estate	nf
+calificación	evaluation, qualification	nf
+caudal	volume, abundance, fortune	nm
+publicitario	advertising	adj
+trastorno	confusion, trouble, upheaval	nm
+ceñir	to adhere to, fit tightly, encircle	v
+jovencito	young person	nm
+incorporación	inclusion, incorporation	nf

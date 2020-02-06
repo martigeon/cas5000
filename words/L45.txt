@@ -1,0 +1,100 @@
+princesa	princess	nf
+decididamente	decidedly, decisively	adv
+embajada	embassy	nf
+apagado	turned off	adj
+bruscamente	quickly, sharply	adv
+vincular	to connect, link, bind	v
+amargura	bitterness, sorrow	nf
+fortalecer	to fortify	v
+validez	validity	nf
+tacto	sense of touch, feel	nm
+codo	elbow	nm
+vibrar	to vibrate, tremble	v
+calzar	to wear shoes	v
+chimenea	chimney, fireplace	nf
+comunitario	of the community	adj
+explícito	explicit	adj
+silvestre	wild	adj
+evaluar	to evaluate, assess	v
+emocionar	to move, make/get excited	v
+editar	to edit, publish, release	v
+abanico	range, handheld fan	nm
+fiscal	fiscal, treasury (adj)	adj
+espacial	spatial, space	adj
+violentamente	violently	adv
+medieval	medieval	adj
+camiseta	T-shirt	nf
+honrado	honest, respectable	adj
+veloz	fast, quick	adj
+corteza	bark, crust, rind, peel	nf
+sumergir	to submerge, plunge	v
+cordillera	mountain range	nf
+monótono	monotonous	adj
+longitud	length, longitude	nf
+espantar	to scare, frighten	v
+imprevisto	unforeseen, unexpected	adj
+psicología	psychology	nf
+soviético	Soviet	adj
+potencial	potential	adj
+ambulante	traveling	adj
+agrupar	to put in a group	v
+exageración	exaggeration	nf
+apreciación	appreciation, assessment	nf
+perverso	perverse, wicked	adj
+estallido	crash, outbreak, explosion	nm
+ardiente	passionate, ardent	adj
+talón	heel, check, coupon, stub	nm
+atener	to abide by, comply with	v
+colchón	mattress	nm
+tenue	tenuous, flimsy	adj
+tinte	tint, dye	nm
+indiscutible	indisputable, unquestionable	adj
+imprenta	printing house	nf
+bastón	walking cane	nm
+sombrío	shady, dark, dismal	adj
+humillación	humiliation	nf
+trance	trance, fix, enrapture	nm
+volante	steering wheel	nm
+adolescente	adolescent (adj)	nc
+encabezar	to head, lead off	v
+rosado	pink, rosy	adj
+amistoso	friendly	adj
+noble	nobleman, noble (nc)	nc
+radicalmente	radically	adv
+reclamo	claim, complaint, protest	nm
+asesor	adviser, consultant	nm/f
+perteneciente	pertaining, belonging	adj
+novelista	novelist	nc
+herido	wounded (person) (nm)	nm
+necesitado	poor, needy	adj
+indefinido	vague, indefinite	adj
+solidario	united, jointly shared	adj
+paralizado	paralyzed	adj
+grueso	bulk, mass (nm)	nm
+chupar	to suck	v
+grabación	recording	nf
+frasco	bottle, jar, flask	nm
+inquietante	disquieting	adj
+visual	visual	adj
+verdura	vegetables, greenery	nf
+violación	violation, rape	nf
+innovación	innovation	nf
+tertulia	get-together, meeting of friends	nf
+carcajada	hearty laughter, guffaw	nf
+cancha	playing field, court	nf
+republicano	republican	adj
+destruido	destroyed	adj
+aburrimiento	boredom	nm
+trabajador	hardworking (adj)	nm/f
+inquietar	to make uneasy, disturb	v
+grandioso	magnificent, grandiose	adj
+específicamente	specifically	adv
+exportación	export, exportation	nf
+extremadamente	extremely	adv
+expandir	to expand	v
+predecir	to predict	v
+dichoso	fortunate, happy	adj
+condicionar	to condition, determine	v
+agrario	agrarian, agricultural	adj
+suizo	Swiss	adj
+presunto	alleged, presumed	adj

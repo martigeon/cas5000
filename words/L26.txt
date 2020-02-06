@@ -1,0 +1,100 @@
+trágico	tragic	adj
+imprimir	to print	v
+camión	truck, van, tanker	nm
+olvido	forgetfulness, omission	nm
+estrategia	strategy	nf
+muchacha	girl	nf
+conversar	to converse, talk	v
+propaganda	advertising, propaganda	nf
+lamentar	to regret	v
+misa	religious mass	nf
+alzar	to lift, raise	v
+inicio	beginning, start	nm
+fútbol	soccer	nm
+esfera	sphere, globe	nf
+iluminar	to illuminate, light up	v
+arquitectura	architecture	nf
+especialidad	specialty, specialized field	nf
+músico	musician	nm/f
+relativamente	relatively	adv
+eh	eh	interj
+eje	axis, shaft, crux	nm
+guiar	to guide, lead, steer	v
+efectuar	to carry out, cause to happen	v
+abandono	abandonment, desertion	nm
+museo	museum	nm
+propietario	owner	nm
+trozo	piece, chunk	nm
+riguroso	rigorous, severe	adj
+armonía	harmony	nf
+pacto	pact, agreement	nm
+calentar	to warm, heat	v
+atento	attentive, careful, polite	adj
+selección	selection, choice	nf
+proseguir	to continue, carry on	v
+incómodo	uncomfortable	adj
+protagonista	protagonist, main character	nc
+ferrocarril	railway	nm
+inocente	innocent, naïve	adj
+fatal	fateful, deadly, awful	adj
+intimidad	private life, intimacy	nf
+enfrente	in front of	adv
+nave	spacecraft, ship	nf
+oración	prayer	nf
+cansancio	tiredness, weariness	nm
+noble	noble (adj)	adj
+escondido	hidden	adj
+tejido	fabric, tissue	nm
+hacer trampa	to cheat	nf
+hondo	deep	adj
+descripción	description	nf
+pecado	sin	nm
+cansar	to tire, annoy	v
+divertido	funny, amusing	adj
+injusticia	injustice	nf
+heredar	to inherit	v
+librar	to liberate, set free	v
+adiós	goodbye	nm
+brillar	to shine, twinkle, be outstanding	v
+rescatar	to rescue, save	v
+tabaco	tobacco, cigarette, cigar	nm
+juvenil	young, juvenile	adj
+ausente	absent	adj
+suceso	event, incident	nm
+extrañar	to miss, long for	v
+asustar	to frighten, scare	v
+mediado	mid, middle	adj
+antecedente	antecedent	nm
+barrera	barrier, obstacle	nf
+estético	esthetic	adj
+anotar	to annotate, jot, note	v
+tribunal	court	nm
+bravo	fierce, angry	adj
+invasión	invasion	nf
+septiembre	September	nm
+dependencia	dependence, dependency	nf
+democracia	democracy	nf
+sutil	subtle	adj
+maduro	mature, ripe	adj
+mezclado	mixed	adj
+remontar	to go back to (time)	v
+limitación	limitation	nf
+lindo	pretty, nice, lovely	adj
+invitado	guest	nm
+pescado	fish (cooked)	nm
+continuamente	continuously	adv
+obvio	obvious	adj
+estrictamente	strictly	adv
+obstáculo	obstacle	nm
+aspiración	ambition, aspiration	nf
+simpático	nice, likeable, friendly	adj
+corredor	broker, corridor, runner	nm/f
+exquisito	exquisite, superb	adj
+resumen	summary	nm
+basura	garbage, rubbish	nf
+escalera	stairs, ladder	nf
+gravedad	seriousness, gravity	nf
+fundamento	foundation, ground	nm
+sustancia	substance, essence	nf
+convocar	to convene, summon	v
+harto	fed up with	adj

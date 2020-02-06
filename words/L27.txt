@@ -1,0 +1,100 @@
+derrota	defeat, loss	nf
+sospecha	suspicion	nf
+exagerado	exaggerated	adj
+huelga	strike, protest	nf
+abuso	abuse, misuse	nm
+jueves	Thursday	nm
+arreglo	arrangement	nm
+sal	salt	nf
+dosis	dose	nf
+acento	accent, stress	nm
+aviso	warning	nm
+lazo	bow, knot, tie, lasso	nm
+conservador	conservative	adj
+entorno	environment, surroundings	nm
+nieto	grandchild	nm
+príncipe	prince	nm
+imprescindible	essential, indispensable	adj
+mediodía	noon, midday	nm
+gota	drop	nf
+cajón	drawer	nm
+generalizar	to generalize, popularize	v
+señorita	young woman	nf
+preferencia	preference	nf
+habitar	to inhabit	v
+pozo	well, shaft	nm
+rumor	rumor, murmur	nm
+armar	to arm, put together	v
+concurso	competition, gathering	nm
+tesoro	treasure, thesaurus	nm
+presupuesto	budget	nm
+rural	rural, country	adj
+vigilancia	surveillance, vigilance	nf
+supremo	supreme	adj
+confuso	confused, mixed up	adj
+presa	dam, prisoner (f)	nf
+estómago	stomach	nm
+anular	to annul, cancel	v
+decisivo	decisive, conclusive	adj
+bola	ball, sphere	nf
+determinación	determination	nf
+reforma	reform, improvement	nf
+bruto	brutal, coarse, clumsy	adj
+verso	verse, poem	nm
+requisito	prerequisite, requirement	nm
+adolescente	adolescent (nc)	adj
+sentimental	sentimental	adj
+herido	wounded, injured (adj)	adj
+kilo	kilogram	nm
+alargar	to enlarge, elongate	v
+conquista	conquest	nf
+luminoso	bright, luminous	adj
+particularmente	particularly, personally	adv
+filósofo	philosopher	nm
+genio	genius, temper, genie	nm
+sucesión	succession, series	nf
+componente	component, ingredient	nm
+transparente	transparent, clear	adj
+sufrimiento	suffering	nm
+aparente	apparent	adj
+entidad	entity	nf
+saludo	greeting	nm
+estimular	to stimulate, encourage	v
+certeza	certainty	nf
+depósito	deposit, sediment	nm
+húmedo	humid, damp	adj
+pasillo	hall, corridor	nm
+pisar	to step on	v
+solidaridad	solidarity, togetherness	nf
+papa	Pope (m), potato (f)	nm
+geografía	geography	nf
+leve	slight, trifling, light	adj
+juguete	toy	nm
+violar	to violate, trespass, rape	v
+chiste	joke, funny story	nm
+aprendizaje	learning, apprenticeship	nm
+esposo	husband, spouse	nm
+boda	marriage, wedding	nf
+realista	realistic	adj
+fresco	freshness, coolness (nm)	nm
+lago	lake	nm
+enriquecer	to enrich	v
+prestado	borrowed, lent	adj
+orientación	orientation, direction	nf
+madurez	maturity, ripeness	nf
+adulto	adult, grown-up (adj)	nm
+municipal	municipal, town	adj
+demostración	demonstration	nf
+fundamentalmente	fundamentally, basically	adv
+alegrar	to be/make happy	v
+transportar	to transport, carry	v
+cumplimiento	fulfillment, compliment	nm
+respaldo	support, backing, back	nm
+superficial	superficial	adj
+dieciocho	eighteen	num
+incendio	fire, conflagration	nm
+dorado	golden, gold-plated	adj
+triunfar	to triumph	v
+joya	jewel, treasure	nf
+favorito	favorite	adj
+cementerio	cemetery, graveyard	nm

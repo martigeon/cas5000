@@ -1,0 +1,100 @@
+realidad	reality, actuality	nf
+entender	to understand [also comprender]	v
+pedir	to ask for, request	v
+recibir	to receive	v
+obra	work, book, deed	nf
+importante	important	adj
+medio	half, middle (adj)	nm
+verdad	truth	nf
+mes	month	nm
+todavía	still, yet [also aún]	adv
+razón	reason	nf
+en cuanto a	in terms of, regarding	adj
+bajo	under, underneath (prep)	adj
+recordar	to remember, remind	v
+grupo	group	nm
+mil	thousand	num
+humano	human (adj)	adj
+terminar	to finish, end [also acabar]	v
+permitir	to allow, permit	v
+aparecer	to appear	v
+conseguir	to get, achieve	v
+comenzar	to begin, start [also empezar]	v
+varios	several, various	adj
+posible	possible	adj
+servir	to serve	v
+general	general (adj)	adj
+sacar	to take out	v
+necesitar	to need	v
+relación	relationship, relation	nf
+cinco	five	num
+cuerpo	body	nm
+nadie	nobody, anybody	pron
+mantener	to keep, maintain	v
+hecho	fact, happening	nm
+ante	before, in the presence of	prep
+principio	beginning, principle	nm
+resultar	to result, turn out	v
+igual	equal, same as	adj
+señor	sir, Mr., lord	nm
+pueblo	people, village	nm
+tarde	afternoon, evening (nf)	adv
+segundo	second (adj)	adj
+leer	to read	v
+caer	to fall	v
+cambiar	to change	v
+ojo	eye	nm
+calle	street	nf
+presentar	to introduce, present	v
+blanco	white	adj
+crear	to create	v
+abrir	to open	v
+libro	book	nm
+distinto	distinct, different	adj
+fuerza	strength, force, power	nf
+luz	light	nf
+según	according to	prep
+santo	saint (m)	nm
+claro	clear (adj)	adj
+al frente	facing; across from	nmf
+considerar	to consider	v
+amigo	friend	nm
+oír	to hear	v
+cuyo	whose	adj
+sentido	sense, feeling	nm
+acabar	to finish, end [also terminar]	v
+paso	step, pace	nm
+situación	situation	nf
+usted	you (subj formal)	pron
+bastante	rather, fairly, quite a bit	adj adv
+convertir	to convert, change, become	v
+gracia	thank you, grace, favor	nf
+siglo	century, age	nm
+dios	god, divinity	nm
+malo	bad	adj
+tierra	earth, land, ground	nf
+papel	paper, role, part	nm
+madre	mother	nf
+tampoco	neither, nor, either	adv
+social	social	adj
+viejo	old, aged	adj
+aún	still, yet [also todavía]	adv
+tema	theme, subject, topic	nm
+político	political (adj)	adj
+español	Spanish	adj
+ganar	to win, earn	v
+formar	to form	v
+clase	kind, class, order	nf
+traer	to bring, carry	v
+partir	to leave, split	v
+dinero	money	nm
+quién	who?, whom?	pron
+morir	to die	v
+incluso	including, even (adv)	adv
+campo	field, country	nm
+aceptar	to accept	v
+quizá	perhaps, maybe	adv
+cabeza	head (part of body)	nf
+realizar	to fulfill, carry out	v
+ciento	hundred (num)	num
+mal	badly (adv)	adv

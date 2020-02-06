@@ -1,0 +1,100 @@
+ejemplar	copy, issue (nm)	adj
+extraer	to extract, take out	v
+cura	priest (m), cure (f)	nmf
+apagar	to turn off, extinguish	v
+prever	to foresee, anticipate, forecast	v
+garantía	guarantee, warranty	nf
+vaso	drinking glass, vase	nm
+perfil	profile, outline	nm
+proporción	proportion	nf
+expulsar	to expel, throw out	v
+ceremonia	ceremony	nf
+vidrio	glass, pane	nm
+ruta	route	nf
+anuncio	advertisement, announcement	nm
+trece	thirteen	num
+soledad	loneliness, solitude	nf
+tesis	thesis, exposition	nf
+rincón	corner, nook	nm
+nariz	nose	nf
+ochenta	eighty	num
+bolsillo	pocket	nm
+exhibir	to exhibit, show off	v
+asociación	association	nf
+fresco	cool, healthy, fresh (adj)	adj
+mando	command, authority	nm
+sabor	taste, flavor, sensation	nm
+década	decade	nf
+preparación	preparation, training	nf
+tapar	to cover, wrap	v
+acceder	to consent, agree, accede	v
+atractivo	attractive (adj)	adj
+afecto	affection, fondness	nm
+encender	to turn on	v
+protesta	objection, protest	nf
+patria	native land, fatherland	nf
+consumo	consumption	nm
+católico	Catholic	adj
+selva	forest, jungle	nf
+deuda	debt	nf
+horizonte	horizon	nm
+disparar	to shoot at	v
+masculino	masculine, manly, male	adj
+talento	talent, skill	nm
+gas	gas	nm
+té	tea	pron
+gloria	glory, fame	nf
+cansado	tired, tiresome	adj
+noviembre	November	nm
+candidato	candidate	nm
+llave	key, faucet, wrench	nf
+inconveniente	inconvenience, drawback	nm
+afán	eagerness, zeal, effort	nm
+atar	to tie (up)	v
+etcétera	etcetera	n
+comisión	commission, committee	nf
+desesperado	desperate, hopeless	adj
+generar	to generate	v
+posesión	possession	nf
+dama	lady, dame	nf
+onda	wave, ripple	nf
+botella	bottle, flask	nf
+torre	tower	nf
+abarcar	to encompass, comprise	v
+combinación	combination	nf
+cadáver	corpse, body	nm
+paquete	package, packet	nm
+apellido	last name	nm
+caído	fallen	adj
+japonés	Japanese	adj
+brindar	to offer	v
+conferencia	conference, lecture	nf
+espontáneo	spontaneous	adj
+propuesta	proposal, proposition	nf
+intensidad	intensity, force	nf
+explosión	explosion	nf
+urbano	urban, city, urbane	adj
+odio	hatred	nm
+valioso	valuable, precious	adj
+universo	universe	nm
+agudo	sharp, acute	adj
+milagro	miracle	nm
+entrega	delivery	nf
+derepente	suddenly	adv
+solucionar	to solve, settle	v
+mapa	map	nm
+héroe	hero	nm
+lunes	Monday	nm
+tráfico	traffic, trade	nm
+terror	terror, horror	nm
+casualidad	chance, coincidence	nf
+tonto	stupid, dumb	adj
+risa	laugh, chuckle	nf
+cuerda	cord, rope	nf
+consulta	consultation, advice	nf
+edición	edition, publication	nf
+acomodar	to accommodate, be/make comfortable	v
+rayo	ray, beam, lightning	nm
+cuadrado	square	adj
+tía	aunt	nf
+adulto	adult, grown-up (nm)	adj

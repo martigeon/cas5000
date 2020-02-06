@@ -1,0 +1,100 @@
+tranvía	trolley, tram, streetcar	nm
+alertar	to alert, warn	v
+cordón	cord, yarn, braid	nm
+prioridad	priority	nf
+modalidad	mode, manner	nf
+desenlace	outcome, result	nm
+bailarín	dancer	nm/f
+artefacto	artifact, device	nm
+trono	throne	nm
+adjetivo	adjective	nm
+gama	range, musical scale	nf
+enfermar	to become ill	v
+gabinete	cabinet, den, office	nm
+indagar	to investigate [also investigar]	v
+vertiginoso	dizzying	adj
+decente	respectable, decent	adj
+congelado	frozen	adj
+peón	unskilled laborer, field hand	nm
+triple	triple	adj
+inspector	inspector	nm/f
+órbita	orbit, socket, field	nf
+autopista	freeway, motorway	nf
+prosa	prose	nf
+paréntesis	parenthesis, digression	nm
+fabricación	manufacture, production	nf
+lesión	injury, wound, harm	nf
+mejilla	cheek	nf
+inseguro	unsure, unsafe	adj
+muelle	wharf, dock	nm
+velo	veil	nm
+decoración	decoration	nf
+rancho	ranch, farm	nm
+exceder	to exceed, excel	v
+joder	to fuck, screw (around/up)	v
+irónico	ironic, mocking	adj
+alarmar	to alarm	v
+negociación	negotiation	nf
+euforia	euphoria, elation	nf
+convencimiento	convincing (nm)	nm
+asombrado	amazed, bewildered	adj
+rascar	to scratch, scrape	v
+desconcierto	disorder, chaos	nm
+economista	economist	nm/f
+oficialmente	officially	adv
+sofisticado	sophisticated	adj
+sobra	excess, surplus, leftover	nf
+enredar	to entangle, ensnare	v
+ingenioso	ingenious, clever	adj
+tasa	rate, fee, levy	nf
+balanza	balance, (measuring) scale	nf
+factura	invoice, bill	nf
+hormiga	ant	nf
+vulnerable	vulnerable	adj
+oso	bear	nm
+trazo	line, stroke	nm
+geométrico	geometric	adj
+suspirar	to sigh	v
+gusano	worm, caterpillar	nm
+bendito	blessed	adj
+conferir	to confer	v
+manía	obsession, mania	nf
+disculpa	apology, excuse	nf
+trascendente	transcendent	adj
+alarmante	alarming	adj
+pequeñito	very small, tiny	adj
+predominar	to predominate	v
+metáfora	metaphor	nf
+penetración	penetration, insight	nf
+pasajero	fleeting, transitory (adj)	nm
+whisky	whisky	nm
+turístico	tourist (adj)	adj
+despejar	to clear up	v
+delirio	delirium, nonsense	nm
+impecable	impeccable, faultless	adj
+soberbio	proud, arrogant [also orgulloso]	adj
+librería	bookstore	nf
+documentación	documentation	nf
+sonriente	smiling	adj
+decena	ten (of something)	nf
+nulo	void, null	adj
+tigre	tiger	nm
+premiar	to award	v
+implacable	relentless, implacable	adj
+senda	path, lane	nf
+temperamento	temperament, personality	nm
+brevemente	briefly	adv
+desayunar	to have breakfast	v
+productivo	productive, profitable	adj
+dicha	fortune, happiness, luck	nf
+andaluz	Andalusian	adj
+acta	meeting proceedings, minutes	nf_el
+cera	wax	nf
+tanque	tank, large container	nm
+institucional	institutional	adj
+vigoroso	vigorous, strong	adj
+batería	battery, gun deck	nf
+crema	cream	nf
+atroz	atrocious	adj
+entretenimiento	entertainment	nm
+pala	shovel	nf

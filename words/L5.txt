@@ -1,0 +1,100 @@
+mover	to move, incite	v
+continuar	to continue	v
+cantidad	quantity, amount	nf
+acción	action, act, deed	nf
+suceder	to happen	v
+fijar	to set, fix, [se] notice	v
+sociedad	society	nf
+referir	to refer to, tell	v
+acercar	to come near	v
+capaz	capable, able	adj
+bajo	short, low (adj)	prep
+libre	free, vacant	adj
+natural	natural	adj
+dedicar	to dedicate, devote	v
+realmente	really, actually, in fact	adv
+peso	peso (money), weight, load	nm
+efecto	effect	nm
+objeto	object, thing	nm
+verdadero	true, real	adj
+dónde	where?	conj
+aprender	to learn	v
+amor	love	nm
+muerte	death	nf
+partido	party, group, sports match	nm
+económico	economic	adj
+derecho	right, justice, law (nm)	adj
+poder	power (nm)	v
+importancia	importance	nf
+sistema	system	nm
+viaje	travel, trip	nm
+suelo	ground, floor	nm
+respecto	respect: with regards to	nm
+conocimiento	knowledge	nm
+libertad	freedom, liberty	nf
+encima	above, on top, in addition	adv
+comprar	to buy	v
+común	common	adj
+abierto	open, unlocked	adj
+próximo	next	adj
+atención	attention	nf
+joven	young (adj)	adj
+subir	to go up	v
+esfuerzo	effort, endeavor	nm
+pasado	past, last (adj)	adj
+evitar	to avoid, prevent [also prevenir]	v
+resto	rest, remainder, leftover	nm
+interesar	to interest	v
+ladrón	thief	nm
+zona	area, zone (nf)	nf
+miedo	fear [also temor]	nm
+fuera	out, outside, away	adv
+proceso	process, procedure	nm
+vivo	alive, bright	adj
+cerrar	to close	v
+echar	to throw	v
+responder	to answer, respond	v
+sufrir	to suffer, undergo	v
+completo	complete	adj
+minuto	minute	nm
+contrario	contrary, opposite	adj
+mesa	table, board	nf
+real	royal, real, authentic	adj
+ocasión	opportunity, occasion	nf
+importar	to matter, import	v
+público	public (adj)	adj
+obtener	to obtain	v
+programa	program, plan	nm
+favor	favor, benefit	nm
+lejos	far away, far off	adv
+siete	seven	num
+enorme	enormous, vast	adj
+respuesta	answer, reply	nf
+línea	line, course	nf
+espacio	space, room	nm
+nivel	level	nm
+gobierno	government	nm
+cabo	end, bit	nm
+observar	to observe, to notice	v
+indicar	to indicate	v
+alguien	somebody, someone, anyone	pron
+pregunta	question	nf
+claro	of course, clearly (adv)	adv
+atrás	behind	adv
+imagen	image, picture	nf
+carrera	career, course, race	nf
+imaginar	to imagine	v
+soler	to be accustomed to [also acostumbrar]	v
+ambos	both	adj
+profundo	deep, profound	adj
+detener	to stop, detain	v
+desarrollar	to develop	v
+ocho	eight	num
+señalar	to point out, signal	v
+elegir	to choose, elect	v
+figura	figure	nf
+principal	main, principal	adj
+animal	animal	nm
+base	base, basis	nf
+preparar	to prepare	v
+proponer	to propose	v
